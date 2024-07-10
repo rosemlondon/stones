@@ -12,6 +12,32 @@
     <script src="https://unpkg.com/three-spritetext"></script>
     <link rel="stylesheet" type="text/css" href="3d-force-graph.css">
 </head>
+<style>
+    body {
+        margin: 0;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: stretch;
+    }
+    #graph-container {
+        flex: 1;
+        position: relative;
+    }
+    .dataset-options {
+        position: absolute;
+        bottom: 40px;
+        left: 10px;
+        display: flex;
+        flex-direction: column; /* Change this line */
+        gap: 10px;
+    }
+    .dataset-option img {
+        width: 100px;
+        height: 100px;
+        cursor: pointer;
+    }
+</style>
 <body>
     <div id="3d-graph"></div>
     <button id="pause-btn">Pause</button>
@@ -20,111 +46,130 @@
         <div id="info-header"> Info</div>
         <div id="info-content">
           <p>Pulling down the stones is a walking journal and data visualisation experiment, mapping the landmarks of the Old Stones pilgrimage - a three-day walk through the main neolithic monuments across the peak district - onto a 3D force-directed node graph. Force-directed graph algorithms use physical simulation to position nodes in three-dimensional space, where the forces mimic attraction and repulsion to represent the strength and nature of their connections. This algorithm helps to visually organize and reveal the underlying structure of complex networks. </p>
-        <p>This graph visualises data scraped from web forums and my journal after completing this walk in April 2024. The aim is to represent maps and walking differently. The work is built using the JavaScript library Three.js. Click on a node to see some stones. </p>
-        </p>
+          <p>This graph visualises data scraped from web forums and my journal after completing this walk in April 2024. The aim is to represent maps and walking differently. The work is built using the JavaScript library Three.js. Click on a location on the left to change dataset to a different location on the walk.</p>
         </div>
       </div>
-      <script src="drag.js"></script>
-      <script src="info.js"></script>
     <div id="image-container">
         <img id="node-image" src="" alt="Node Image">
     </div>
+    <!-- Dataset options in the bottom right corner -->
+    <div class="dataset-options">
+        <div class="dataset-option">
+            <img src="/src/images/arborlowdataset.PNG" alt="Arbor Low" title="Arbor Low" onclick="changeDataset('narrative1.json')">
+        </div>
+        <div class="dataset-option">
+            <img src="/src/images/carlwarkdataset.jpg" alt="Carl Wark" title="Carl Wark" onclick="changeDataset('test-dataset.json')">
+        </div>
+        <div class="dataset-option">
+            <img src="/src/images/robinhoodsdataset.PNG" alt="Robin Hood's Stride" title="Robin Hood's Stride" onclick="changeDataset('narrative3.json')">
+        </div>
+        <div class="dataset-option">
+            <img src="/src/images/minninglowhilldataset.PNG" alt="Minninglow Hill" title="Minninglow Hill" onclick="changeDataset('narrative4.json')">
+        </div>
+        <div class="dataset-option">
+            <img src="src/images/arbor_hillshade.jpg" alt="Full Dataset" alt="Default Dataset" onclick="changeDataset('narrative5.json')">
+        </div>
+    </div>
+    <script src="drag.js"></script>
+    <script src="info.js"></script>
     <script>
-        const Graph = ForceGraph3D()
-            (document.getElementById('3d-graph'))
-            .jsonUrl('test-dataset.json')
-            .showNavInfo(false)
-            .nodeThreeObject(node => {
-                const sprite = new SpriteText(node.id);
-                sprite.color = 'black';
-                sprite.textHeight = 8;
-                return sprite;
-            })
-            .linkLabel(link => link.id)
-            .linkColor(() => 'black')
-            .nodeColor(() => 'black')
-            .backgroundColor('white')
-            .onNodeClick(node => {
-                console.log('clicked node:', node);
+        let Graph;
+        const imageContainer = document.getElementById('image-container');
+        const nodeImage = document.getElementById('node-image');
 
-                const { nodes, links } = Graph.graphData();
+        function initializeGraph(datasetUrl) {
+            if (Graph) {
+                Graph.graphData({ nodes: [], links: [] }); // Clear existing graph data
+            }
+            
+            Graph = ForceGraph3D()(document.getElementById('3d-graph'))
+                .jsonUrl(datasetUrl)
+                .showNavInfo(false)
+                .nodeThreeObject(node => {
+                    const sprite = new SpriteText(node.id);
+                    sprite.color = 'black';
+                    sprite.textHeight = 8;
+                    return sprite;
+                })
+                .linkLabel(link => link.id)
+                .linkColor(() => 'black')
+                .nodeColor(() => 'black')
+                .backgroundColor('white')
+                .onNodeClick(node => {
+                    console.log('clicked node:', node);
 
-                // Toggle the hidden status of the node
-                node.__hidden = !node.__hidden;
+                    const { nodes, links } = Graph.graphData();
 
-                // Update the visibility of the links connected to this node
-                links.forEach(link => {
-                    if (link.source.id === node.id || link.target.id === node.id) {
-                        link.__hidden = node.__hidden;
+                    // Toggle the hidden status of the node
+                    node.__hidden = !node.__hidden;
+
+                    // Update the visibility of the links connected to this node
+                    links.forEach(link => {
+                        if (link.source.id === node.id || link.target.id === node.id) {
+                            link.__hidden = node.__hidden;
+                        }
+                    });
+
+                    // Update the visibility of connected nodes
+                    nodes.forEach(n => {
+                        const isConnected = links.some(link => 
+                            (link.source.id === node.id && link.target.id === n.id) || 
+                            (link.target.id === node.id && link.source.id === n.id)
+                        );
+                        if (isConnected) {
+                            n.__hidden = node.__hidden;
+                        }
+                    });
+
+                    console.log('Updated nodes:', nodes);
+                    console.log('Updated links:', links);
+
+                    Graph.refresh();
+
+                    // Display the node's image
+                    if (node.image) {
+                        nodeImage.src = node.image;
+                        imageContainer.style.display = 'block';
+                        imageContainer.appendChild(nodeImage);
+                    } else {
+                        imageContainer.style.display = 'none';
                     }
+                })
+                .onNodeRightClick(node => {
+                    node.fx = node.fy = node.fz = null; // unfix node
                 });
 
-                // Update the visibility of connected nodes
-                nodes.forEach(n => {
-                    const isConnected = links.some(link => 
-                        (link.source.id === node.id && link.target.id === n.id) || 
-                        (link.target.id === node.id && link.source.id === n.id)
-                    );
-                    if (isConnected) {
-                        n.__hidden = node.__hidden;
-                    }
-                });
+            // Auto-orbit
+            let angle = 0;
+            const distance = 300;
+            let animationId;
 
-                console.log('Updated nodes:', nodes);
-                console.log('Updated links:', links);
+            function animate() {
+                animationId = requestAnimationFrame(animate);
+                angle += 0.005;
+                Graph.cameraPosition(
+                    { x: distance * Math.sin(angle), y: distance * Math.cos(angle), z: distance }
+                );
+            }
 
-                Graph.refresh();
+            animate(); // start animation
 
-                // Display the node's image
-                let imageCount = 0;
-
-                if (imageCount >= 3) {
-                    imageContainer.innerHTML = '';
-                    imageCount = 0;
-                }
-
-                const imageContainer = document.getElementById('image-container');
-                const nodeImage = document.getElementById('node-image');
-                if (node.image) {
-                    nodeImage.src = node.image;
-                    imageContainer.style.display = 'block';
-                    imageContainer.appendChild(nodeImage);
-                } else {
-                    imageContainer.style.display = 'none';
-                }
-            })
-            .onNodeRightClick(node => {
-                node.fx = node.fy = node.fz = null; // unfix node
+            document.getElementById('pause-btn').addEventListener('click', () => {
+                cancelAnimationFrame(animationId);
             });
 
-        // Auto-orbit
-        let angle = 0;
-        const distance = 300;
-        let animationId;
-
-        function animate() {
-            animationId = requestAnimationFrame(animate);
-            angle += 0.005;
-            Graph.cameraPosition(
-                { x: distance * Math.sin(angle), y: distance * Math.cos(angle), z: distance }
-            );
+            document.getElementById('resume-btn').addEventListener('click', () => {
+                animate();
+            });
         }
 
-        animate(); // start animation
+        function changeDataset(datasetName) {
+            initializeGraph(`datasets/${datasetName}`);
+        }
 
-        document.getElementById('pause-btn').addEventListener('click', () => {
-            cancelAnimationFrame(animationId);
-        });
-
-        document.getElementById('resume-btn').addEventListener('click', () => {
-            animate();
-        });
-
-
-        
+        // Initial dataset
+        changeDataset('narrative.json');
     </script>
-    </div>
-
     <div id="typing-container"></div>
     <script src="typingscript.js"></script>
 </body>
