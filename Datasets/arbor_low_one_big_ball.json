@@ -1,0 +1,4205 @@
+{
+  "nodes": [
+    {
+      "id": "arbor",
+      "group": 1
+    },
+    {
+      "id": "low",
+      "group": 1
+    },
+    {
+      "id": "dirt",
+      "group": 1
+    },
+    {
+      "id": "track",
+      "group": 1
+    },
+    {
+      "id": "hotsungreen",
+      "group": 1
+    },
+    {
+      "id": "bowl",
+      "group": 1
+    },
+    {
+      "id": "stones",
+      "group": 1
+    },
+    {
+      "id": "fallen",
+      "group": 1
+    },
+    {
+      "id": "neolithic",
+      "group": 1
+    },
+    {
+      "id": "gib_hill",
+      "group": 1
+    },
+    {
+      "id": "arbor_low",
+      "group": 1
+    },
+    {
+      "id": "white",
+      "group": 1
+    },
+    {
+      "id": "slabs",
+      "group": 1
+    },
+    {
+      "id": "middle",
+      "group": 1
+    },
+    {
+      "id": "cove",
+      "group": 1
+    },
+    {
+      "id": "burial",
+      "group": 1
+    },
+    {
+      "id": "mound",
+      "group": 1
+    },
+    {
+      "id": "oval",
+      "group": 1
+    },
+    {
+      "id": "ditch",
+      "group": 1
+    },
+    {
+      "id": "henge",
+      "group": 1
+    },
+    {
+      "id": "stonehenge_of_the_north",
+      "group": 1
+    },
+    {
+      "id": "leading",
+      "group": 1
+    },
+    {
+      "id": "dark",
+      "group": 1
+    },
+    {
+      "id": "lathkill",
+      "group": 1
+    },
+    {
+      "id": "dale",
+      "group": 1
+    },
+    {
+      "id": "recharging",
+      "group": 1
+    },
+    {
+      "id": "winnowing",
+      "group": 1
+    },
+    {
+      "id": "chaff",
+      "group": 1
+    },
+    {
+      "id": "grain",
+      "group": 1
+    },
+    {
+      "id": "ley_lines",
+      "group": 1
+    },
+    {
+      "id": "passing",
+      "group": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "arbor",
+      "target": "low",
+      "value": 1
+    },
+    {
+      "source": "arbor",
+      "target": "dirt",
+      "value": 7
+    },
+    {
+      "source": "arbor",
+      "target": "track",
+      "value": 9
+    },
+    {
+      "source": "arbor",
+      "target": "hotsungreen",
+      "value": 6
+    },
+    {
+      "source": "arbor",
+      "target": "bowl",
+      "value": 3
+    },
+    {
+      "source": "arbor",
+      "target": "stones",
+      "value": 9
+    },
+    {
+      "source": "arbor",
+      "target": "fallen",
+      "value": 10
+    },
+    {
+      "source": "arbor",
+      "target": "neolithic",
+      "value": 8
+    },
+    {
+      "source": "arbor",
+      "target": "gib_hill",
+      "value": 4
+    },
+    {
+      "source": "arbor",
+      "target": "arbor_low",
+      "value": 5
+    },
+    {
+      "source": "arbor",
+      "target": "white",
+      "value": 1
+    },
+    {
+      "source": "arbor",
+      "target": "slabs",
+      "value": 5
+    },
+    {
+      "source": "arbor",
+      "target": "middle",
+      "value": 8
+    },
+    {
+      "source": "arbor",
+      "target": "cove",
+      "value": 6
+    },
+    {
+      "source": "arbor",
+      "target": "burial",
+      "value": 5
+    },
+    {
+      "source": "arbor",
+      "target": "mound",
+      "value": 6
+    },
+    {
+      "source": "arbor",
+      "target": "oval",
+      "value": 3
+    },
+    {
+      "source": "arbor",
+      "target": "ditch",
+      "value": 2
+    },
+    {
+      "source": "arbor",
+      "target": "henge",
+      "value": 7
+    },
+    {
+      "source": "arbor",
+      "target": "stonehenge_of_the_north",
+      "value": 9
+    },
+    {
+      "source": "arbor",
+      "target": "leading",
+      "value": 3
+    },
+    {
+      "source": "arbor",
+      "target": "dark",
+      "value": 10
+    },
+    {
+      "source": "arbor",
+      "target": "lathkill",
+      "value": 4
+    },
+    {
+      "source": "arbor",
+      "target": "dale",
+      "value": 4
+    },
+    {
+      "source": "arbor",
+      "target": "recharging",
+      "value": 4
+    },
+    {
+      "source": "arbor",
+      "target": "winnowing",
+      "value": 6
+    },
+    {
+      "source": "arbor",
+      "target": "chaff",
+      "value": 9
+    },
+    {
+      "source": "arbor",
+      "target": "grain",
+      "value": 7
+    },
+    {
+      "source": "low",
+      "target": "arbor",
+      "value": 6
+    },
+    {
+      "source": "low",
+      "target": "dirt",
+      "value": 6
+    },
+    {
+      "source": "low",
+      "target": "track",
+      "value": 8
+    },
+    {
+      "source": "low",
+      "target": "hotsungreen",
+      "value": 5
+    },
+    {
+      "source": "low",
+      "target": "bowl",
+      "value": 1
+    },
+    {
+      "source": "low",
+      "target": "stones",
+      "value": 10
+    },
+    {
+      "source": "low",
+      "target": "fallen",
+      "value": 1
+    },
+    {
+      "source": "low",
+      "target": "neolithic",
+      "value": 8
+    },
+    {
+      "source": "low",
+      "target": "gib_hill",
+      "value": 10
+    },
+    {
+      "source": "low",
+      "target": "arbor_low",
+      "value": 8
+    },
+    {
+      "source": "low",
+      "target": "white",
+      "value": 5
+    },
+    {
+      "source": "low",
+      "target": "slabs",
+      "value": 10
+    },
+    {
+      "source": "low",
+      "target": "middle",
+      "value": 3
+    },
+    {
+      "source": "low",
+      "target": "cove",
+      "value": 4
+    },
+    {
+      "source": "low",
+      "target": "burial",
+      "value": 10
+    },
+    {
+      "source": "low",
+      "target": "mound",
+      "value": 1
+    },
+    {
+      "source": "low",
+      "target": "oval",
+      "value": 8
+    },
+    {
+      "source": "low",
+      "target": "ditch",
+      "value": 9
+    },
+    {
+      "source": "low",
+      "target": "henge",
+      "value": 8
+    },
+    {
+      "source": "low",
+      "target": "stonehenge_of_the_north",
+      "value": 7
+    },
+    {
+      "source": "low",
+      "target": "leading",
+      "value": 10
+    },
+    {
+      "source": "low",
+      "target": "dark",
+      "value": 8
+    },
+    {
+      "source": "low",
+      "target": "lathkill",
+      "value": 5
+    },
+    {
+      "source": "low",
+      "target": "dale",
+      "value": 2
+    },
+    {
+      "source": "low",
+      "target": "recharging",
+      "value": 2
+    },
+    {
+      "source": "low",
+      "target": "winnowing",
+      "value": 6
+    },
+    {
+      "source": "low",
+      "target": "chaff",
+      "value": 8
+    },
+    {
+      "source": "low",
+      "target": "grain",
+      "value": 10
+    },
+    {
+      "source": "dirt",
+      "target": "arbor",
+      "value": 4
+    },
+    {
+      "source": "dirt",
+      "target": "low",
+      "value": 9
+    },
+    {
+      "source": "dirt",
+      "target": "track",
+      "value": 10
+    },
+    {
+      "source": "dirt",
+      "target": "hotsungreen",
+      "value": 8
+    },
+    {
+      "source": "dirt",
+      "target": "bowl",
+      "value": 6
+    },
+    {
+      "source": "dirt",
+      "target": "stones",
+      "value": 10
+    },
+    {
+      "source": "dirt",
+      "target": "fallen",
+      "value": 2
+    },
+    {
+      "source": "dirt",
+      "target": "neolithic",
+      "value": 9
+    },
+    {
+      "source": "dirt",
+      "target": "gib_hill",
+      "value": 9
+    },
+    {
+      "source": "dirt",
+      "target": "arbor_low",
+      "value": 2
+    },
+    {
+      "source": "dirt",
+      "target": "white",
+      "value": 6
+    },
+    {
+      "source": "dirt",
+      "target": "slabs",
+      "value": 3
+    },
+    {
+      "source": "dirt",
+      "target": "middle",
+      "value": 1
+    },
+    {
+      "source": "dirt",
+      "target": "cove",
+      "value": 10
+    },
+    {
+      "source": "dirt",
+      "target": "burial",
+      "value": 2
+    },
+    {
+      "source": "dirt",
+      "target": "mound",
+      "value": 9
+    },
+    {
+      "source": "dirt",
+      "target": "oval",
+      "value": 1
+    },
+    {
+      "source": "dirt",
+      "target": "ditch",
+      "value": 2
+    },
+    {
+      "source": "dirt",
+      "target": "henge",
+      "value": 1
+    },
+    {
+      "source": "dirt",
+      "target": "stonehenge_of_the_north",
+      "value": 4
+    },
+    {
+      "source": "dirt",
+      "target": "leading",
+      "value": 1
+    },
+    {
+      "source": "dirt",
+      "target": "dark",
+      "value": 9
+    },
+    {
+      "source": "dirt",
+      "target": "lathkill",
+      "value": 5
+    },
+    {
+      "source": "dirt",
+      "target": "dale",
+      "value": 7
+    },
+    {
+      "source": "dirt",
+      "target": "recharging",
+      "value": 10
+    },
+    {
+      "source": "dirt",
+      "target": "winnowing",
+      "value": 9
+    },
+    {
+      "source": "dirt",
+      "target": "chaff",
+      "value": 1
+    },
+    {
+      "source": "dirt",
+      "target": "grain",
+      "value": 3
+    },
+    {
+      "source": "track",
+      "target": "arbor",
+      "value": 8
+    },
+    {
+      "source": "track",
+      "target": "low",
+      "value": 5
+    },
+    {
+      "source": "track",
+      "target": "dirt",
+      "value": 2
+    },
+    {
+      "source": "track",
+      "target": "hotsungreen",
+      "value": 3
+    },
+    {
+      "source": "track",
+      "target": "bowl",
+      "value": 4
+    },
+    {
+      "source": "track",
+      "target": "stones",
+      "value": 7
+    },
+    {
+      "source": "track",
+      "target": "fallen",
+      "value": 1
+    },
+    {
+      "source": "track",
+      "target": "neolithic",
+      "value": 10
+    },
+    {
+      "source": "track",
+      "target": "gib_hill",
+      "value": 1
+    },
+    {
+      "source": "track",
+      "target": "arbor_low",
+      "value": 8
+    },
+    {
+      "source": "track",
+      "target": "white",
+      "value": 7
+    },
+    {
+      "source": "track",
+      "target": "slabs",
+      "value": 1
+    },
+    {
+      "source": "track",
+      "target": "middle",
+      "value": 8
+    },
+    {
+      "source": "track",
+      "target": "cove",
+      "value": 6
+    },
+    {
+      "source": "track",
+      "target": "burial",
+      "value": 7
+    },
+    {
+      "source": "track",
+      "target": "mound",
+      "value": 3
+    },
+    {
+      "source": "track",
+      "target": "oval",
+      "value": 9
+    },
+    {
+      "source": "track",
+      "target": "ditch",
+      "value": 6
+    },
+    {
+      "source": "track",
+      "target": "henge",
+      "value": 9
+    },
+    {
+      "source": "track",
+      "target": "stonehenge_of_the_north",
+      "value": 4
+    },
+    {
+      "source": "track",
+      "target": "leading",
+      "value": 10
+    },
+    {
+      "source": "track",
+      "target": "dark",
+      "value": 9
+    },
+    {
+      "source": "track",
+      "target": "lathkill",
+      "value": 6
+    },
+    {
+      "source": "track",
+      "target": "dale",
+      "value": 2
+    },
+    {
+      "source": "track",
+      "target": "recharging",
+      "value": 3
+    },
+    {
+      "source": "track",
+      "target": "winnowing",
+      "value": 7
+    },
+    {
+      "source": "track",
+      "target": "chaff",
+      "value": 4
+    },
+    {
+      "source": "track",
+      "target": "grain",
+      "value": 1
+    },
+    {
+      "source": "hotsungreen",
+      "target": "arbor",
+      "value": 7
+    },
+    {
+      "source": "hotsungreen",
+      "target": "low",
+      "value": 7
+    },
+    {
+      "source": "hotsungreen",
+      "target": "dirt",
+      "value": 7
+    },
+    {
+      "source": "hotsungreen",
+      "target": "track",
+      "value": 1
+    },
+    {
+      "source": "hotsungreen",
+      "target": "bowl",
+      "value": 6
+    },
+    {
+      "source": "hotsungreen",
+      "target": "stones",
+      "value": 10
+    },
+    {
+      "source": "hotsungreen",
+      "target": "fallen",
+      "value": 10
+    },
+    {
+      "source": "hotsungreen",
+      "target": "neolithic",
+      "value": 3
+    },
+    {
+      "source": "hotsungreen",
+      "target": "gib_hill",
+      "value": 8
+    },
+    {
+      "source": "hotsungreen",
+      "target": "arbor_low",
+      "value": 8
+    },
+    {
+      "source": "hotsungreen",
+      "target": "white",
+      "value": 5
+    },
+    {
+      "source": "hotsungreen",
+      "target": "slabs",
+      "value": 2
+    },
+    {
+      "source": "hotsungreen",
+      "target": "middle",
+      "value": 6
+    },
+    {
+      "source": "hotsungreen",
+      "target": "cove",
+      "value": 2
+    },
+    {
+      "source": "hotsungreen",
+      "target": "burial",
+      "value": 4
+    },
+    {
+      "source": "hotsungreen",
+      "target": "mound",
+      "value": 10
+    },
+    {
+      "source": "hotsungreen",
+      "target": "oval",
+      "value": 7
+    },
+    {
+      "source": "hotsungreen",
+      "target": "ditch",
+      "value": 1
+    },
+    {
+      "source": "hotsungreen",
+      "target": "henge",
+      "value": 2
+    },
+    {
+      "source": "hotsungreen",
+      "target": "stonehenge_of_the_north",
+      "value": 10
+    },
+    {
+      "source": "hotsungreen",
+      "target": "leading",
+      "value": 8
+    },
+    {
+      "source": "hotsungreen",
+      "target": "dark",
+      "value": 4
+    },
+    {
+      "source": "hotsungreen",
+      "target": "lathkill",
+      "value": 5
+    },
+    {
+      "source": "hotsungreen",
+      "target": "dale",
+      "value": 8
+    },
+    {
+      "source": "hotsungreen",
+      "target": "recharging",
+      "value": 10
+    },
+    {
+      "source": "hotsungreen",
+      "target": "winnowing",
+      "value": 10
+    },
+    {
+      "source": "hotsungreen",
+      "target": "chaff",
+      "value": 9
+    },
+    {
+      "source": "hotsungreen",
+      "target": "grain",
+      "value": 3
+    },
+    {
+      "source": "bowl",
+      "target": "arbor",
+      "value": 5
+    },
+    {
+      "source": "bowl",
+      "target": "low",
+      "value": 7
+    },
+    {
+      "source": "bowl",
+      "target": "dirt",
+      "value": 10
+    },
+    {
+      "source": "bowl",
+      "target": "track",
+      "value": 9
+    },
+    {
+      "source": "bowl",
+      "target": "hotsungreen",
+      "value": 7
+    },
+    {
+      "source": "bowl",
+      "target": "stones",
+      "value": 1
+    },
+    {
+      "source": "bowl",
+      "target": "fallen",
+      "value": 2
+    },
+    {
+      "source": "bowl",
+      "target": "neolithic",
+      "value": 9
+    },
+    {
+      "source": "bowl",
+      "target": "gib_hill",
+      "value": 1
+    },
+    {
+      "source": "bowl",
+      "target": "arbor_low",
+      "value": 2
+    },
+    {
+      "source": "bowl",
+      "target": "white",
+      "value": 7
+    },
+    {
+      "source": "bowl",
+      "target": "slabs",
+      "value": 8
+    },
+    {
+      "source": "bowl",
+      "target": "middle",
+      "value": 2
+    },
+    {
+      "source": "bowl",
+      "target": "cove",
+      "value": 1
+    },
+    {
+      "source": "bowl",
+      "target": "burial",
+      "value": 6
+    },
+    {
+      "source": "bowl",
+      "target": "mound",
+      "value": 9
+    },
+    {
+      "source": "bowl",
+      "target": "oval",
+      "value": 9
+    },
+    {
+      "source": "bowl",
+      "target": "ditch",
+      "value": 10
+    },
+    {
+      "source": "bowl",
+      "target": "henge",
+      "value": 10
+    },
+    {
+      "source": "bowl",
+      "target": "stonehenge_of_the_north",
+      "value": 9
+    },
+    {
+      "source": "bowl",
+      "target": "leading",
+      "value": 6
+    },
+    {
+      "source": "bowl",
+      "target": "dark",
+      "value": 5
+    },
+    {
+      "source": "bowl",
+      "target": "lathkill",
+      "value": 9
+    },
+    {
+      "source": "bowl",
+      "target": "dale",
+      "value": 10
+    },
+    {
+      "source": "bowl",
+      "target": "recharging",
+      "value": 10
+    },
+    {
+      "source": "bowl",
+      "target": "winnowing",
+      "value": 4
+    },
+    {
+      "source": "bowl",
+      "target": "chaff",
+      "value": 7
+    },
+    {
+      "source": "bowl",
+      "target": "grain",
+      "value": 10
+    },
+    {
+      "source": "stones",
+      "target": "arbor",
+      "value": 9
+    },
+    {
+      "source": "stones",
+      "target": "low",
+      "value": 10
+    },
+    {
+      "source": "stones",
+      "target": "dirt",
+      "value": 10
+    },
+    {
+      "source": "stones",
+      "target": "track",
+      "value": 9
+    },
+    {
+      "source": "stones",
+      "target": "hotsungreen",
+      "value": 5
+    },
+    {
+      "source": "stones",
+      "target": "bowl",
+      "value": 8
+    },
+    {
+      "source": "stones",
+      "target": "fallen",
+      "value": 10
+    },
+    {
+      "source": "stones",
+      "target": "neolithic",
+      "value": 1
+    },
+    {
+      "source": "stones",
+      "target": "gib_hill",
+      "value": 1
+    },
+    {
+      "source": "stones",
+      "target": "arbor_low",
+      "value": 9
+    },
+    {
+      "source": "stones",
+      "target": "white",
+      "value": 8
+    },
+    {
+      "source": "stones",
+      "target": "slabs",
+      "value": 7
+    },
+    {
+      "source": "stones",
+      "target": "middle",
+      "value": 5
+    },
+    {
+      "source": "stones",
+      "target": "cove",
+      "value": 3
+    },
+    {
+      "source": "stones",
+      "target": "burial",
+      "value": 6
+    },
+    {
+      "source": "stones",
+      "target": "mound",
+      "value": 1
+    },
+    {
+      "source": "stones",
+      "target": "oval",
+      "value": 4
+    },
+    {
+      "source": "stones",
+      "target": "ditch",
+      "value": 5
+    },
+    {
+      "source": "stones",
+      "target": "henge",
+      "value": 7
+    },
+    {
+      "source": "stones",
+      "target": "stonehenge_of_the_north",
+      "value": 7
+    },
+    {
+      "source": "stones",
+      "target": "leading",
+      "value": 9
+    },
+    {
+      "source": "stones",
+      "target": "dark",
+      "value": 3
+    },
+    {
+      "source": "stones",
+      "target": "lathkill",
+      "value": 3
+    },
+    {
+      "source": "stones",
+      "target": "dale",
+      "value": 10
+    },
+    {
+      "source": "stones",
+      "target": "recharging",
+      "value": 2
+    },
+    {
+      "source": "stones",
+      "target": "winnowing",
+      "value": 4
+    },
+    {
+      "source": "stones",
+      "target": "chaff",
+      "value": 1
+    },
+    {
+      "source": "stones",
+      "target": "grain",
+      "value": 5
+    },
+    {
+      "source": "fallen",
+      "target": "arbor",
+      "value": 9
+    },
+    {
+      "source": "fallen",
+      "target": "low",
+      "value": 9
+    },
+    {
+      "source": "fallen",
+      "target": "dirt",
+      "value": 2
+    },
+    {
+      "source": "fallen",
+      "target": "track",
+      "value": 9
+    },
+    {
+      "source": "fallen",
+      "target": "hotsungreen",
+      "value": 7
+    },
+    {
+      "source": "fallen",
+      "target": "bowl",
+      "value": 1
+    },
+    {
+      "source": "fallen",
+      "target": "stones",
+      "value": 7
+    },
+    {
+      "source": "fallen",
+      "target": "neolithic",
+      "value": 9
+    },
+    {
+      "source": "fallen",
+      "target": "gib_hill",
+      "value": 2
+    },
+    {
+      "source": "fallen",
+      "target": "arbor_low",
+      "value": 7
+    },
+    {
+      "source": "fallen",
+      "target": "white",
+      "value": 6
+    },
+    {
+      "source": "fallen",
+      "target": "slabs",
+      "value": 4
+    },
+    {
+      "source": "fallen",
+      "target": "middle",
+      "value": 7
+    },
+    {
+      "source": "fallen",
+      "target": "cove",
+      "value": 7
+    },
+    {
+      "source": "fallen",
+      "target": "burial",
+      "value": 10
+    },
+    {
+      "source": "fallen",
+      "target": "mound",
+      "value": 8
+    },
+    {
+      "source": "fallen",
+      "target": "oval",
+      "value": 8
+    },
+    {
+      "source": "fallen",
+      "target": "ditch",
+      "value": 7
+    },
+    {
+      "source": "fallen",
+      "target": "henge",
+      "value": 3
+    },
+    {
+      "source": "fallen",
+      "target": "stonehenge_of_the_north",
+      "value": 1
+    },
+    {
+      "source": "fallen",
+      "target": "leading",
+      "value": 6
+    },
+    {
+      "source": "fallen",
+      "target": "dark",
+      "value": 3
+    },
+    {
+      "source": "fallen",
+      "target": "lathkill",
+      "value": 7
+    },
+    {
+      "source": "fallen",
+      "target": "dale",
+      "value": 6
+    },
+    {
+      "source": "fallen",
+      "target": "recharging",
+      "value": 1
+    },
+    {
+      "source": "fallen",
+      "target": "winnowing",
+      "value": 3
+    },
+    {
+      "source": "fallen",
+      "target": "chaff",
+      "value": 5
+    },
+    {
+      "source": "fallen",
+      "target": "grain",
+      "value": 9
+    },
+    {
+      "source": "neolithic",
+      "target": "arbor",
+      "value": 2
+    },
+    {
+      "source": "neolithic",
+      "target": "low",
+      "value": 7
+    },
+    {
+      "source": "neolithic",
+      "target": "dirt",
+      "value": 10
+    },
+    {
+      "source": "neolithic",
+      "target": "track",
+      "value": 9
+    },
+    {
+      "source": "neolithic",
+      "target": "hotsungreen",
+      "value": 5
+    },
+    {
+      "source": "neolithic",
+      "target": "bowl",
+      "value": 7
+    },
+    {
+      "source": "neolithic",
+      "target": "stones",
+      "value": 8
+    },
+    {
+      "source": "neolithic",
+      "target": "fallen",
+      "value": 10
+    },
+    {
+      "source": "neolithic",
+      "target": "gib_hill",
+      "value": 6
+    },
+    {
+      "source": "neolithic",
+      "target": "arbor_low",
+      "value": 9
+    },
+    {
+      "source": "neolithic",
+      "target": "white",
+      "value": 10
+    },
+    {
+      "source": "neolithic",
+      "target": "slabs",
+      "value": 6
+    },
+    {
+      "source": "neolithic",
+      "target": "middle",
+      "value": 8
+    },
+    {
+      "source": "neolithic",
+      "target": "cove",
+      "value": 4
+    },
+    {
+      "source": "neolithic",
+      "target": "burial",
+      "value": 3
+    },
+    {
+      "source": "neolithic",
+      "target": "mound",
+      "value": 4
+    },
+    {
+      "source": "neolithic",
+      "target": "oval",
+      "value": 3
+    },
+    {
+      "source": "neolithic",
+      "target": "ditch",
+      "value": 7
+    },
+    {
+      "source": "neolithic",
+      "target": "henge",
+      "value": 5
+    },
+    {
+      "source": "neolithic",
+      "target": "stonehenge_of_the_north",
+      "value": 6
+    },
+    {
+      "source": "neolithic",
+      "target": "neolithic",
+      "value": 9
+    },
+    {
+      "source": "neolithic",
+      "target": "leading",
+      "value": 9
+    },
+    {
+      "source": "neolithic",
+      "target": "dark",
+      "value": 7
+    },
+    {
+      "source": "neolithic",
+      "target": "lathkill",
+      "value": 10
+    },
+    {
+      "source": "neolithic",
+      "target": "dale",
+      "value": 4
+    },
+    {
+      "source": "neolithic",
+      "target": "recharging",
+      "value": 9
+    },
+    {
+      "source": "neolithic",
+      "target": "winnowing",
+      "value": 3
+    },
+    {
+      "source": "neolithic",
+      "target": "chaff",
+      "value": 1
+    },
+    {
+      "source": "neolithic",
+      "target": "grain",
+      "value": 4
+    },
+    {
+      "source": "gib_hill",
+      "target": "arbor",
+      "value": 1
+    },
+    {
+      "source": "gib_hill",
+      "target": "low",
+      "value": 1
+    },
+    {
+      "source": "gib_hill",
+      "target": "dirt",
+      "value": 9
+    },
+    {
+      "source": "gib_hill",
+      "target": "track",
+      "value": 1
+    },
+    {
+      "source": "gib_hill",
+      "target": "hotsungreen",
+      "value": 7
+    },
+    {
+      "source": "gib_hill",
+      "target": "bowl",
+      "value": 9
+    },
+    {
+      "source": "gib_hill",
+      "target": "stones",
+      "value": 5
+    },
+    {
+      "source": "gib_hill",
+      "target": "fallen",
+      "value": 8
+    },
+    {
+      "source": "gib_hill",
+      "target": "neolithic",
+      "value": 9
+    },
+    {
+      "source": "gib_hill",
+      "target": "arbor_low",
+      "value": 7
+    },
+    {
+      "source": "gib_hill",
+      "target": "white",
+      "value": 10
+    },
+    {
+      "source": "gib_hill",
+      "target": "slabs",
+      "value": 9
+    },
+    {
+      "source": "gib_hill",
+      "target": "middle",
+      "value": 10
+    },
+    {
+      "source": "gib_hill",
+      "target": "cove",
+      "value": 6
+    },
+    {
+      "source": "gib_hill",
+      "target": "burial",
+      "value": 9
+    },
+    {
+      "source": "gib_hill",
+      "target": "mound",
+      "value": 6
+    },
+    {
+      "source": "gib_hill",
+      "target": "oval",
+      "value": 9
+    },
+    {
+      "source": "gib_hill",
+      "target": "ditch",
+      "value": 4
+    },
+    {
+      "source": "gib_hill",
+      "target": "henge",
+      "value": 4
+    },
+    {
+      "source": "gib_hill",
+      "target": "stonehenge_of_the_north",
+      "value": 7
+    },
+    {
+      "source": "gib_hill",
+      "target": "leading",
+      "value": 6
+    },
+    {
+      "source": "gib_hill",
+      "target": "dark",
+      "value": 6
+    },
+    {
+      "source": "gib_hill",
+      "target": "lathkill",
+      "value": 8
+    },
+    {
+      "source": "gib_hill",
+      "target": "dale",
+      "value": 3
+    },
+    {
+      "source": "gib_hill",
+      "target": "recharging",
+      "value": 1
+    },
+    {
+      "source": "gib_hill",
+      "target": "winnowing",
+      "value": 8
+    },
+    {
+      "source": "gib_hill",
+      "target": "chaff",
+      "value": 1
+    },
+    {
+      "source": "gib_hill",
+      "target": "grain",
+      "value": 5
+    },
+    {
+      "source": "arbor_low",
+      "target": "arbor",
+      "value": 9
+    },
+    {
+      "source": "arbor_low",
+      "target": "low",
+      "value": 1
+    },
+    {
+      "source": "arbor_low",
+      "target": "dirt",
+      "value": 6
+    },
+    {
+      "source": "arbor_low",
+      "target": "track",
+      "value": 7
+    },
+    {
+      "source": "arbor_low",
+      "target": "hotsungreen",
+      "value": 9
+    },
+    {
+      "source": "arbor_low",
+      "target": "bowl",
+      "value": 3
+    },
+    {
+      "source": "arbor_low",
+      "target": "stones",
+      "value": 5
+    },
+    {
+      "source": "arbor_low",
+      "target": "fallen",
+      "value": 3
+    },
+    {
+      "source": "arbor_low",
+      "target": "neolithic",
+      "value": 6
+    },
+    {
+      "source": "arbor_low",
+      "target": "gib_hill",
+      "value": 3
+    },
+    {
+      "source": "arbor_low",
+      "target": "white",
+      "value": 5
+    },
+    {
+      "source": "arbor_low",
+      "target": "slabs",
+      "value": 4
+    },
+    {
+      "source": "arbor_low",
+      "target": "middle",
+      "value": 6
+    },
+    {
+      "source": "arbor_low",
+      "target": "cove",
+      "value": 1
+    },
+    {
+      "source": "arbor_low",
+      "target": "burial",
+      "value": 10
+    },
+    {
+      "source": "arbor_low",
+      "target": "mound",
+      "value": 1
+    },
+    {
+      "source": "arbor_low",
+      "target": "oval",
+      "value": 5
+    },
+    {
+      "source": "arbor_low",
+      "target": "ditch",
+      "value": 5
+    },
+    {
+      "source": "arbor_low",
+      "target": "henge",
+      "value": 2
+    },
+    {
+      "source": "arbor_low",
+      "target": "stonehenge_of_the_north",
+      "value": 7
+    },
+    {
+      "source": "arbor_low",
+      "target": "leading",
+      "value": 9
+    },
+    {
+      "source": "arbor_low",
+      "target": "dark",
+      "value": 2
+    },
+    {
+      "source": "arbor_low",
+      "target": "lathkill",
+      "value": 9
+    },
+    {
+      "source": "arbor_low",
+      "target": "dale",
+      "value": 7
+    },
+    {
+      "source": "arbor_low",
+      "target": "recharging",
+      "value": 7
+    },
+    {
+      "source": "arbor_low",
+      "target": "winnowing",
+      "value": 6
+    },
+    {
+      "source": "arbor_low",
+      "target": "chaff",
+      "value": 4
+    },
+    {
+      "source": "arbor_low",
+      "target": "grain",
+      "value": 9
+    },
+    {
+      "source": "white",
+      "target": "arbor",
+      "value": 7
+    },
+    {
+      "source": "white",
+      "target": "low",
+      "value": 4
+    },
+    {
+      "source": "white",
+      "target": "dirt",
+      "value": 7
+    },
+    {
+      "source": "white",
+      "target": "track",
+      "value": 9
+    },
+    {
+      "source": "white",
+      "target": "hotsungreen",
+      "value": 9
+    },
+    {
+      "source": "white",
+      "target": "bowl",
+      "value": 7
+    },
+    {
+      "source": "white",
+      "target": "stones",
+      "value": 10
+    },
+    {
+      "source": "white",
+      "target": "fallen",
+      "value": 2
+    },
+    {
+      "source": "white",
+      "target": "neolithic",
+      "value": 6
+    },
+    {
+      "source": "white",
+      "target": "gib_hill",
+      "value": 9
+    },
+    {
+      "source": "white",
+      "target": "arbor_low",
+      "value": 1
+    },
+    {
+      "source": "white",
+      "target": "slabs",
+      "value": 7
+    },
+    {
+      "source": "white",
+      "target": "middle",
+      "value": 5
+    },
+    {
+      "source": "white",
+      "target": "cove",
+      "value": 3
+    },
+    {
+      "source": "white",
+      "target": "burial",
+      "value": 7
+    },
+    {
+      "source": "white",
+      "target": "mound",
+      "value": 5
+    },
+    {
+      "source": "white",
+      "target": "oval",
+      "value": 7
+    },
+    {
+      "source": "white",
+      "target": "ditch",
+      "value": 2
+    },
+    {
+      "source": "white",
+      "target": "henge",
+      "value": 5
+    },
+    {
+      "source": "white",
+      "target": "stonehenge_of_the_north",
+      "value": 2
+    },
+    {
+      "source": "white",
+      "target": "leading",
+      "value": 8
+    },
+    {
+      "source": "white",
+      "target": "dark",
+      "value": 1
+    },
+    {
+      "source": "white",
+      "target": "lathkill",
+      "value": 8
+    },
+    {
+      "source": "white",
+      "target": "dale",
+      "value": 3
+    },
+    {
+      "source": "white",
+      "target": "recharging",
+      "value": 6
+    },
+    {
+      "source": "white",
+      "target": "winnowing",
+      "value": 6
+    },
+    {
+      "source": "white",
+      "target": "chaff",
+      "value": 10
+    },
+    {
+      "source": "white",
+      "target": "grain",
+      "value": 5
+    },
+    {
+      "source": "slabs",
+      "target": "arbor",
+      "value": 2
+    },
+    {
+      "source": "slabs",
+      "target": "low",
+      "value": 3
+    },
+    {
+      "source": "slabs",
+      "target": "dirt",
+      "value": 8
+    },
+    {
+      "source": "slabs",
+      "target": "track",
+      "value": 7
+    },
+    {
+      "source": "slabs",
+      "target": "hotsungreen",
+      "value": 9
+    },
+    {
+      "source": "slabs",
+      "target": "bowl",
+      "value": 9
+    },
+    {
+      "source": "slabs",
+      "target": "stones",
+      "value": 3
+    },
+    {
+      "source": "slabs",
+      "target": "fallen",
+      "value": 10
+    },
+    {
+      "source": "slabs",
+      "target": "neolithic",
+      "value": 3
+    },
+    {
+      "source": "slabs",
+      "target": "gib_hill",
+      "value": 7
+    },
+    {
+      "source": "slabs",
+      "target": "arbor_low",
+      "value": 5
+    },
+    {
+      "source": "slabs",
+      "target": "white",
+      "value": 10
+    },
+    {
+      "source": "slabs",
+      "target": "middle",
+      "value": 9
+    },
+    {
+      "source": "slabs",
+      "target": "cove",
+      "value": 5
+    },
+    {
+      "source": "slabs",
+      "target": "burial",
+      "value": 8
+    },
+    {
+      "source": "slabs",
+      "target": "mound",
+      "value": 9
+    },
+    {
+      "source": "slabs",
+      "target": "oval",
+      "value": 2
+    },
+    {
+      "source": "slabs",
+      "target": "ditch",
+      "value": 5
+    },
+    {
+      "source": "slabs",
+      "target": "henge",
+      "value": 8
+    },
+    {
+      "source": "slabs",
+      "target": "stonehenge_of_the_north",
+      "value": 1
+    },
+    {
+      "source": "slabs",
+      "target": "leading",
+      "value": 5
+    },
+    {
+      "source": "slabs",
+      "target": "dark",
+      "value": 2
+    },
+    {
+      "source": "slabs",
+      "target": "lathkill",
+      "value": 4
+    },
+    {
+      "source": "slabs",
+      "target": "dale",
+      "value": 2
+    },
+    {
+      "source": "slabs",
+      "target": "recharging",
+      "value": 8
+    },
+    {
+      "source": "slabs",
+      "target": "winnowing",
+      "value": 10
+    },
+    {
+      "source": "slabs",
+      "target": "chaff",
+      "value": 8
+    },
+    {
+      "source": "slabs",
+      "target": "grain",
+      "value": 5
+    },
+    {
+      "source": "middle",
+      "target": "arbor",
+      "value": 9
+    },
+    {
+      "source": "middle",
+      "target": "low",
+      "value": 6
+    },
+    {
+      "source": "middle",
+      "target": "dirt",
+      "value": 5
+    },
+    {
+      "source": "middle",
+      "target": "track",
+      "value": 1
+    },
+    {
+      "source": "middle",
+      "target": "hotsungreen",
+      "value": 2
+    },
+    {
+      "source": "middle",
+      "target": "bowl",
+      "value": 3
+    },
+    {
+      "source": "middle",
+      "target": "stones",
+      "value": 8
+    },
+    {
+      "source": "middle",
+      "target": "fallen",
+      "value": 10
+    },
+    {
+      "source": "middle",
+      "target": "neolithic",
+      "value": 5
+    },
+    {
+      "source": "middle",
+      "target": "gib_hill",
+      "value": 10
+    },
+    {
+      "source": "middle",
+      "target": "arbor_low",
+      "value": 3
+    },
+    {
+      "source": "middle",
+      "target": "white",
+      "value": 8
+    },
+    {
+      "source": "middle",
+      "target": "slabs",
+      "value": 10
+    },
+    {
+      "source": "middle",
+      "target": "cove",
+      "value": 4
+    },
+    {
+      "source": "middle",
+      "target": "burial",
+      "value": 4
+    },
+    {
+      "source": "middle",
+      "target": "mound",
+      "value": 8
+    },
+    {
+      "source": "middle",
+      "target": "oval",
+      "value": 10
+    },
+    {
+      "source": "middle",
+      "target": "ditch",
+      "value": 1
+    },
+    {
+      "source": "middle",
+      "target": "henge",
+      "value": 2
+    },
+    {
+      "source": "middle",
+      "target": "stonehenge_of_the_north",
+      "value": 9
+    },
+    {
+      "source": "middle",
+      "target": "leading",
+      "value": 6
+    },
+    {
+      "source": "middle",
+      "target": "dark",
+      "value": 1
+    },
+    {
+      "source": "middle",
+      "target": "lathkill",
+      "value": 6
+    },
+    {
+      "source": "middle",
+      "target": "dale",
+      "value": 9
+    },
+    {
+      "source": "middle",
+      "target": "recharging",
+      "value": 4
+    },
+    {
+      "source": "middle",
+      "target": "winnowing",
+      "value": 5
+    },
+    {
+      "source": "middle",
+      "target": "chaff",
+      "value": 8
+    },
+    {
+      "source": "middle",
+      "target": "grain",
+      "value": 1
+    },
+    {
+      "source": "cove",
+      "target": "arbor",
+      "value": 1
+    },
+    {
+      "source": "cove",
+      "target": "low",
+      "value": 7
+    },
+    {
+      "source": "cove",
+      "target": "dirt",
+      "value": 7
+    },
+    {
+      "source": "cove",
+      "target": "track",
+      "value": 9
+    },
+    {
+      "source": "cove",
+      "target": "hotsungreen",
+      "value": 5
+    },
+    {
+      "source": "cove",
+      "target": "bowl",
+      "value": 9
+    },
+    {
+      "source": "cove",
+      "target": "stones",
+      "value": 6
+    },
+    {
+      "source": "cove",
+      "target": "fallen",
+      "value": 6
+    },
+    {
+      "source": "cove",
+      "target": "neolithic",
+      "value": 5
+    },
+    {
+      "source": "cove",
+      "target": "gib_hill",
+      "value": 7
+    },
+    {
+      "source": "cove",
+      "target": "arbor_low",
+      "value": 8
+    },
+    {
+      "source": "cove",
+      "target": "white",
+      "value": 3
+    },
+    {
+      "source": "cove",
+      "target": "slabs",
+      "value": 7
+    },
+    {
+      "source": "cove",
+      "target": "middle",
+      "value": 9
+    },
+    {
+      "source": "cove",
+      "target": "burial",
+      "value": 7
+    },
+    {
+      "source": "cove",
+      "target": "mound",
+      "value": 9
+    },
+    {
+      "source": "cove",
+      "target": "oval",
+      "value": 4
+    },
+    {
+      "source": "cove",
+      "target": "ditch",
+      "value": 3
+    },
+    {
+      "source": "cove",
+      "target": "henge",
+      "value": 6
+    },
+    {
+      "source": "cove",
+      "target": "stonehenge_of_the_north",
+      "value": 2
+    },
+    {
+      "source": "cove",
+      "target": "leading",
+      "value": 6
+    },
+    {
+      "source": "cove",
+      "target": "dark",
+      "value": 5
+    },
+    {
+      "source": "cove",
+      "target": "lathkill",
+      "value": 3
+    },
+    {
+      "source": "cove",
+      "target": "dale",
+      "value": 6
+    },
+    {
+      "source": "cove",
+      "target": "recharging",
+      "value": 8
+    },
+    {
+      "source": "cove",
+      "target": "winnowing",
+      "value": 4
+    },
+    {
+      "source": "cove",
+      "target": "chaff",
+      "value": 4
+    },
+    {
+      "source": "cove",
+      "target": "grain",
+      "value": 10
+    },
+    {
+      "source": "burial",
+      "target": "arbor",
+      "value": 8
+    },
+    {
+      "source": "burial",
+      "target": "low",
+      "value": 3
+    },
+    {
+      "source": "burial",
+      "target": "dirt",
+      "value": 5
+    },
+    {
+      "source": "burial",
+      "target": "track",
+      "value": 6
+    },
+    {
+      "source": "burial",
+      "target": "hotsungreen",
+      "value": 1
+    },
+    {
+      "source": "burial",
+      "target": "bowl",
+      "value": 7
+    },
+    {
+      "source": "burial",
+      "target": "stones",
+      "value": 8
+    },
+    {
+      "source": "burial",
+      "target": "fallen",
+      "value": 5
+    },
+    {
+      "source": "burial",
+      "target": "neolithic",
+      "value": 10
+    },
+    {
+      "source": "burial",
+      "target": "gib_hill",
+      "value": 9
+    },
+    {
+      "source": "burial",
+      "target": "arbor_low",
+      "value": 2
+    },
+    {
+      "source": "burial",
+      "target": "white",
+      "value": 9
+    },
+    {
+      "source": "burial",
+      "target": "slabs",
+      "value": 10
+    },
+    {
+      "source": "burial",
+      "target": "middle",
+      "value": 5
+    },
+    {
+      "source": "burial",
+      "target": "cove",
+      "value": 6
+    },
+    {
+      "source": "burial",
+      "target": "mound",
+      "value": 7
+    },
+    {
+      "source": "burial",
+      "target": "oval",
+      "value": 8
+    },
+    {
+      "source": "burial",
+      "target": "ditch",
+      "value": 2
+    },
+    {
+      "source": "burial",
+      "target": "henge",
+      "value": 5
+    },
+    {
+      "source": "burial",
+      "target": "stonehenge_of_the_north",
+      "value": 1
+    },
+    {
+      "source": "burial",
+      "target": "leading",
+      "value": 9
+    },
+    {
+      "source": "burial",
+      "target": "dark",
+      "value": 2
+    },
+    {
+      "source": "burial",
+      "target": "lathkill",
+      "value": 5
+    },
+    {
+      "source": "burial",
+      "target": "dale",
+      "value": 2
+    },
+    {
+      "source": "burial",
+      "target": "recharging",
+      "value": 8
+    },
+    {
+      "source": "burial",
+      "target": "winnowing",
+      "value": 1
+    },
+    {
+      "source": "burial",
+      "target": "chaff",
+      "value": 1
+    },
+    {
+      "source": "burial",
+      "target": "grain",
+      "value": 4
+    },
+    {
+      "source": "mound",
+      "target": "arbor",
+      "value": 4
+    },
+    {
+      "source": "mound",
+      "target": "low",
+      "value": 3
+    },
+    {
+      "source": "mound",
+      "target": "dirt",
+      "value": 3
+    },
+    {
+      "source": "mound",
+      "target": "track",
+      "value": 2
+    },
+    {
+      "source": "mound",
+      "target": "hotsungreen",
+      "value": 10
+    },
+    {
+      "source": "mound",
+      "target": "bowl",
+      "value": 9
+    },
+    {
+      "source": "mound",
+      "target": "stones",
+      "value": 9
+    },
+    {
+      "source": "mound",
+      "target": "fallen",
+      "value": 5
+    },
+    {
+      "source": "mound",
+      "target": "neolithic",
+      "value": 7
+    },
+    {
+      "source": "mound",
+      "target": "gib_hill",
+      "value": 4
+    },
+    {
+      "source": "mound",
+      "target": "arbor_low",
+      "value": 10
+    },
+    {
+      "source": "mound",
+      "target": "white",
+      "value": 3
+    },
+    {
+      "source": "mound",
+      "target": "slabs",
+      "value": 2
+    },
+    {
+      "source": "mound",
+      "target": "middle",
+      "value": 5
+    },
+    {
+      "source": "mound",
+      "target": "cove",
+      "value": 1
+    },
+    {
+      "source": "mound",
+      "target": "burial",
+      "value": 5
+    },
+    {
+      "source": "mound",
+      "target": "oval",
+      "value": 2
+    },
+    {
+      "source": "mound",
+      "target": "ditch",
+      "value": 6
+    },
+    {
+      "source": "mound",
+      "target": "henge",
+      "value": 1
+    },
+    {
+      "source": "mound",
+      "target": "stonehenge_of_the_north",
+      "value": 1
+    },
+    {
+      "source": "mound",
+      "target": "leading",
+      "value": 10
+    },
+    {
+      "source": "mound",
+      "target": "dark",
+      "value": 4
+    },
+    {
+      "source": "mound",
+      "target": "lathkill",
+      "value": 6
+    },
+    {
+      "source": "mound",
+      "target": "dale",
+      "value": 5
+    },
+    {
+      "source": "mound",
+      "target": "recharging",
+      "value": 5
+    },
+    {
+      "source": "mound",
+      "target": "winnowing",
+      "value": 9
+    },
+    {
+      "source": "mound",
+      "target": "chaff",
+      "value": 2
+    },
+    {
+      "source": "mound",
+      "target": "grain",
+      "value": 8
+    },
+    {
+      "source": "oval",
+      "target": "arbor",
+      "value": 1
+    },
+    {
+      "source": "oval",
+      "target": "low",
+      "value": 9
+    },
+    {
+      "source": "oval",
+      "target": "dirt",
+      "value": 9
+    },
+    {
+      "source": "oval",
+      "target": "track",
+      "value": 10
+    },
+    {
+      "source": "oval",
+      "target": "hotsungreen",
+      "value": 9
+    },
+    {
+      "source": "oval",
+      "target": "bowl",
+      "value": 9
+    },
+    {
+      "source": "oval",
+      "target": "stones",
+      "value": 6
+    },
+    {
+      "source": "oval",
+      "target": "fallen",
+      "value": 6
+    },
+    {
+      "source": "oval",
+      "target": "neolithic",
+      "value": 9
+    },
+    {
+      "source": "oval",
+      "target": "gib_hill",
+      "value": 3
+    },
+    {
+      "source": "oval",
+      "target": "arbor_low",
+      "value": 4
+    },
+    {
+      "source": "oval",
+      "target": "white",
+      "value": 4
+    },
+    {
+      "source": "oval",
+      "target": "slabs",
+      "value": 9
+    },
+    {
+      "source": "oval",
+      "target": "middle",
+      "value": 9
+    },
+    {
+      "source": "oval",
+      "target": "cove",
+      "value": 9
+    },
+    {
+      "source": "oval",
+      "target": "burial",
+      "value": 6
+    },
+    {
+      "source": "oval",
+      "target": "mound",
+      "value": 5
+    },
+    {
+      "source": "oval",
+      "target": "ditch",
+      "value": 5
+    },
+    {
+      "source": "oval",
+      "target": "henge",
+      "value": 7
+    },
+    {
+      "source": "oval",
+      "target": "stonehenge_of_the_north",
+      "value": 5
+    },
+    {
+      "source": "oval",
+      "target": "leading",
+      "value": 7
+    },
+    {
+      "source": "oval",
+      "target": "dark",
+      "value": 1
+    },
+    {
+      "source": "oval",
+      "target": "lathkill",
+      "value": 5
+    },
+    {
+      "source": "oval",
+      "target": "dale",
+      "value": 4
+    },
+    {
+      "source": "oval",
+      "target": "recharging",
+      "value": 8
+    },
+    {
+      "source": "oval",
+      "target": "winnowing",
+      "value": 3
+    },
+    {
+      "source": "oval",
+      "target": "chaff",
+      "value": 9
+    },
+    {
+      "source": "oval",
+      "target": "grain",
+      "value": 9
+    },
+    {
+      "source": "ditch",
+      "target": "arbor",
+      "value": 9
+    },
+    {
+      "source": "ditch",
+      "target": "low",
+      "value": 7
+    },
+    {
+      "source": "ditch",
+      "target": "dirt",
+      "value": 6
+    },
+    {
+      "source": "ditch",
+      "target": "track",
+      "value": 9
+    },
+    {
+      "source": "ditch",
+      "target": "hotsungreen",
+      "value": 8
+    },
+    {
+      "source": "ditch",
+      "target": "bowl",
+      "value": 2
+    },
+    {
+      "source": "ditch",
+      "target": "stones",
+      "value": 2
+    },
+    {
+      "source": "ditch",
+      "target": "fallen",
+      "value": 8
+    },
+    {
+      "source": "ditch",
+      "target": "neolithic",
+      "value": 10
+    },
+    {
+      "source": "ditch",
+      "target": "gib_hill",
+      "value": 10
+    },
+    {
+      "source": "ditch",
+      "target": "arbor_low",
+      "value": 7
+    },
+    {
+      "source": "ditch",
+      "target": "white",
+      "value": 5
+    },
+    {
+      "source": "ditch",
+      "target": "slabs",
+      "value": 9
+    },
+    {
+      "source": "ditch",
+      "target": "middle",
+      "value": 6
+    },
+    {
+      "source": "ditch",
+      "target": "cove",
+      "value": 10
+    },
+    {
+      "source": "ditch",
+      "target": "burial",
+      "value": 1
+    },
+    {
+      "source": "ditch",
+      "target": "mound",
+      "value": 9
+    },
+    {
+      "source": "ditch",
+      "target": "oval",
+      "value": 2
+    },
+    {
+      "source": "ditch",
+      "target": "henge",
+      "value": 1
+    },
+    {
+      "source": "ditch",
+      "target": "stonehenge_of_the_north",
+      "value": 7
+    },
+    {
+      "source": "ditch",
+      "target": "leading",
+      "value": 3
+    },
+    {
+      "source": "ditch",
+      "target": "dark",
+      "value": 1
+    },
+    {
+      "source": "ditch",
+      "target": "lathkill",
+      "value": 8
+    },
+    {
+      "source": "ditch",
+      "target": "dale",
+      "value": 7
+    },
+    {
+      "source": "ditch",
+      "target": "recharging",
+      "value": 9
+    },
+    {
+      "source": "ditch",
+      "target": "winnowing",
+      "value": 8
+    },
+    {
+      "source": "ditch",
+      "target": "chaff",
+      "value": 3
+    },
+    {
+      "source": "ditch",
+      "target": "grain",
+      "value": 6
+    },
+    {
+      "source": "henge",
+      "target": "arbor",
+      "value": 1
+    },
+    {
+      "source": "henge",
+      "target": "low",
+      "value": 2
+    },
+    {
+      "source": "henge",
+      "target": "dirt",
+      "value": 10
+    },
+    {
+      "source": "henge",
+      "target": "track",
+      "value": 5
+    },
+    {
+      "source": "henge",
+      "target": "hotsungreen",
+      "value": 5
+    },
+    {
+      "source": "henge",
+      "target": "bowl",
+      "value": 9
+    },
+    {
+      "source": "henge",
+      "target": "stones",
+      "value": 6
+    },
+    {
+      "source": "henge",
+      "target": "fallen",
+      "value": 7
+    },
+    {
+      "source": "henge",
+      "target": "neolithic",
+      "value": 3
+    },
+    {
+      "source": "henge",
+      "target": "gib_hill",
+      "value": 5
+    },
+    {
+      "source": "henge",
+      "target": "arbor_low",
+      "value": 7
+    },
+    {
+      "source": "henge",
+      "target": "white",
+      "value": 6
+    },
+    {
+      "source": "henge",
+      "target": "slabs",
+      "value": 5
+    },
+    {
+      "source": "henge",
+      "target": "middle",
+      "value": 8
+    },
+    {
+      "source": "henge",
+      "target": "cove",
+      "value": 7
+    },
+    {
+      "source": "henge",
+      "target": "burial",
+      "value": 3
+    },
+    {
+      "source": "henge",
+      "target": "mound",
+      "value": 5
+    },
+    {
+      "source": "henge",
+      "target": "oval",
+      "value": 6
+    },
+    {
+      "source": "henge",
+      "target": "ditch",
+      "value": 2
+    },
+    {
+      "source": "henge",
+      "target": "stonehenge_of_the_north",
+      "value": 5
+    },
+    {
+      "source": "henge",
+      "target": "leading",
+      "value": 2
+    },
+    {
+      "source": "henge",
+      "target": "dark",
+      "value": 7
+    },
+    {
+      "source": "henge",
+      "target": "lathkill",
+      "value": 2
+    },
+    {
+      "source": "henge",
+      "target": "dale",
+      "value": 10
+    },
+    {
+      "source": "henge",
+      "target": "recharging",
+      "value": 10
+    },
+    {
+      "source": "henge",
+      "target": "winnowing",
+      "value": 8
+    },
+    {
+      "source": "henge",
+      "target": "chaff",
+      "value": 9
+    },
+    {
+      "source": "henge",
+      "target": "grain",
+      "value": 7
+    },
+    {
+      "source": "stonehenge_of_the_north",
+      "target": "arbor",
+      "value": 7
+    },
+    {
+      "source": "stonehenge_of_the_north",
+      "target": "low",
+      "value": 6
+    },
+    {
+      "source": "stonehenge_of_the_north",
+      "target": "dirt",
+      "value": 10
+    },
+    {
+      "source": "stonehenge_of_the_north",
+      "target": "track",
+      "value": 6
+    },
+    {
+      "source": "stonehenge_of_the_north",
+      "target": "hotsungreen",
+      "value": 8
+    },
+    {
+      "source": "stonehenge_of_the_north",
+      "target": "bowl",
+      "value": 10
+    },
+    {
+      "source": "stonehenge_of_the_north",
+      "target": "stones",
+      "value": 2
+    },
+    {
+      "source": "stonehenge_of_the_north",
+      "target": "fallen",
+      "value": 10
+    },
+    {
+      "source": "stonehenge_of_the_north",
+      "target": "neolithic",
+      "value": 3
+    },
+    {
+      "source": "stonehenge_of_the_north",
+      "target": "gib_hill",
+      "value": 7
+    },
+    {
+      "source": "stonehenge_of_the_north",
+      "target": "arbor_low",
+      "value": 7
+    },
+    {
+      "source": "stonehenge_of_the_north",
+      "target": "white",
+      "value": 10
+    },
+    {
+      "source": "stonehenge_of_the_north",
+      "target": "slabs",
+      "value": 3
+    },
+    {
+      "source": "stonehenge_of_the_north",
+      "target": "middle",
+      "value": 5
+    },
+    {
+      "source": "stonehenge_of_the_north",
+      "target": "cove",
+      "value": 1
+    },
+    {
+      "source": "stonehenge_of_the_north",
+      "target": "burial",
+      "value": 4
+    },
+    {
+      "source": "stonehenge_of_the_north",
+      "target": "mound",
+      "value": 1
+    },
+    {
+      "source": "stonehenge_of_the_north",
+      "target": "oval",
+      "value": 4
+    },
+    {
+      "source": "stonehenge_of_the_north",
+      "target": "ditch",
+      "value": 4
+    },
+    {
+      "source": "stonehenge_of_the_north",
+      "target": "henge",
+      "value": 5
+    },
+    {
+      "source": "stonehenge_of_the_north",
+      "target": "leading",
+      "value": 6
+    },
+    {
+      "source": "stonehenge_of_the_north",
+      "target": "dark",
+      "value": 5
+    },
+    {
+      "source": "stonehenge_of_the_north",
+      "target": "lathkill",
+      "value": 9
+    },
+    {
+      "source": "stonehenge_of_the_north",
+      "target": "dale",
+      "value": 6
+    },
+    {
+      "source": "stonehenge_of_the_north",
+      "target": "recharging",
+      "value": 8
+    },
+    {
+      "source": "stonehenge_of_the_north",
+      "target": "winnowing",
+      "value": 3
+    },
+    {
+      "source": "stonehenge_of_the_north",
+      "target": "chaff",
+      "value": 2
+    },
+    {
+      "source": "stonehenge_of_the_north",
+      "target": "grain",
+      "value": 9
+    },
+    {
+      "source": "leading",
+      "target": "arbor",
+      "value": 7
+    },
+    {
+      "source": "leading",
+      "target": "low",
+      "value": 4
+    },
+    {
+      "source": "leading",
+      "target": "dirt",
+      "value": 3
+    },
+    {
+      "source": "leading",
+      "target": "track",
+      "value": 6
+    },
+    {
+      "source": "leading",
+      "target": "hotsungreen",
+      "value": 2
+    },
+    {
+      "source": "leading",
+      "target": "bowl",
+      "value": 10
+    },
+    {
+      "source": "leading",
+      "target": "stones",
+      "value": 7
+    },
+    {
+      "source": "leading",
+      "target": "fallen",
+      "value": 7
+    },
+    {
+      "source": "leading",
+      "target": "neolithic",
+      "value": 2
+    },
+    {
+      "source": "leading",
+      "target": "gib_hill",
+      "value": 5
+    },
+    {
+      "source": "leading",
+      "target": "arbor_low",
+      "value": 6
+    },
+    {
+      "source": "leading",
+      "target": "white",
+      "value": 8
+    },
+    {
+      "source": "leading",
+      "target": "slabs",
+      "value": 2
+    },
+    {
+      "source": "leading",
+      "target": "middle",
+      "value": 5
+    },
+    {
+      "source": "leading",
+      "target": "cove",
+      "value": 6
+    },
+    {
+      "source": "leading",
+      "target": "burial",
+      "value": 9
+    },
+    {
+      "source": "leading",
+      "target": "mound",
+      "value": 10
+    },
+    {
+      "source": "leading",
+      "target": "oval",
+      "value": 4
+    },
+    {
+      "source": "leading",
+      "target": "ditch",
+      "value": 4
+    },
+    {
+      "source": "leading",
+      "target": "henge",
+      "value": 5
+    },
+    {
+      "source": "leading",
+      "target": "stonehenge_of_the_north",
+      "value": 5
+    },
+    {
+      "source": "leading",
+      "target": "dark",
+      "value": 8
+    },
+    {
+      "source": "leading",
+      "target": "lathkill",
+      "value": 9
+    },
+    {
+      "source": "leading",
+      "target": "dale",
+      "value": 9
+    },
+    {
+      "source": "leading",
+      "target": "recharging",
+      "value": 10
+    },
+    {
+      "source": "leading",
+      "target": "winnowing",
+      "value": 4
+    },
+    {
+      "source": "leading",
+      "target": "chaff",
+      "value": 4
+    },
+    {
+      "source": "leading",
+      "target": "grain",
+      "value": 7
+    },
+    {
+      "source": "dark",
+      "target": "arbor",
+      "value": 6
+    },
+    {
+      "source": "dark",
+      "target": "low",
+      "value": 9
+    },
+    {
+      "source": "dark",
+      "target": "dirt",
+      "value": 7
+    },
+    {
+      "source": "dark",
+      "target": "track",
+      "value": 3
+    },
+    {
+      "source": "dark",
+      "target": "hotsungreen",
+      "value": 9
+    },
+    {
+      "source": "dark",
+      "target": "bowl",
+      "value": 10
+    },
+    {
+      "source": "dark",
+      "target": "stones",
+      "value": 5
+    },
+    {
+      "source": "dark",
+      "target": "fallen",
+      "value": 9
+    },
+    {
+      "source": "dark",
+      "target": "neolithic",
+      "value": 7
+    },
+    {
+      "source": "dark",
+      "target": "gib_hill",
+      "value": 3
+    },
+    {
+      "source": "dark",
+      "target": "arbor_low",
+      "value": 8
+    },
+    {
+      "source": "dark",
+      "target": "white",
+      "value": 7
+    },
+    {
+      "source": "dark",
+      "target": "slabs",
+      "value": 3
+    },
+    {
+      "source": "dark",
+      "target": "middle",
+      "value": 3
+    },
+    {
+      "source": "dark",
+      "target": "cove",
+      "value": 9
+    },
+    {
+      "source": "dark",
+      "target": "burial",
+      "value": 3
+    },
+    {
+      "source": "dark",
+      "target": "mound",
+      "value": 9
+    },
+    {
+      "source": "dark",
+      "target": "oval",
+      "value": 2
+    },
+    {
+      "source": "dark",
+      "target": "ditch",
+      "value": 2
+    },
+    {
+      "source": "dark",
+      "target": "henge",
+      "value": 6
+    },
+    {
+      "source": "dark",
+      "target": "stonehenge_of_the_north",
+      "value": 4
+    },
+    {
+      "source": "dark",
+      "target": "leading",
+      "value": 8
+    },
+    {
+      "source": "dark",
+      "target": "lathkill",
+      "value": 3
+    },
+    {
+      "source": "dark",
+      "target": "dale",
+      "value": 7
+    },
+    {
+      "source": "dark",
+      "target": "recharging",
+      "value": 7
+    },
+    {
+      "source": "dark",
+      "target": "winnowing",
+      "value": 6
+    },
+    {
+      "source": "dark",
+      "target": "chaff",
+      "value": 5
+    },
+    {
+      "source": "dark",
+      "target": "grain",
+      "value": 7
+    },
+    {
+      "source": "lathkill",
+      "target": "arbor",
+      "value": 2
+    },
+    {
+      "source": "lathkill",
+      "target": "low",
+      "value": 1
+    },
+    {
+      "source": "lathkill",
+      "target": "dirt",
+      "value": 5
+    },
+    {
+      "source": "lathkill",
+      "target": "track",
+      "value": 9
+    },
+    {
+      "source": "lathkill",
+      "target": "hotsungreen",
+      "value": 3
+    },
+    {
+      "source": "lathkill",
+      "target": "bowl",
+      "value": 3
+    },
+    {
+      "source": "lathkill",
+      "target": "stones",
+      "value": 2
+    },
+    {
+      "source": "lathkill",
+      "target": "fallen",
+      "value": 10
+    },
+    {
+      "source": "lathkill",
+      "target": "neolithic",
+      "value": 4
+    },
+    {
+      "source": "lathkill",
+      "target": "gib_hill",
+      "value": 3
+    },
+    {
+      "source": "lathkill",
+      "target": "arbor_low",
+      "value": 9
+    },
+    {
+      "source": "lathkill",
+      "target": "white",
+      "value": 9
+    },
+    {
+      "source": "lathkill",
+      "target": "slabs",
+      "value": 6
+    },
+    {
+      "source": "lathkill",
+      "target": "middle",
+      "value": 8
+    },
+    {
+      "source": "lathkill",
+      "target": "cove",
+      "value": 9
+    },
+    {
+      "source": "lathkill",
+      "target": "burial",
+      "value": 3
+    },
+    {
+      "source": "lathkill",
+      "target": "mound",
+      "value": 6
+    },
+    {
+      "source": "lathkill",
+      "target": "oval",
+      "value": 7
+    },
+    {
+      "source": "lathkill",
+      "target": "ditch",
+      "value": 9
+    },
+    {
+      "source": "lathkill",
+      "target": "henge",
+      "value": 5
+    },
+    {
+      "source": "lathkill",
+      "target": "stonehenge_of_the_north",
+      "value": 6
+    },
+    {
+      "source": "lathkill",
+      "target": "leading",
+      "value": 8
+    },
+    {
+      "source": "lathkill",
+      "target": "dark",
+      "value": 4
+    },
+    {
+      "source": "lathkill",
+      "target": "dale",
+      "value": 2
+    },
+    {
+      "source": "lathkill",
+      "target": "recharging",
+      "value": 1
+    },
+    {
+      "source": "lathkill",
+      "target": "winnowing",
+      "value": 4
+    },
+    {
+      "source": "lathkill",
+      "target": "chaff",
+      "value": 10
+    },
+    {
+      "source": "lathkill",
+      "target": "grain",
+      "value": 8
+    },
+    {
+      "source": "dale",
+      "target": "arbor",
+      "value": 8
+    },
+    {
+      "source": "dale",
+      "target": "low",
+      "value": 4
+    },
+    {
+      "source": "dale",
+      "target": "dirt",
+      "value": 2
+    },
+    {
+      "source": "dale",
+      "target": "track",
+      "value": 2
+    },
+    {
+      "source": "dale",
+      "target": "hotsungreen",
+      "value": 7
+    },
+    {
+      "source": "dale",
+      "target": "bowl",
+      "value": 10
+    },
+    {
+      "source": "dale",
+      "target": "stones",
+      "value": 4
+    },
+    {
+      "source": "dale",
+      "target": "fallen",
+      "value": 5
+    },
+    {
+      "source": "dale",
+      "target": "neolithic",
+      "value": 3
+    },
+    {
+      "source": "dale",
+      "target": "gib_hill",
+      "value": 9
+    },
+    {
+      "source": "dale",
+      "target": "arbor_low",
+      "value": 9
+    },
+    {
+      "source": "dale",
+      "target": "white",
+      "value": 4
+    },
+    {
+      "source": "dale",
+      "target": "slabs",
+      "value": 1
+    },
+    {
+      "source": "dale",
+      "target": "middle",
+      "value": 8
+    },
+    {
+      "source": "dale",
+      "target": "cove",
+      "value": 2
+    },
+    {
+      "source": "dale",
+      "target": "burial",
+      "value": 10
+    },
+    {
+      "source": "dale",
+      "target": "mound",
+      "value": 9
+    },
+    {
+      "source": "dale",
+      "target": "oval",
+      "value": 10
+    },
+    {
+      "source": "dale",
+      "target": "ditch",
+      "value": 3
+    },
+    {
+      "source": "dale",
+      "target": "henge",
+      "value": 1
+    },
+    {
+      "source": "dale",
+      "target": "stonehenge_of_the_north",
+      "value": 1
+    },
+    {
+      "source": "dale",
+      "target": "leading",
+      "value": 5
+    },
+    {
+      "source": "dale",
+      "target": "dark",
+      "value": 6
+    },
+    {
+      "source": "dale",
+      "target": "lathkill",
+      "value": 8
+    },
+    {
+      "source": "dale",
+      "target": "recharging",
+      "value": 4
+    },
+    {
+      "source": "dale",
+      "target": "winnowing",
+      "value": 1
+    },
+    {
+      "source": "dale",
+      "target": "chaff",
+      "value": 8
+    },
+    {
+      "source": "dale",
+      "target": "grain",
+      "value": 8
+    },
+    {
+      "source": "recharging",
+      "target": "arbor",
+      "value": 4
+    },
+    {
+      "source": "recharging",
+      "target": "low",
+      "value": 1
+    },
+    {
+      "source": "recharging",
+      "target": "dirt",
+      "value": 9
+    },
+    {
+      "source": "recharging",
+      "target": "track",
+      "value": 2
+    },
+    {
+      "source": "recharging",
+      "target": "hotsungreen",
+      "value": 8
+    },
+    {
+      "source": "recharging",
+      "target": "bowl",
+      "value": 5
+    },
+    {
+      "source": "recharging",
+      "target": "stones",
+      "value": 9
+    },
+    {
+      "source": "recharging",
+      "target": "fallen",
+      "value": 7
+    },
+    {
+      "source": "recharging",
+      "target": "neolithic",
+      "value": 1
+    },
+    {
+      "source": "recharging",
+      "target": "gib_hill",
+      "value": 6
+    },
+    {
+      "source": "recharging",
+      "target": "arbor_low",
+      "value": 2
+    },
+    {
+      "source": "recharging",
+      "target": "white",
+      "value": 2
+    },
+    {
+      "source": "recharging",
+      "target": "slabs",
+      "value": 10
+    },
+    {
+      "source": "recharging",
+      "target": "middle",
+      "value": 1
+    },
+    {
+      "source": "recharging",
+      "target": "cove",
+      "value": 6
+    },
+    {
+      "source": "recharging",
+      "target": "burial",
+      "value": 6
+    },
+    {
+      "source": "recharging",
+      "target": "mound",
+      "value": 4
+    },
+    {
+      "source": "recharging",
+      "target": "oval",
+      "value": 8
+    },
+    {
+      "source": "recharging",
+      "target": "ditch",
+      "value": 10
+    },
+    {
+      "source": "recharging",
+      "target": "henge",
+      "value": 2
+    },
+    {
+      "source": "recharging",
+      "target": "stonehenge_of_the_north",
+      "value": 7
+    },
+    {
+      "source": "recharging",
+      "target": "leading",
+      "value": 5
+    },
+    {
+      "source": "recharging",
+      "target": "dark",
+      "value": 9
+    },
+    {
+      "source": "recharging",
+      "target": "lathkill",
+      "value": 6
+    },
+    {
+      "source": "recharging",
+      "target": "dale",
+      "value": 5
+    },
+    {
+      "source": "recharging",
+      "target": "winnowing",
+      "value": 1
+    },
+    {
+      "source": "recharging",
+      "target": "chaff",
+      "value": 8
+    },
+    {
+      "source": "recharging",
+      "target": "grain",
+      "value": 4
+    },
+    {
+      "source": "winnowing",
+      "target": "arbor",
+      "value": 7
+    },
+    {
+      "source": "winnowing",
+      "target": "low",
+      "value": 5
+    },
+    {
+      "source": "winnowing",
+      "target": "dirt",
+      "value": 5
+    },
+    {
+      "source": "winnowing",
+      "target": "track",
+      "value": 6
+    },
+    {
+      "source": "winnowing",
+      "target": "hotsungreen",
+      "value": 2
+    },
+    {
+      "source": "winnowing",
+      "target": "bowl",
+      "value": 2
+    },
+    {
+      "source": "winnowing",
+      "target": "stones",
+      "value": 8
+    },
+    {
+      "source": "winnowing",
+      "target": "fallen",
+      "value": 4
+    },
+    {
+      "source": "winnowing",
+      "target": "neolithic",
+      "value": 6
+    },
+    {
+      "source": "winnowing",
+      "target": "gib_hill",
+      "value": 7
+    },
+    {
+      "source": "winnowing",
+      "target": "arbor_low",
+      "value": 1
+    },
+    {
+      "source": "winnowing",
+      "target": "white",
+      "value": 6
+    },
+    {
+      "source": "winnowing",
+      "target": "slabs",
+      "value": 9
+    },
+    {
+      "source": "winnowing",
+      "target": "middle",
+      "value": 4
+    },
+    {
+      "source": "winnowing",
+      "target": "cove",
+      "value": 1
+    },
+    {
+      "source": "winnowing",
+      "target": "burial",
+      "value": 4
+    },
+    {
+      "source": "winnowing",
+      "target": "mound",
+      "value": 5
+    },
+    {
+      "source": "winnowing",
+      "target": "oval",
+      "value": 4
+    },
+    {
+      "source": "winnowing",
+      "target": "ditch",
+      "value": 1
+    },
+    {
+      "source": "winnowing",
+      "target": "henge",
+      "value": 9
+    },
+    {
+      "source": "winnowing",
+      "target": "stonehenge_of_the_north",
+      "value": 7
+    },
+    {
+      "source": "winnowing",
+      "target": "leading",
+      "value": 5
+    },
+    {
+      "source": "winnowing",
+      "target": "dark",
+      "value": 6
+    },
+    {
+      "source": "winnowing",
+      "target": "lathkill",
+      "value": 7
+    },
+    {
+      "source": "winnowing",
+      "target": "dale",
+      "value": 1
+    },
+    {
+      "source": "winnowing",
+      "target": "recharging",
+      "value": 6
+    },
+    {
+      "source": "winnowing",
+      "target": "chaff",
+      "value": 6
+    },
+    {
+      "source": "winnowing",
+      "target": "grain",
+      "value": 4
+    },
+    {
+      "source": "chaff",
+      "target": "arbor",
+      "value": 9
+    },
+    {
+      "source": "chaff",
+      "target": "low",
+      "value": 1
+    },
+    {
+      "source": "chaff",
+      "target": "dirt",
+      "value": 4
+    },
+    {
+      "source": "chaff",
+      "target": "track",
+      "value": 2
+    },
+    {
+      "source": "chaff",
+      "target": "hotsungreen",
+      "value": 5
+    },
+    {
+      "source": "chaff",
+      "target": "bowl",
+      "value": 9
+    },
+    {
+      "source": "chaff",
+      "target": "stones",
+      "value": 7
+    },
+    {
+      "source": "chaff",
+      "target": "fallen",
+      "value": 8
+    },
+    {
+      "source": "chaff",
+      "target": "neolithic",
+      "value": 6
+    },
+    {
+      "source": "chaff",
+      "target": "gib_hill",
+      "value": 9
+    },
+    {
+      "source": "chaff",
+      "target": "arbor_low",
+      "value": 6
+    },
+    {
+      "source": "chaff",
+      "target": "white",
+      "value": 10
+    },
+    {
+      "source": "chaff",
+      "target": "slabs",
+      "value": 8
+    },
+    {
+      "source": "chaff",
+      "target": "middle",
+      "value": 8
+    },
+    {
+      "source": "chaff",
+      "target": "cove",
+      "value": 10
+    },
+    {
+      "source": "chaff",
+      "target": "burial",
+      "value": 6
+    },
+    {
+      "source": "chaff",
+      "target": "mound",
+      "value": 2
+    },
+    {
+      "source": "chaff",
+      "target": "oval",
+      "value": 3
+    },
+    {
+      "source": "chaff",
+      "target": "ditch",
+      "value": 6
+    },
+    {
+      "source": "chaff",
+      "target": "henge",
+      "value": 10
+    },
+    {
+      "source": "chaff",
+      "target": "stonehenge_of_the_north",
+      "value": 10
+    },
+    {
+      "source": "chaff",
+      "target": "leading",
+      "value": 6
+    },
+    {
+      "source": "chaff",
+      "target": "dark",
+      "value": 3
+    },
+    {
+      "source": "chaff",
+      "target": "lathkill",
+      "value": 4
+    },
+    {
+      "source": "chaff",
+      "target": "dale",
+      "value": 8
+    },
+    {
+      "source": "chaff",
+      "target": "recharging",
+      "value": 7
+    },
+    {
+      "source": "chaff",
+      "target": "winnowing",
+      "value": 7
+    },
+    {
+      "source": "chaff",
+      "target": "grain",
+      "value": 6
+    },
+    {
+      "source": "grain",
+      "target": "arbor",
+      "value": 3
+    },
+    {
+      "source": "grain",
+      "target": "low",
+      "value": 4
+    },
+    {
+      "source": "grain",
+      "target": "dirt",
+      "value": 7
+    },
+    {
+      "source": "grain",
+      "target": "track",
+      "value": 1
+    },
+    {
+      "source": "grain",
+      "target": "hotsungreen",
+      "value": 6
+    },
+    {
+      "source": "grain",
+      "target": "bowl",
+      "value": 10
+    },
+    {
+      "source": "grain",
+      "target": "stones",
+      "value": 8
+    },
+    {
+      "source": "grain",
+      "target": "fallen",
+      "value": 7
+    },
+    {
+      "source": "grain",
+      "target": "neolithic",
+      "value": 4
+    },
+    {
+      "source": "grain",
+      "target": "gib_hill",
+      "value": 7
+    },
+    {
+      "source": "grain",
+      "target": "arbor_low",
+      "value": 5
+    },
+    {
+      "source": "grain",
+      "target": "white",
+      "value": 10
+    },
+    {
+      "source": "grain",
+      "target": "slabs",
+      "value": 9
+    },
+    {
+      "source": "grain",
+      "target": "middle",
+      "value": 4
+    },
+    {
+      "source": "grain",
+      "target": "cove",
+      "value": 2
+    },
+    {
+      "source": "grain",
+      "target": "burial",
+      "value": 10
+    },
+    {
+      "source": "grain",
+      "target": "mound",
+      "value": 5
+    },
+    {
+      "source": "grain",
+      "target": "oval",
+      "value": 2
+    },
+    {
+      "source": "grain",
+      "target": "ditch",
+      "value": 1
+    },
+    {
+      "source": "grain",
+      "target": "henge",
+      "value": 2
+    },
+    {
+      "source": "grain",
+      "target": "stonehenge_of_the_north",
+      "value": 3
+    },
+    {
+      "source": "grain",
+      "target": "leading",
+      "value": 1
+    },
+    {
+      "source": "grain",
+      "target": "dark",
+      "value": 5
+    },
+    {
+      "source": "grain",
+      "target": "lathkill",
+      "value": 2
+    },
+    {
+      "source": "grain",
+      "target": "dale",
+      "value": 8
+    },
+    {
+      "source": "grain",
+      "target": "recharging",
+      "value": 10
+    },
+    {
+      "source": "grain",
+      "target": "winnowing",
+      "value": 4
+    },
+    {
+      "source": "grain",
+      "target": "chaff",
+      "value": 2
+    },
+    {
+      "source": "ley_lines",
+      "target": "passing",
+      "value": 4
+    },
+    {
+      "source": "passing",
+      "target": "ley_lines",
+      "value": 6
+    }
+  ]
+}
