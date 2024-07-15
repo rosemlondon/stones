@@ -45,12 +45,13 @@
     <div id="info-box">
         <div id="info-header"> Info</div>
         <div id="info-content">
-          <p>Pulling down the stones is a walking journal and data visualisation experiment, mapping the landmarks of the Old Stones pilgrimage - a three-day walk through the main neolithic monuments across the peak district - onto a 3D force-directed node graph. Force-directed graph algorithms use physical simulation to position nodes in three-dimensional space, where the forces mimic attraction and repulsion to represent the strength and nature of their connections. This algorithm helps to visually organize and reveal the underlying structure of complex networks. </p>
-          <p>This graph visualises data scraped from web forums and my journal after completing this walk in April 2024. The aim is to represent maps and walking differently. The work is built using the JavaScript library Three.js. Click on a location on the left to change dataset to a different location on the walk.</p>
-        </div>
+            <p>Pulling down the stones is a walking journal and data visualisation experiment, mapping the landmarks of the Old Stones pilgrimage - a three-day walk through the main neolithic monuments across the peak district - onto a 3D force-directed node graph. </p>
+            <p> This force-directed graph algorithm operates on the proximity of words and phrases ('tokens') within a sentence, and the shared repetition of those tokens within the text input. Forces then mimic attraction and repulsion to represent the strength of their connections, like roads between towns. This algorithm helps to visually organize and reveal the underlying structure of complex networks. </p>
+            <p>Data scraped from web forums and my journal after completing this walk in April 2024. The desire was to see how the land looked mapped by writing, not topgraphy. </p>
+            <p> Built using the JavaScript library Three.js. Best viewed on desktop. Click on a location on the left to change dataset to a different location on the walk. Pause and resume animation by buttons in top right. </p>        </div>
       </div>
     <div id="image-container">
-        <img id="node-image" src="" alt="Node Image">
+        <img id="node-image" src="">
     </div>
     <!-- Dataset options in the bottom right corner -->
     <div class="dataset-options">
@@ -64,13 +65,12 @@
             <img src="images/nineladies.jpg" alt="Nine Ladies" title="Nine Ladies" onclick="changeDataset('nine_ladies.json')">
         </div>
         <div class="dataset-option">
-            <img src="images/minninglowhilldataset.png" alt="Minninglow Hill" title="Minninglow Hill" onclick="changeDataset('narrative4.json')">
+            <img src="images/minninglowhilldataset.png" alt="Minninglow Hill" title="Minninglow Hill" onclick="changeDataset('minninglow_dataset.json')">
         </div>
         <div class="dataset-option">
-            <img src="images/arbor_hillshade.jpg" alt="Full Dataset" alt="Default Dataset" title="Back to Full Dataset" onclick="changeDataset('narrative5.json')">
+            <img src="images/arbor_hillshade.jpg" alt="Full Dataset" alt="Default Dataset" title="Back to Full Dataset" onclick="changeDataset('narrative.json')">
         </div>
     </div>
-    <script src="drag.js"></script>
     <script src="info.js"></script>
     <script>
         let Graph;
