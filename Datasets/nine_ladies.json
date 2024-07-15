@@ -1,0 +1,2758 @@
+{
+  "nodes": [
+    {
+      "id": "lathkill",
+      "group": 1
+    },
+    {
+      "id": "cave",
+      "group": 1
+    },
+    {
+      "id": "dale",
+      "group": 1
+    },
+    {
+      "id": "deep",
+      "group": 1
+    },
+    {
+      "id": "crevice",
+      "group": 1
+    },
+    {
+      "id": "gets",
+      "group": 1
+    },
+    {
+      "id": "humid",
+      "group": 1
+    },
+    {
+      "id": "damp",
+      "group": 1
+    },
+    {
+      "id": "farms",
+      "group": 1
+    },
+    {
+      "id": "river",
+      "group": 1
+    },
+    {
+      "id": "head",
+      "group": 1
+    },
+    {
+      "id": "neolithic",
+      "group": 1
+    },
+    {
+      "id": "emerges",
+      "group": 1
+    },
+    {
+      "id": "jacobs_ladder_orchid",
+      "group": 1
+    },
+    {
+      "id": "grows",
+      "group": 1
+    },
+    {
+      "id": "ssis",
+      "group": 1
+    },
+    {
+      "id": "ancient",
+      "group": 1
+    },
+    {
+      "id": "woodland",
+      "group": 1
+    },
+    {
+      "id": "winterborne",
+      "group": 1
+    },
+    {
+      "id": "human",
+      "group": 1
+    },
+    {
+      "id": "remains",
+      "group": 1
+    },
+    {
+      "id": "stream",
+      "group": 1
+    },
+    {
+      "id": "reddest",
+      "group": 1
+    },
+    {
+      "id": "redwater",
+      "group": 1
+    },
+    {
+      "id": "lead",
+      "group": 1
+    },
+    {
+      "id": "nine",
+      "group": 1
+    },
+    {
+      "id": "stones",
+      "group": 1
+    },
+    {
+      "id": "ladies",
+      "group": 1
+    },
+    {
+      "id": "stone",
+      "group": 1
+    },
+    {
+      "id": "circle",
+      "group": 1
+    },
+    {
+      "id": "stanton",
+      "group": 1
+    },
+    {
+      "id": "moor",
+      "group": 1
+    },
+    {
+      "id": "close",
+      "group": 1
+    },
+    {
+      "id": "robin",
+      "group": 1
+    },
+    {
+      "id": "hoods",
+      "group": 1
+    },
+    {
+      "id": "stride",
+      "group": 1
+    },
+    {
+      "id": "west",
+      "group": 1
+    },
+    {
+      "id": "facing",
+      "group": 1
+    },
+    {
+      "id": "gridbound",
+      "group": 1
+    },
+    {
+      "id": "hewn",
+      "group": 1
+    },
+    {
+      "id": "ring",
+      "group": 1
+    },
+    {
+      "id": "bakewell",
+      "group": 1
+    },
+    {
+      "id": "earthen",
+      "group": 1
+    },
+    {
+      "id": "tumulus",
+      "group": 1
+    },
+    {
+      "id": "following",
+      "group": 1
+    },
+    {
+      "id": "king",
+      "group": 1
+    },
+    {
+      "id": "late",
+      "group": 1
+    },
+    {
+      "id": "early",
+      "group": 1
+    },
+    {
+      "id": "bronze",
+      "group": 1
+    },
+    {
+      "id": "age",
+      "group": 1
+    },
+    {
+      "id": "cup_marks",
+      "group": 1
+    },
+    {
+      "id": "sandstone",
+      "group": 1
+    },
+    {
+      "id": "limestone",
+      "group": 1
+    },
+    {
+      "id": "way",
+      "group": 1
+    },
+    {
+      "id": "elton",
+      "group": 1
+    },
+    {
+      "id": "concessionary",
+      "group": 1
+    },
+    {
+      "id": "footpath",
+      "group": 1
+    },
+    {
+      "id": "access",
+      "group": 1
+    },
+    {
+      "id": "land",
+      "group": 1
+    },
+    {
+      "id": "cratcliff",
+      "group": 1
+    },
+    {
+      "id": "tor",
+      "group": 1
+    },
+    {
+      "id": "roman",
+      "group": 1
+    },
+    {
+      "id": "hermits",
+      "group": 1
+    },
+    {
+      "id": "chimneys",
+      "group": 1
+    },
+    {
+      "id": "rock",
+      "group": 1
+    },
+    {
+      "id": "formation",
+      "group": 1
+    },
+    {
+      "id": "north",
+      "group": 1
+    },
+    {
+      "id": "eastern",
+      "group": 1
+    },
+    {
+      "id": "face",
+      "group": 1
+    },
+    {
+      "id": "millstone",
+      "group": 1
+    },
+    {
+      "id": "being_followed",
+      "group": 1
+    },
+    {
+      "id": "ten",
+      "group": 1
+    },
+    {
+      "id": "grit",
+      "group": 1
+    },
+    {
+      "id": "builders",
+      "group": 1
+    },
+    {
+      "id": "supernatural",
+      "group": 1
+    },
+    {
+      "id": "entities",
+      "group": 1
+    },
+    {
+      "id": "earth",
+      "group": 1
+    },
+    {
+      "id": "rises",
+      "group": 1
+    },
+    {
+      "id": "bank",
+      "group": 1
+    },
+    {
+      "id": "fescue",
+      "group": 1
+    },
+    {
+      "id": "grasses",
+      "group": 1
+    },
+    {
+      "id": "heathland",
+      "group": 1
+    },
+    {
+      "id": "bronze_age",
+      "group": 1
+    },
+    {
+      "id": "earthwork",
+      "group": 1
+    },
+    {
+      "id": "structure",
+      "group": 1
+    },
+    {
+      "id": "upright",
+      "group": 1
+    },
+    {
+      "id": "lying",
+      "group": 1
+    },
+    {
+      "id": "faces",
+      "group": 1
+    },
+    {
+      "id": "looks",
+      "group": 1
+    },
+    {
+      "id": "pond",
+      "group": 1
+    },
+    {
+      "id": "barrow",
+      "group": 1
+    },
+    {
+      "id": "soils",
+      "group": 1
+    },
+    {
+      "id": "sculpted",
+      "group": 1
+    },
+    {
+      "id": "away",
+      "group": 1
+    },
+    {
+      "id": "loss",
+      "group": 1
+    },
+    {
+      "id": "caused",
+      "group": 1
+    },
+    {
+      "id": "visitors",
+      "group": 1
+    },
+    {
+      "id": "digging",
+      "group": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "lathkill",
+      "target": "lathkill",
+      "value": 6
+    },
+    {
+      "source": "lathkill",
+      "target": "cave",
+      "value": 6
+    },
+    {
+      "source": "lathkill",
+      "target": "dale",
+      "value": 4
+    },
+    {
+      "source": "lathkill",
+      "target": "deep",
+      "value": 3
+    },
+    {
+      "source": "lathkill",
+      "target": "crevice",
+      "value": 3
+    },
+    {
+      "source": "dale",
+      "target": "lathkill",
+      "value": 4
+    },
+    {
+      "source": "dale",
+      "target": "cave",
+      "value": 2
+    },
+    {
+      "source": "dale",
+      "target": "gets",
+      "value": 1
+    },
+    {
+      "source": "dale",
+      "target": "humid",
+      "value": 1
+    },
+    {
+      "source": "dale",
+      "target": "damp",
+      "value": 1
+    },
+    {
+      "source": "gets",
+      "target": "dale",
+      "value": 1
+    },
+    {
+      "source": "gets",
+      "target": "humid",
+      "value": 1
+    },
+    {
+      "source": "gets",
+      "target": "damp",
+      "value": 1
+    },
+    {
+      "source": "humid",
+      "target": "dale",
+      "value": 1
+    },
+    {
+      "source": "humid",
+      "target": "gets",
+      "value": 1
+    },
+    {
+      "source": "humid",
+      "target": "damp",
+      "value": 1
+    },
+    {
+      "source": "damp",
+      "target": "dale",
+      "value": 1
+    },
+    {
+      "source": "damp",
+      "target": "gets",
+      "value": 1
+    },
+    {
+      "source": "damp",
+      "target": "humid",
+      "value": 1
+    },
+    {
+      "source": "deep",
+      "target": "lathkill",
+      "value": 3
+    },
+    {
+      "source": "deep",
+      "target": "cave",
+      "value": 2
+    },
+    {
+      "source": "deep",
+      "target": "crevice",
+      "value": 1
+    },
+    {
+      "source": "deep",
+      "target": "farms",
+      "value": 1
+    },
+    {
+      "source": "deep",
+      "target": "river",
+      "value": 1
+    },
+    {
+      "source": "crevice",
+      "target": "lathkill",
+      "value": 3
+    },
+    {
+      "source": "crevice",
+      "target": "cave",
+      "value": 2
+    },
+    {
+      "source": "crevice",
+      "target": "deep",
+      "value": 1
+    },
+    {
+      "source": "crevice",
+      "target": "farms",
+      "value": 1
+    },
+    {
+      "source": "crevice",
+      "target": "river",
+      "value": 1
+    },
+    {
+      "source": "farms",
+      "target": "lathkill",
+      "value": 3
+    },
+    {
+      "source": "farms",
+      "target": "cave",
+      "value": 2
+    },
+    {
+      "source": "farms",
+      "target": "deep",
+      "value": 1
+    },
+    {
+      "source": "farms",
+      "target": "crevice",
+      "value": 1
+    },
+    {
+      "source": "farms",
+      "target": "river",
+      "value": 1
+    },
+    {
+      "source": "river",
+      "target": "lathkill",
+      "value": 3
+    },
+    {
+      "source": "river",
+      "target": "cave",
+      "value": 2
+    },
+    {
+      "source": "river",
+      "target": "deep",
+      "value": 1
+    },
+    {
+      "source": "river",
+      "target": "crevice",
+      "value": 1
+    },
+    {
+      "source": "river",
+      "target": "farms",
+      "value": 1
+    },
+    {
+      "source": "head",
+      "target": "lathkill",
+      "value": 3
+    },
+    {
+      "source": "head",
+      "target": "cave",
+      "value": 2
+    },
+    {
+      "source": "head",
+      "target": "deep",
+      "value": 1
+    },
+    {
+      "source": "head",
+      "target": "crevice",
+      "value": 1
+    },
+    {
+      "source": "head",
+      "target": "farms",
+      "value": 1
+    },
+    {
+      "source": "cave",
+      "target": "lathkill",
+      "value": 6
+    },
+    {
+      "source": "cave",
+      "target": "deep",
+      "value": 2
+    },
+    {
+      "source": "cave",
+      "target": "crevice",
+      "value": 2
+    },
+    {
+      "source": "cave",
+      "target": "farms",
+      "value": 2
+    },
+    {
+      "source": "cave",
+      "target": "river",
+      "value": 2
+    },
+    {
+      "source": "neolithic",
+      "target": "lathkill",
+      "value": 3
+    },
+    {
+      "source": "neolithic",
+      "target": "cave",
+      "value": 2
+    },
+    {
+      "source": "neolithic",
+      "target": "deep",
+      "value": 1
+    },
+    {
+      "source": "neolithic",
+      "target": "crevice",
+      "value": 1
+    },
+    {
+      "source": "neolithic",
+      "target": "farms",
+      "value": 1
+    },
+    {
+      "source": "emerges",
+      "target": "lathkill",
+      "value": 3
+    },
+    {
+      "source": "emerges",
+      "target": "cave",
+      "value": 2
+    },
+    {
+      "source": "emerges",
+      "target": "deep",
+      "value": 1
+    },
+    {
+      "source": "emerges",
+      "target": "crevice",
+      "value": 1
+    },
+    {
+      "source": "emerges",
+      "target": "farms",
+      "value": 1
+    },
+    {
+      "source": "jacobs_ladder_orchid",
+      "target": "lathkill",
+      "value": 3
+    },
+    {
+      "source": "jacobs_ladder_orchid",
+      "target": "cave",
+      "value": 2
+    },
+    {
+      "source": "jacobs_ladder_orchid",
+      "target": "deep",
+      "value": 1
+    },
+    {
+      "source": "jacobs_ladder_orchid",
+      "target": "crevice",
+      "value": 1
+    },
+    {
+      "source": "jacobs_ladder_orchid",
+      "target": "farms",
+      "value": 1
+    },
+    {
+      "source": "grows",
+      "target": "lathkill",
+      "value": 3
+    },
+    {
+      "source": "grows",
+      "target": "cave",
+      "value": 2
+    },
+    {
+      "source": "grows",
+      "target": "deep",
+      "value": 1
+    },
+    {
+      "source": "grows",
+      "target": "crevice",
+      "value": 1
+    },
+    {
+      "source": "grows",
+      "target": "farms",
+      "value": 1
+    },
+    {
+      "source": "ssis",
+      "target": "lathkill",
+      "value": 3
+    },
+    {
+      "source": "ssis",
+      "target": "cave",
+      "value": 2
+    },
+    {
+      "source": "ssis",
+      "target": "deep",
+      "value": 1
+    },
+    {
+      "source": "ssis",
+      "target": "crevice",
+      "value": 1
+    },
+    {
+      "source": "ssis",
+      "target": "farms",
+      "value": 1
+    },
+    {
+      "source": "ancient",
+      "target": "lathkill",
+      "value": 3
+    },
+    {
+      "source": "ancient",
+      "target": "cave",
+      "value": 2
+    },
+    {
+      "source": "ancient",
+      "target": "deep",
+      "value": 1
+    },
+    {
+      "source": "ancient",
+      "target": "crevice",
+      "value": 1
+    },
+    {
+      "source": "ancient",
+      "target": "farms",
+      "value": 1
+    },
+    {
+      "source": "woodland",
+      "target": "lathkill",
+      "value": 3
+    },
+    {
+      "source": "woodland",
+      "target": "cave",
+      "value": 2
+    },
+    {
+      "source": "woodland",
+      "target": "deep",
+      "value": 1
+    },
+    {
+      "source": "woodland",
+      "target": "crevice",
+      "value": 1
+    },
+    {
+      "source": "woodland",
+      "target": "farms",
+      "value": 1
+    },
+    {
+      "source": "winterborne",
+      "target": "lathkill",
+      "value": 3
+    },
+    {
+      "source": "winterborne",
+      "target": "cave",
+      "value": 2
+    },
+    {
+      "source": "winterborne",
+      "target": "deep",
+      "value": 1
+    },
+    {
+      "source": "winterborne",
+      "target": "crevice",
+      "value": 1
+    },
+    {
+      "source": "winterborne",
+      "target": "farms",
+      "value": 1
+    },
+    {
+      "source": "human",
+      "target": "lathkill",
+      "value": 3
+    },
+    {
+      "source": "human",
+      "target": "cave",
+      "value": 2
+    },
+    {
+      "source": "human",
+      "target": "remains",
+      "value": 2
+    },
+    {
+      "source": "human",
+      "target": "deep",
+      "value": 1
+    },
+    {
+      "source": "human",
+      "target": "crevice",
+      "value": 1
+    },
+    {
+      "source": "remains",
+      "target": "lathkill",
+      "value": 3
+    },
+    {
+      "source": "remains",
+      "target": "cave",
+      "value": 2
+    },
+    {
+      "source": "remains",
+      "target": "human",
+      "value": 2
+    },
+    {
+      "source": "remains",
+      "target": "deep",
+      "value": 1
+    },
+    {
+      "source": "remains",
+      "target": "crevice",
+      "value": 1
+    },
+    {
+      "source": "stream",
+      "target": "lathkill",
+      "value": 3
+    },
+    {
+      "source": "stream",
+      "target": "cave",
+      "value": 2
+    },
+    {
+      "source": "stream",
+      "target": "deep",
+      "value": 1
+    },
+    {
+      "source": "stream",
+      "target": "crevice",
+      "value": 1
+    },
+    {
+      "source": "stream",
+      "target": "farms",
+      "value": 1
+    },
+    {
+      "source": "reddest",
+      "target": "lathkill",
+      "value": 3
+    },
+    {
+      "source": "reddest",
+      "target": "cave",
+      "value": 2
+    },
+    {
+      "source": "reddest",
+      "target": "deep",
+      "value": 1
+    },
+    {
+      "source": "reddest",
+      "target": "crevice",
+      "value": 1
+    },
+    {
+      "source": "reddest",
+      "target": "farms",
+      "value": 1
+    },
+    {
+      "source": "redwater",
+      "target": "lathkill",
+      "value": 3
+    },
+    {
+      "source": "redwater",
+      "target": "cave",
+      "value": 2
+    },
+    {
+      "source": "redwater",
+      "target": "deep",
+      "value": 1
+    },
+    {
+      "source": "redwater",
+      "target": "crevice",
+      "value": 1
+    },
+    {
+      "source": "redwater",
+      "target": "farms",
+      "value": 1
+    },
+    {
+      "source": "lead",
+      "target": "lathkill",
+      "value": 3
+    },
+    {
+      "source": "lead",
+      "target": "cave",
+      "value": 2
+    },
+    {
+      "source": "lead",
+      "target": "deep",
+      "value": 1
+    },
+    {
+      "source": "lead",
+      "target": "crevice",
+      "value": 1
+    },
+    {
+      "source": "lead",
+      "target": "farms",
+      "value": 1
+    },
+    {
+      "source": "nine",
+      "target": "lathkill",
+      "value": 3
+    },
+    {
+      "source": "nine",
+      "target": "stones",
+      "value": 3
+    },
+    {
+      "source": "nine",
+      "target": "ladies",
+      "value": 3
+    },
+    {
+      "source": "nine",
+      "target": "stone",
+      "value": 3
+    },
+    {
+      "source": "nine",
+      "target": "circle",
+      "value": 3
+    },
+    {
+      "source": "stones",
+      "target": "lathkill",
+      "value": 3
+    },
+    {
+      "source": "stones",
+      "target": "nine",
+      "value": 3
+    },
+    {
+      "source": "stones",
+      "target": "cave",
+      "value": 2
+    },
+    {
+      "source": "stones",
+      "target": "stanton",
+      "value": 2
+    },
+    {
+      "source": "stones",
+      "target": "moor",
+      "value": 2
+    },
+    {
+      "source": "close",
+      "target": "lathkill",
+      "value": 3
+    },
+    {
+      "source": "close",
+      "target": "cave",
+      "value": 2
+    },
+    {
+      "source": "close",
+      "target": "deep",
+      "value": 1
+    },
+    {
+      "source": "close",
+      "target": "crevice",
+      "value": 1
+    },
+    {
+      "source": "close",
+      "target": "farms",
+      "value": 1
+    },
+    {
+      "source": "robin",
+      "target": "nine",
+      "value": 1
+    },
+    {
+      "source": "robin",
+      "target": "stones",
+      "value": 1
+    },
+    {
+      "source": "robin",
+      "target": "hoods",
+      "value": 1
+    },
+    {
+      "source": "robin",
+      "target": "stride",
+      "value": 1
+    },
+    {
+      "source": "robin",
+      "target": "west",
+      "value": 1
+    },
+    {
+      "source": "hoods",
+      "target": "nine",
+      "value": 1
+    },
+    {
+      "source": "hoods",
+      "target": "stones",
+      "value": 1
+    },
+    {
+      "source": "hoods",
+      "target": "robin",
+      "value": 1
+    },
+    {
+      "source": "hoods",
+      "target": "stride",
+      "value": 1
+    },
+    {
+      "source": "hoods",
+      "target": "west",
+      "value": 1
+    },
+    {
+      "source": "stride",
+      "target": "nine",
+      "value": 1
+    },
+    {
+      "source": "stride",
+      "target": "stones",
+      "value": 1
+    },
+    {
+      "source": "stride",
+      "target": "robin",
+      "value": 1
+    },
+    {
+      "source": "stride",
+      "target": "hoods",
+      "value": 1
+    },
+    {
+      "source": "stride",
+      "target": "west",
+      "value": 1
+    },
+    {
+      "source": "west",
+      "target": "nine",
+      "value": 1
+    },
+    {
+      "source": "west",
+      "target": "stones",
+      "value": 1
+    },
+    {
+      "source": "west",
+      "target": "robin",
+      "value": 1
+    },
+    {
+      "source": "west",
+      "target": "hoods",
+      "value": 1
+    },
+    {
+      "source": "west",
+      "target": "stride",
+      "value": 1
+    },
+    {
+      "source": "stanton",
+      "target": "nine",
+      "value": 2
+    },
+    {
+      "source": "stanton",
+      "target": "stones",
+      "value": 2
+    },
+    {
+      "source": "stanton",
+      "target": "moor",
+      "value": 2
+    },
+    {
+      "source": "stanton",
+      "target": "ladies",
+      "value": 2
+    },
+    {
+      "source": "stanton",
+      "target": "stone",
+      "value": 2
+    },
+    {
+      "source": "moor",
+      "target": "nine",
+      "value": 2
+    },
+    {
+      "source": "moor",
+      "target": "stones",
+      "value": 2
+    },
+    {
+      "source": "moor",
+      "target": "stanton",
+      "value": 2
+    },
+    {
+      "source": "moor",
+      "target": "ladies",
+      "value": 2
+    },
+    {
+      "source": "moor",
+      "target": "stone",
+      "value": 2
+    },
+    {
+      "source": "ladies",
+      "target": "nine",
+      "value": 3
+    },
+    {
+      "source": "ladies",
+      "target": "stone",
+      "value": 3
+    },
+    {
+      "source": "ladies",
+      "target": "circle",
+      "value": 3
+    },
+    {
+      "source": "ladies",
+      "target": "stones",
+      "value": 2
+    },
+    {
+      "source": "ladies",
+      "target": "stanton",
+      "value": 2
+    },
+    {
+      "source": "facing",
+      "target": "nine",
+      "value": 1
+    },
+    {
+      "source": "facing",
+      "target": "stones",
+      "value": 1
+    },
+    {
+      "source": "facing",
+      "target": "robin",
+      "value": 1
+    },
+    {
+      "source": "facing",
+      "target": "hoods",
+      "value": 1
+    },
+    {
+      "source": "facing",
+      "target": "stride",
+      "value": 1
+    },
+    {
+      "source": "gridbound",
+      "target": "nine",
+      "value": 1
+    },
+    {
+      "source": "gridbound",
+      "target": "stones",
+      "value": 1
+    },
+    {
+      "source": "gridbound",
+      "target": "robin",
+      "value": 1
+    },
+    {
+      "source": "gridbound",
+      "target": "hoods",
+      "value": 1
+    },
+    {
+      "source": "gridbound",
+      "target": "stride",
+      "value": 1
+    },
+    {
+      "source": "hewn",
+      "target": "ring",
+      "value": 1
+    },
+    {
+      "source": "hewn",
+      "target": "bakewell",
+      "value": 1
+    },
+    {
+      "source": "hewn",
+      "target": "stone",
+      "value": 1
+    },
+    {
+      "source": "ring",
+      "target": "hewn",
+      "value": 1
+    },
+    {
+      "source": "ring",
+      "target": "bakewell",
+      "value": 1
+    },
+    {
+      "source": "ring",
+      "target": "stone",
+      "value": 1
+    },
+    {
+      "source": "ring",
+      "target": "earthen",
+      "value": 1
+    },
+    {
+      "source": "ring",
+      "target": "tumulus",
+      "value": 1
+    },
+    {
+      "source": "bakewell",
+      "target": "hewn",
+      "value": 1
+    },
+    {
+      "source": "bakewell",
+      "target": "ring",
+      "value": 1
+    },
+    {
+      "source": "bakewell",
+      "target": "stone",
+      "value": 1
+    },
+    {
+      "source": "stone",
+      "target": "circle",
+      "value": 4
+    },
+    {
+      "source": "stone",
+      "target": "following",
+      "value": 4
+    },
+    {
+      "source": "stone",
+      "target": "nine",
+      "value": 3
+    },
+    {
+      "source": "stone",
+      "target": "ladies",
+      "value": 3
+    },
+    {
+      "source": "stone",
+      "target": "king",
+      "value": 3
+    },
+    {
+      "source": "late",
+      "target": "neolithic",
+      "value": 1
+    },
+    {
+      "source": "late",
+      "target": "early",
+      "value": 1
+    },
+    {
+      "source": "late",
+      "target": "bronze",
+      "value": 1
+    },
+    {
+      "source": "late",
+      "target": "age",
+      "value": 1
+    },
+    {
+      "source": "late",
+      "target": "cup_marks",
+      "value": 1
+    },
+    {
+      "source": "early",
+      "target": "stone",
+      "value": 3
+    },
+    {
+      "source": "early",
+      "target": "circle",
+      "value": 3
+    },
+    {
+      "source": "early",
+      "target": "nine",
+      "value": 2
+    },
+    {
+      "source": "early",
+      "target": "ladies",
+      "value": 2
+    },
+    {
+      "source": "early",
+      "target": "following",
+      "value": 2
+    },
+    {
+      "source": "bronze",
+      "target": "late",
+      "value": 1
+    },
+    {
+      "source": "bronze",
+      "target": "neolithic",
+      "value": 1
+    },
+    {
+      "source": "bronze",
+      "target": "early",
+      "value": 1
+    },
+    {
+      "source": "bronze",
+      "target": "age",
+      "value": 1
+    },
+    {
+      "source": "bronze",
+      "target": "cup_marks",
+      "value": 1
+    },
+    {
+      "source": "age",
+      "target": "late",
+      "value": 1
+    },
+    {
+      "source": "age",
+      "target": "neolithic",
+      "value": 1
+    },
+    {
+      "source": "age",
+      "target": "early",
+      "value": 1
+    },
+    {
+      "source": "age",
+      "target": "bronze",
+      "value": 1
+    },
+    {
+      "source": "age",
+      "target": "cup_marks",
+      "value": 1
+    },
+    {
+      "source": "cup_marks",
+      "target": "late",
+      "value": 1
+    },
+    {
+      "source": "cup_marks",
+      "target": "neolithic",
+      "value": 1
+    },
+    {
+      "source": "cup_marks",
+      "target": "early",
+      "value": 1
+    },
+    {
+      "source": "cup_marks",
+      "target": "bronze",
+      "value": 1
+    },
+    {
+      "source": "cup_marks",
+      "target": "age",
+      "value": 1
+    },
+    {
+      "source": "earthen",
+      "target": "circle",
+      "value": 2
+    },
+    {
+      "source": "earthen",
+      "target": "tumulus",
+      "value": 1
+    },
+    {
+      "source": "earthen",
+      "target": "ring",
+      "value": 1
+    },
+    {
+      "source": "earthen",
+      "target": "sandstone",
+      "value": 1
+    },
+    {
+      "source": "earthen",
+      "target": "limestone",
+      "value": 1
+    },
+    {
+      "source": "tumulus",
+      "target": "earthen",
+      "value": 1
+    },
+    {
+      "source": "tumulus",
+      "target": "ring",
+      "value": 1
+    },
+    {
+      "source": "tumulus",
+      "target": "sandstone",
+      "value": 1
+    },
+    {
+      "source": "tumulus",
+      "target": "limestone",
+      "value": 1
+    },
+    {
+      "source": "tumulus",
+      "target": "way",
+      "value": 1
+    },
+    {
+      "source": "sandstone",
+      "target": "earthen",
+      "value": 1
+    },
+    {
+      "source": "sandstone",
+      "target": "tumulus",
+      "value": 1
+    },
+    {
+      "source": "sandstone",
+      "target": "ring",
+      "value": 1
+    },
+    {
+      "source": "sandstone",
+      "target": "limestone",
+      "value": 1
+    },
+    {
+      "source": "sandstone",
+      "target": "way",
+      "value": 1
+    },
+    {
+      "source": "limestone",
+      "target": "earthen",
+      "value": 1
+    },
+    {
+      "source": "limestone",
+      "target": "tumulus",
+      "value": 1
+    },
+    {
+      "source": "limestone",
+      "target": "ring",
+      "value": 1
+    },
+    {
+      "source": "limestone",
+      "target": "sandstone",
+      "value": 1
+    },
+    {
+      "source": "limestone",
+      "target": "way",
+      "value": 1
+    },
+    {
+      "source": "way",
+      "target": "earthen",
+      "value": 1
+    },
+    {
+      "source": "way",
+      "target": "tumulus",
+      "value": 1
+    },
+    {
+      "source": "way",
+      "target": "ring",
+      "value": 1
+    },
+    {
+      "source": "way",
+      "target": "sandstone",
+      "value": 1
+    },
+    {
+      "source": "way",
+      "target": "limestone",
+      "value": 1
+    },
+    {
+      "source": "elton",
+      "target": "earthen",
+      "value": 1
+    },
+    {
+      "source": "elton",
+      "target": "tumulus",
+      "value": 1
+    },
+    {
+      "source": "elton",
+      "target": "ring",
+      "value": 1
+    },
+    {
+      "source": "elton",
+      "target": "sandstone",
+      "value": 1
+    },
+    {
+      "source": "elton",
+      "target": "limestone",
+      "value": 1
+    },
+    {
+      "source": "concessionary",
+      "target": "footpath",
+      "value": 1
+    },
+    {
+      "source": "concessionary",
+      "target": "access",
+      "value": 1
+    },
+    {
+      "source": "concessionary",
+      "target": "land",
+      "value": 1
+    },
+    {
+      "source": "concessionary",
+      "target": "cratcliff",
+      "value": 1
+    },
+    {
+      "source": "concessionary",
+      "target": "tor",
+      "value": 1
+    },
+    {
+      "source": "footpath",
+      "target": "concessionary",
+      "value": 1
+    },
+    {
+      "source": "footpath",
+      "target": "access",
+      "value": 1
+    },
+    {
+      "source": "footpath",
+      "target": "land",
+      "value": 1
+    },
+    {
+      "source": "footpath",
+      "target": "cratcliff",
+      "value": 1
+    },
+    {
+      "source": "footpath",
+      "target": "tor",
+      "value": 1
+    },
+    {
+      "source": "access",
+      "target": "concessionary",
+      "value": 1
+    },
+    {
+      "source": "access",
+      "target": "footpath",
+      "value": 1
+    },
+    {
+      "source": "access",
+      "target": "land",
+      "value": 1
+    },
+    {
+      "source": "access",
+      "target": "cratcliff",
+      "value": 1
+    },
+    {
+      "source": "access",
+      "target": "tor",
+      "value": 1
+    },
+    {
+      "source": "land",
+      "target": "concessionary",
+      "value": 1
+    },
+    {
+      "source": "land",
+      "target": "footpath",
+      "value": 1
+    },
+    {
+      "source": "land",
+      "target": "access",
+      "value": 1
+    },
+    {
+      "source": "land",
+      "target": "cratcliff",
+      "value": 1
+    },
+    {
+      "source": "land",
+      "target": "tor",
+      "value": 1
+    },
+    {
+      "source": "cratcliff",
+      "target": "concessionary",
+      "value": 1
+    },
+    {
+      "source": "cratcliff",
+      "target": "footpath",
+      "value": 1
+    },
+    {
+      "source": "cratcliff",
+      "target": "access",
+      "value": 1
+    },
+    {
+      "source": "cratcliff",
+      "target": "land",
+      "value": 1
+    },
+    {
+      "source": "cratcliff",
+      "target": "tor",
+      "value": 1
+    },
+    {
+      "source": "tor",
+      "target": "concessionary",
+      "value": 1
+    },
+    {
+      "source": "tor",
+      "target": "footpath",
+      "value": 1
+    },
+    {
+      "source": "tor",
+      "target": "access",
+      "value": 1
+    },
+    {
+      "source": "tor",
+      "target": "land",
+      "value": 1
+    },
+    {
+      "source": "tor",
+      "target": "cratcliff",
+      "value": 1
+    },
+    {
+      "source": "roman",
+      "target": "concessionary",
+      "value": 1
+    },
+    {
+      "source": "roman",
+      "target": "footpath",
+      "value": 1
+    },
+    {
+      "source": "roman",
+      "target": "access",
+      "value": 1
+    },
+    {
+      "source": "roman",
+      "target": "land",
+      "value": 1
+    },
+    {
+      "source": "roman",
+      "target": "cratcliff",
+      "value": 1
+    },
+    {
+      "source": "hermits",
+      "target": "concessionary",
+      "value": 1
+    },
+    {
+      "source": "hermits",
+      "target": "footpath",
+      "value": 1
+    },
+    {
+      "source": "hermits",
+      "target": "access",
+      "value": 1
+    },
+    {
+      "source": "hermits",
+      "target": "land",
+      "value": 1
+    },
+    {
+      "source": "hermits",
+      "target": "cratcliff",
+      "value": 1
+    },
+    {
+      "source": "chimneys",
+      "target": "concessionary",
+      "value": 1
+    },
+    {
+      "source": "chimneys",
+      "target": "footpath",
+      "value": 1
+    },
+    {
+      "source": "chimneys",
+      "target": "access",
+      "value": 1
+    },
+    {
+      "source": "chimneys",
+      "target": "land",
+      "value": 1
+    },
+    {
+      "source": "chimneys",
+      "target": "cratcliff",
+      "value": 1
+    },
+    {
+      "source": "rock",
+      "target": "concessionary",
+      "value": 1
+    },
+    {
+      "source": "rock",
+      "target": "footpath",
+      "value": 1
+    },
+    {
+      "source": "rock",
+      "target": "access",
+      "value": 1
+    },
+    {
+      "source": "rock",
+      "target": "land",
+      "value": 1
+    },
+    {
+      "source": "rock",
+      "target": "cratcliff",
+      "value": 1
+    },
+    {
+      "source": "formation",
+      "target": "concessionary",
+      "value": 1
+    },
+    {
+      "source": "formation",
+      "target": "footpath",
+      "value": 1
+    },
+    {
+      "source": "formation",
+      "target": "access",
+      "value": 1
+    },
+    {
+      "source": "formation",
+      "target": "land",
+      "value": 1
+    },
+    {
+      "source": "formation",
+      "target": "cratcliff",
+      "value": 1
+    },
+    {
+      "source": "north",
+      "target": "concessionary",
+      "value": 1
+    },
+    {
+      "source": "north",
+      "target": "footpath",
+      "value": 1
+    },
+    {
+      "source": "north",
+      "target": "access",
+      "value": 1
+    },
+    {
+      "source": "north",
+      "target": "land",
+      "value": 1
+    },
+    {
+      "source": "north",
+      "target": "cratcliff",
+      "value": 1
+    },
+    {
+      "source": "eastern",
+      "target": "concessionary",
+      "value": 1
+    },
+    {
+      "source": "eastern",
+      "target": "footpath",
+      "value": 1
+    },
+    {
+      "source": "eastern",
+      "target": "access",
+      "value": 1
+    },
+    {
+      "source": "eastern",
+      "target": "land",
+      "value": 1
+    },
+    {
+      "source": "eastern",
+      "target": "cratcliff",
+      "value": 1
+    },
+    {
+      "source": "face",
+      "target": "concessionary",
+      "value": 1
+    },
+    {
+      "source": "face",
+      "target": "footpath",
+      "value": 1
+    },
+    {
+      "source": "face",
+      "target": "access",
+      "value": 1
+    },
+    {
+      "source": "face",
+      "target": "land",
+      "value": 1
+    },
+    {
+      "source": "face",
+      "target": "cratcliff",
+      "value": 1
+    },
+    {
+      "source": "circle",
+      "target": "stone",
+      "value": 4
+    },
+    {
+      "source": "circle",
+      "target": "nine",
+      "value": 3
+    },
+    {
+      "source": "circle",
+      "target": "ladies",
+      "value": 3
+    },
+    {
+      "source": "circle",
+      "target": "early",
+      "value": 3
+    },
+    {
+      "source": "circle",
+      "target": "millstone",
+      "value": 3
+    },
+    {
+      "source": "king",
+      "target": "stone",
+      "value": 3
+    },
+    {
+      "source": "king",
+      "target": "following",
+      "value": 2
+    },
+    {
+      "source": "king",
+      "target": "nine",
+      "value": 1
+    },
+    {
+      "source": "king",
+      "target": "ladies",
+      "value": 1
+    },
+    {
+      "source": "king",
+      "target": "circle",
+      "value": 1
+    },
+    {
+      "source": "being_followed",
+      "target": "stone",
+      "value": 2
+    },
+    {
+      "source": "being_followed",
+      "target": "following",
+      "value": 2
+    },
+    {
+      "source": "being_followed",
+      "target": "nine",
+      "value": 1
+    },
+    {
+      "source": "being_followed",
+      "target": "ladies",
+      "value": 1
+    },
+    {
+      "source": "being_followed",
+      "target": "circle",
+      "value": 1
+    },
+    {
+      "source": "following",
+      "target": "stone",
+      "value": 4
+    },
+    {
+      "source": "following",
+      "target": "nine",
+      "value": 2
+    },
+    {
+      "source": "following",
+      "target": "ladies",
+      "value": 2
+    },
+    {
+      "source": "following",
+      "target": "circle",
+      "value": 2
+    },
+    {
+      "source": "following",
+      "target": "king",
+      "value": 2
+    },
+    {
+      "source": "ten",
+      "target": "stone",
+      "value": 2
+    },
+    {
+      "source": "ten",
+      "target": "following",
+      "value": 2
+    },
+    {
+      "source": "ten",
+      "target": "nine",
+      "value": 1
+    },
+    {
+      "source": "ten",
+      "target": "ladies",
+      "value": 1
+    },
+    {
+      "source": "ten",
+      "target": "circle",
+      "value": 1
+    },
+    {
+      "source": "millstone",
+      "target": "stone",
+      "value": 3
+    },
+    {
+      "source": "millstone",
+      "target": "circle",
+      "value": 3
+    },
+    {
+      "source": "millstone",
+      "target": "nine",
+      "value": 2
+    },
+    {
+      "source": "millstone",
+      "target": "ladies",
+      "value": 2
+    },
+    {
+      "source": "millstone",
+      "target": "early",
+      "value": 2
+    },
+    {
+      "source": "grit",
+      "target": "stone",
+      "value": 3
+    },
+    {
+      "source": "grit",
+      "target": "circle",
+      "value": 3
+    },
+    {
+      "source": "grit",
+      "target": "nine",
+      "value": 2
+    },
+    {
+      "source": "grit",
+      "target": "ladies",
+      "value": 2
+    },
+    {
+      "source": "grit",
+      "target": "early",
+      "value": 2
+    },
+    {
+      "source": "builders",
+      "target": "circle",
+      "value": 2
+    },
+    {
+      "source": "builders",
+      "target": "nine",
+      "value": 1
+    },
+    {
+      "source": "builders",
+      "target": "ladies",
+      "value": 1
+    },
+    {
+      "source": "builders",
+      "target": "stone",
+      "value": 1
+    },
+    {
+      "source": "builders",
+      "target": "supernatural",
+      "value": 1
+    },
+    {
+      "source": "supernatural",
+      "target": "circle",
+      "value": 2
+    },
+    {
+      "source": "supernatural",
+      "target": "nine",
+      "value": 1
+    },
+    {
+      "source": "supernatural",
+      "target": "ladies",
+      "value": 1
+    },
+    {
+      "source": "supernatural",
+      "target": "stone",
+      "value": 1
+    },
+    {
+      "source": "supernatural",
+      "target": "builders",
+      "value": 1
+    },
+    {
+      "source": "entities",
+      "target": "circle",
+      "value": 2
+    },
+    {
+      "source": "entities",
+      "target": "nine",
+      "value": 1
+    },
+    {
+      "source": "entities",
+      "target": "ladies",
+      "value": 1
+    },
+    {
+      "source": "entities",
+      "target": "stone",
+      "value": 1
+    },
+    {
+      "source": "entities",
+      "target": "builders",
+      "value": 1
+    },
+    {
+      "source": "earth",
+      "target": "circle",
+      "value": 2
+    },
+    {
+      "source": "earth",
+      "target": "nine",
+      "value": 1
+    },
+    {
+      "source": "earth",
+      "target": "ladies",
+      "value": 1
+    },
+    {
+      "source": "earth",
+      "target": "stone",
+      "value": 1
+    },
+    {
+      "source": "earth",
+      "target": "builders",
+      "value": 1
+    },
+    {
+      "source": "rises",
+      "target": "circle",
+      "value": 2
+    },
+    {
+      "source": "rises",
+      "target": "nine",
+      "value": 1
+    },
+    {
+      "source": "rises",
+      "target": "ladies",
+      "value": 1
+    },
+    {
+      "source": "rises",
+      "target": "stone",
+      "value": 1
+    },
+    {
+      "source": "rises",
+      "target": "builders",
+      "value": 1
+    },
+    {
+      "source": "bank",
+      "target": "circle",
+      "value": 2
+    },
+    {
+      "source": "bank",
+      "target": "nine",
+      "value": 1
+    },
+    {
+      "source": "bank",
+      "target": "ladies",
+      "value": 1
+    },
+    {
+      "source": "bank",
+      "target": "stone",
+      "value": 1
+    },
+    {
+      "source": "bank",
+      "target": "builders",
+      "value": 1
+    },
+    {
+      "source": "fescue",
+      "target": "circle",
+      "value": 2
+    },
+    {
+      "source": "fescue",
+      "target": "nine",
+      "value": 1
+    },
+    {
+      "source": "fescue",
+      "target": "ladies",
+      "value": 1
+    },
+    {
+      "source": "fescue",
+      "target": "stone",
+      "value": 1
+    },
+    {
+      "source": "fescue",
+      "target": "builders",
+      "value": 1
+    },
+    {
+      "source": "grasses",
+      "target": "circle",
+      "value": 2
+    },
+    {
+      "source": "grasses",
+      "target": "nine",
+      "value": 1
+    },
+    {
+      "source": "grasses",
+      "target": "ladies",
+      "value": 1
+    },
+    {
+      "source": "grasses",
+      "target": "stone",
+      "value": 1
+    },
+    {
+      "source": "grasses",
+      "target": "builders",
+      "value": 1
+    },
+    {
+      "source": "heathland",
+      "target": "circle",
+      "value": 2
+    },
+    {
+      "source": "heathland",
+      "target": "nine",
+      "value": 1
+    },
+    {
+      "source": "heathland",
+      "target": "ladies",
+      "value": 1
+    },
+    {
+      "source": "heathland",
+      "target": "stone",
+      "value": 1
+    },
+    {
+      "source": "heathland",
+      "target": "builders",
+      "value": 1
+    },
+    {
+      "source": "bronze_age",
+      "target": "circle",
+      "value": 2
+    },
+    {
+      "source": "bronze_age",
+      "target": "nine",
+      "value": 1
+    },
+    {
+      "source": "bronze_age",
+      "target": "ladies",
+      "value": 1
+    },
+    {
+      "source": "bronze_age",
+      "target": "stone",
+      "value": 1
+    },
+    {
+      "source": "bronze_age",
+      "target": "builders",
+      "value": 1
+    },
+    {
+      "source": "earthwork",
+      "target": "structure",
+      "value": 1
+    },
+    {
+      "source": "earthwork",
+      "target": "bronze",
+      "value": 1
+    },
+    {
+      "source": "earthwork",
+      "target": "upright",
+      "value": 1
+    },
+    {
+      "source": "earthwork",
+      "target": "lying",
+      "value": 1
+    },
+    {
+      "source": "earthwork",
+      "target": "faces",
+      "value": 1
+    },
+    {
+      "source": "structure",
+      "target": "earthwork",
+      "value": 1
+    },
+    {
+      "source": "structure",
+      "target": "bronze",
+      "value": 1
+    },
+    {
+      "source": "structure",
+      "target": "upright",
+      "value": 1
+    },
+    {
+      "source": "structure",
+      "target": "lying",
+      "value": 1
+    },
+    {
+      "source": "structure",
+      "target": "faces",
+      "value": 1
+    },
+    {
+      "source": "upright",
+      "target": "earthwork",
+      "value": 1
+    },
+    {
+      "source": "upright",
+      "target": "structure",
+      "value": 1
+    },
+    {
+      "source": "upright",
+      "target": "bronze",
+      "value": 1
+    },
+    {
+      "source": "upright",
+      "target": "lying",
+      "value": 1
+    },
+    {
+      "source": "upright",
+      "target": "faces",
+      "value": 1
+    },
+    {
+      "source": "lying",
+      "target": "earthwork",
+      "value": 1
+    },
+    {
+      "source": "lying",
+      "target": "structure",
+      "value": 1
+    },
+    {
+      "source": "lying",
+      "target": "bronze",
+      "value": 1
+    },
+    {
+      "source": "lying",
+      "target": "upright",
+      "value": 1
+    },
+    {
+      "source": "lying",
+      "target": "faces",
+      "value": 1
+    },
+    {
+      "source": "faces",
+      "target": "earthwork",
+      "value": 1
+    },
+    {
+      "source": "faces",
+      "target": "structure",
+      "value": 1
+    },
+    {
+      "source": "faces",
+      "target": "bronze",
+      "value": 1
+    },
+    {
+      "source": "faces",
+      "target": "upright",
+      "value": 1
+    },
+    {
+      "source": "faces",
+      "target": "lying",
+      "value": 1
+    },
+    {
+      "source": "looks",
+      "target": "earthwork",
+      "value": 1
+    },
+    {
+      "source": "looks",
+      "target": "structure",
+      "value": 1
+    },
+    {
+      "source": "looks",
+      "target": "bronze",
+      "value": 1
+    },
+    {
+      "source": "looks",
+      "target": "upright",
+      "value": 1
+    },
+    {
+      "source": "looks",
+      "target": "lying",
+      "value": 1
+    },
+    {
+      "source": "pond",
+      "target": "earthwork",
+      "value": 1
+    },
+    {
+      "source": "pond",
+      "target": "structure",
+      "value": 1
+    },
+    {
+      "source": "pond",
+      "target": "bronze",
+      "value": 1
+    },
+    {
+      "source": "pond",
+      "target": "upright",
+      "value": 1
+    },
+    {
+      "source": "pond",
+      "target": "lying",
+      "value": 1
+    },
+    {
+      "source": "barrow",
+      "target": "earthwork",
+      "value": 1
+    },
+    {
+      "source": "barrow",
+      "target": "structure",
+      "value": 1
+    },
+    {
+      "source": "barrow",
+      "target": "bronze",
+      "value": 1
+    },
+    {
+      "source": "barrow",
+      "target": "upright",
+      "value": 1
+    },
+    {
+      "source": "barrow",
+      "target": "lying",
+      "value": 1
+    },
+    {
+      "source": "soils",
+      "target": "earthwork",
+      "value": 1
+    },
+    {
+      "source": "soils",
+      "target": "structure",
+      "value": 1
+    },
+    {
+      "source": "soils",
+      "target": "bronze",
+      "value": 1
+    },
+    {
+      "source": "soils",
+      "target": "upright",
+      "value": 1
+    },
+    {
+      "source": "soils",
+      "target": "lying",
+      "value": 1
+    },
+    {
+      "source": "sculpted",
+      "target": "earthwork",
+      "value": 1
+    },
+    {
+      "source": "sculpted",
+      "target": "structure",
+      "value": 1
+    },
+    {
+      "source": "sculpted",
+      "target": "bronze",
+      "value": 1
+    },
+    {
+      "source": "sculpted",
+      "target": "upright",
+      "value": 1
+    },
+    {
+      "source": "sculpted",
+      "target": "lying",
+      "value": 1
+    },
+    {
+      "source": "away",
+      "target": "earthwork",
+      "value": 1
+    },
+    {
+      "source": "away",
+      "target": "structure",
+      "value": 1
+    },
+    {
+      "source": "away",
+      "target": "bronze",
+      "value": 1
+    },
+    {
+      "source": "away",
+      "target": "upright",
+      "value": 1
+    },
+    {
+      "source": "away",
+      "target": "lying",
+      "value": 1
+    },
+    {
+      "source": "loss",
+      "target": "caused",
+      "value": 1
+    },
+    {
+      "source": "loss",
+      "target": "visitors",
+      "value": 1
+    },
+    {
+      "source": "loss",
+      "target": "digging",
+      "value": 1
+    },
+    {
+      "source": "caused",
+      "target": "loss",
+      "value": 1
+    },
+    {
+      "source": "caused",
+      "target": "visitors",
+      "value": 1
+    },
+    {
+      "source": "caused",
+      "target": "digging",
+      "value": 1
+    },
+    {
+      "source": "visitors",
+      "target": "loss",
+      "value": 1
+    },
+    {
+      "source": "visitors",
+      "target": "caused",
+      "value": 1
+    },
+    {
+      "source": "visitors",
+      "target": "digging",
+      "value": 1
+    },
+    {
+      "source": "digging",
+      "target": "loss",
+      "value": 1
+    },
+    {
+      "source": "digging",
+      "target": "caused",
+      "value": 1
+    },
+    {
+      "source": "digging",
+      "target": "visitors",
+      "value": 1
+    }
+  ]
+}
