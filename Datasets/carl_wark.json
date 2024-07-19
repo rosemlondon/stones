@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "id": "lathkill",
+      "id": "lathkill dale",
       "group": 1
     },
     {
@@ -283,37 +283,41 @@
     {
       "id": "grit",
       "group": 1
+    },
+        {
+      "id": "hathersage moor",
+      "group": 1
     }
   ],
   "links": [
     {
-      "source": "lathkill",
-      "target": "lathkill",
+      "source": "lathkill dale",
+      "target": "lathkill dale",
       "value": 6
     },
     {
-      "source": "lathkill",
+      "source": "lathkill dale",
       "target": "cave",
       "value": 6
     },
     {
-      "source": "lathkill",
+      "source": "lathkill dale",
       "target": "dale",
       "value": 4
     },
     {
-      "source": "lathkill",
+      "source": "lathkill dale",
       "target": "deep",
       "value": 3
     },
     {
-      "source": "lathkill",
+      "source": "lathkill dale",
       "target": "crevice",
       "value": 3
     },
     {
       "source": "dale",
-      "target": "lathkill",
+      "target": "lathkill dale",
       "value": 4
     },
     {
@@ -383,7 +387,7 @@
     },
     {
       "source": "deep",
-      "target": "lathkill",
+      "target": "lathkill dale",
       "value": 3
     },
     {
@@ -408,7 +412,7 @@
     },
     {
       "source": "crevice",
-      "target": "lathkill",
+      "target": "lathkill dale",
       "value": 3
     },
     {
@@ -433,7 +437,7 @@
     },
     {
       "source": "farms",
-      "target": "lathkill",
+      "target": "lathkill dale",
       "value": 3
     },
     {
@@ -458,7 +462,7 @@
     },
     {
       "source": "river",
-      "target": "lathkill",
+      "target": "lathkill dale",
       "value": 3
     },
     {
@@ -483,7 +487,7 @@
     },
     {
       "source": "head",
-      "target": "lathkill",
+      "target": "lathkill dale",
       "value": 3
     },
     {
@@ -508,7 +512,7 @@
     },
     {
       "source": "cave",
-      "target": "lathkill",
+      "target": "lathkill dale",
       "value": 6
     },
     {
@@ -533,7 +537,7 @@
     },
     {
       "source": "neolithic",
-      "target": "lathkill",
+      "target": "lathkill dale",
       "value": 3
     },
     {
@@ -558,7 +562,7 @@
     },
     {
       "source": "emerges",
-      "target": "lathkill",
+      "target": "lathkill dale",
       "value": 3
     },
     {
@@ -583,7 +587,7 @@
     },
     {
       "source": "jacobs_ladder_orchid",
-      "target": "lathkill",
+      "target": "lathkill dale",
       "value": 3
     },
     {
@@ -608,7 +612,7 @@
     },
     {
       "source": "grows",
-      "target": "lathkill",
+      "target": "lathkill dale",
       "value": 3
     },
     {
@@ -633,7 +637,7 @@
     },
     {
       "source": "ssis",
-      "target": "lathkill",
+      "target": "lathkill dale",
       "value": 3
     },
     {
@@ -658,7 +662,7 @@
     },
     {
       "source": "ancient",
-      "target": "lathkill",
+      "target": "lathkill dale",
       "value": 3
     },
     {
@@ -683,7 +687,7 @@
     },
     {
       "source": "woodland",
-      "target": "lathkill",
+      "target": "lathkill dale",
       "value": 3
     },
     {
@@ -708,7 +712,7 @@
     },
     {
       "source": "winterborne",
-      "target": "lathkill",
+      "target": "lathkill dale",
       "value": 3
     },
     {
@@ -733,7 +737,7 @@
     },
     {
       "source": "stream",
-      "target": "lathkill",
+      "target": "lathkill dale",
       "value": 3
     },
     {
@@ -758,7 +762,7 @@
     },
     {
       "source": "reddest",
-      "target": "lathkill",
+      "target": "lathkill dale",
       "value": 3
     },
     {
@@ -783,7 +787,7 @@
     },
     {
       "source": "redwater",
-      "target": "lathkill",
+      "target": "lathkill dale",
       "value": 3
     },
     {
@@ -808,7 +812,7 @@
     },
     {
       "source": "lead",
-      "target": "lathkill",
+      "target": "lathkill dale",
       "value": 3
     },
     {
@@ -833,7 +837,7 @@
     },
     {
       "source": "nine",
-      "target": "lathkill",
+      "target": "lathkill dale",
       "value": 3
     },
     {
@@ -858,7 +862,7 @@
     },
     {
       "source": "stones",
-      "target": "lathkill",
+      "target": "lathkill dale",
       "value": 3
     },
     {
@@ -883,7 +887,7 @@
     },
     {
       "source": "close",
-      "target": "lathkill",
+      "target": "lathkill dale",
       "value": 3
     },
     {
@@ -1537,6 +1541,11 @@
       "value": 1
     },
     {
+      "source": "neolithic",
+      "target": "tor",
+      "value": 1
+    },
+    {
       "source": "access",
       "target": "concessionary",
       "value": 1
@@ -1799,6 +1808,11 @@
     {
       "source": "eastern",
       "target": "access",
+      "value": 1
+    },
+    {
+      "source": "access",
+      "target": "lathkill dale",
       "value": 1
     },
     {

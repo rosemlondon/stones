@@ -1,0 +1,3036 @@
+{
+  "nodes": [
+    {
+      "id": "something",
+      "group": 1
+    },
+    {
+      "id": "dark and sacred",
+      "group": 1
+    },
+    {
+      "id": "like",
+      "group": 1
+    },
+    {
+      "id": "old bones",
+      "group": 1
+    },
+    {
+      "id": "coins for eyes",
+      "group": 1
+    },
+    {
+      "id": "grass",
+      "group": 1
+    },
+    {
+      "id": "scared",
+      "group": 1
+    },
+    {
+      "id": "sacred",
+      "group": 1
+    },
+    {
+      "id": "grows",
+      "group": 1
+    },
+    {
+      "id": "differently",
+      "group": 1
+    },
+    {
+      "id": "drier",
+      "group": 1
+    },
+    {
+      "id": "hill",
+      "group": 1
+    },
+    {
+      "id": "suddenly",
+      "group": 1
+    },
+    {
+      "id": "music",
+      "group": 1
+    },
+    {
+      "id": "trees",
+      "group": 1
+    },
+    {
+      "id": "uttering",
+      "group": 1
+    },
+    {
+      "id": "minninglow",
+      "group": 1
+    },
+    {
+      "id": "chambered",
+      "group": 1
+    },
+    {
+      "id": "tomb",
+      "group": 1
+    },
+    {
+      "id": "made",
+      "group": 1
+    },
+    {
+      "id": "beech",
+      "group": 1
+    },
+    {
+      "id": "the up-raised",
+      "group": 1
+    },
+    {
+      "id": "fingertips",
+      "group": 1
+    },
+    {
+      "id": "someone",
+      "group": 1
+    },
+    {
+      "id": "cupping",
+      "group": 1
+    },
+    {
+      "id": "holding",
+      "group": 1
+    },
+    {
+      "id": "palms",
+      "group": 1
+    },
+    {
+      "id": "towards",
+      "group": 1
+    },
+    {
+      "id": "sky",
+      "group": 1
+    },
+    {
+      "id": "here there are barrows",
+      "group": 1
+    },
+    {
+      "id": "barrows",
+      "group": 1
+    },
+    {
+      "id": "here there are tombs",
+      "group": 1
+    },
+    {
+      "id": "tombs",
+      "group": 1
+    },
+    {
+      "id": "bowl",
+      "group": 1
+    },
+    {
+      "id": "bones",
+      "group": 1
+    },
+    {
+      "id": "ancient",
+      "group": 1
+    },
+    {
+      "id": "funerary",
+      "group": 1
+    },
+    {
+      "id": "monuments",
+      "group": 1
+    },
+    {
+      "id": "marking",
+      "group": 1
+    },
+    {
+      "id": "here there are cairns",
+      "group": 1
+    },
+    {
+      "id": "cairns",
+      "group": 1
+    },
+    {
+      "id": "chalk",
+      "group": 1
+    },
+    {
+      "id": "dont",
+      "group": 1
+    },
+    {
+      "id": "want",
+      "group": 1
+    },
+    {
+      "id": "leave",
+      "group": 1
+    },
+    {
+      "id": "large",
+      "group": 1
+    },
+    {
+      "id": "collection",
+      "group": 1
+    },
+    {
+      "id": "strewn",
+      "group": 1
+    },
+    {
+      "id": "woodland",
+      "group": 1
+    },
+    {
+      "id": "top",
+      "group": 1
+    },
+    {
+      "id": "distinctive",
+      "group": 1
+    },
+    {
+      "id": "double ring",
+      "group": 1
+    },
+    {
+      "id": "make",
+      "group": 1
+    },
+    {
+      "id": "landmark",
+      "group": 1
+    },
+    {
+      "id": "many",
+      "group": 1
+    },
+    {
+      "id": "miles",
+      "group": 1
+    },
+    {
+      "id": "around",
+      "group": 1
+    },
+    {
+      "id": "chambers",
+      "group": 1
+    },
+    {
+      "id": "oval shaped",
+      "group": 1
+    },
+    {
+      "id": "cairn",
+      "group": 1
+    },
+    {
+      "id": "contains",
+      "group": 1
+    },
+    {
+      "id": "two",
+      "group": 1
+    },
+    {
+      "id": "complete",
+      "group": 1
+    },
+    {
+      "id": "limestone",
+      "group": 1
+    },
+    {
+      "id": "slabs",
+      "group": 1
+    },
+    {
+      "id": "three",
+      "group": 1
+    },
+    {
+      "id": "incomplete",
+      "group": 1
+    },
+    {
+      "id": "resting",
+      "group": 1
+    },
+    {
+      "id": "places",
+      "group": 1
+    },
+    {
+      "id": "britains",
+      "group": 1
+    },
+    {
+      "id": "earliest",
+      "group": 1
+    },
+    {
+      "id": "rural",
+      "group": 1
+    },
+    {
+      "id": "communities",
+      "group": 1
+    },
+    {
+      "id": "often",
+      "group": 1
+    },
+    {
+      "id": "used",
+      "group": 1
+    },
+    {
+      "id": "also",
+      "group": 1
+    },
+    {
+      "id": "communal",
+      "group": 1
+    },
+    {
+      "id": "burials",
+      "group": 1
+    },
+    {
+      "id": "likely",
+      "group": 1
+    },
+    {
+      "id": "ritual",
+      "group": 1
+    },
+    {
+      "id": "sites",
+      "group": 1
+    },
+    {
+      "id": "local",
+      "group": 1
+    },
+    {
+      "id": "people",
+      "group": 1
+    },
+    {
+      "id": "300",
+      "group": 1
+    },
+    {
+      "id": "still",
+      "group": 1
+    },
+    {
+      "id": "survive",
+      "group": 1
+    },
+    {
+      "id": "england",
+      "group": 1
+    },
+    {
+      "id": "particularly",
+      "group": 1
+    },
+    {
+      "id": "well preserved",
+      "group": 1
+    },
+    {
+      "id": "nationally recognised",
+      "group": 1
+    },
+    {
+      "id": "heritage",
+      "group": 1
+    },
+    {
+      "id": "status",
+      "group": 1
+    },
+    {
+      "id": "scheduled",
+      "group": 1
+    },
+    {
+      "id": "monument",
+      "group": 1
+    },
+    {
+      "id": "bronzes",
+      "group": 1
+    },
+    {
+      "id": "coins",
+      "group": 1
+    },
+    {
+      "id": "pottery",
+      "group": 1
+    },
+    {
+      "id": "dating",
+      "group": 1
+    },
+    {
+      "id": "3rdcentury",
+      "group": 1
+    },
+    {
+      "id": "suggesting",
+      "group": 1
+    },
+    {
+      "id": "romans",
+      "group": 1
+    },
+    {
+      "id": "disturbed",
+      "group": 1
+    },
+    {
+      "id": "site",
+      "group": 1
+    },
+    {
+      "id": "excavations",
+      "group": 1
+    },
+    {
+      "id": "bronze",
+      "group": 1
+    },
+    {
+      "id": "age",
+      "group": 1
+    },
+    {
+      "id": "revealed",
+      "group": 1
+    },
+    {
+      "id": "two flint knives",
+      "group": 1
+    },
+    {
+      "id": "bronze razor",
+      "group": 1
+    },
+    {
+      "id": "bone tool",
+      "group": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "something",
+      "target": "dark and sacred",
+      "value": 1
+    },
+    {
+      "source": "something",
+      "target": "like",
+      "value": 1
+    },
+    {
+      "source": "something",
+      "target": "old bones",
+      "value": 1
+    },
+    {
+      "source": "something",
+      "target": "coins for eyes",
+      "value": 1
+    },
+    {
+      "source": "something",
+      "target": "grass",
+      "value": 1
+    },
+    {
+      "source": "dark and sacred",
+      "target": "something",
+      "value": 1
+    },
+    {
+      "source": "dark and sacred",
+      "target": "like",
+      "value": 1
+    },
+    {
+      "source": "dark and sacred",
+      "target": "old bones",
+      "value": 1
+    },
+    {
+      "source": "dark and sacred",
+      "target": "coins for eyes",
+      "value": 1
+    },
+    {
+      "source": "dark and sacred",
+      "target": "grass",
+      "value": 1
+    },
+    {
+      "source": "like",
+      "target": "scared",
+      "value": 2
+    },
+    {
+      "source": "like",
+      "target": "sacred",
+      "value": 2
+    },
+    {
+      "source": "like",
+      "target": "something",
+      "value": 1
+    },
+    {
+      "source": "like",
+      "target": "dark and sacred",
+      "value": 1
+    },
+    {
+      "source": "like",
+      "target": "old bones",
+      "value": 1
+    },
+    {
+      "source": "old bones",
+      "target": "something",
+      "value": 1
+    },
+    {
+      "source": "old bones",
+      "target": "dark and sacred",
+      "value": 1
+    },
+    {
+      "source": "old bones",
+      "target": "like",
+      "value": 1
+    },
+    {
+      "source": "old bones",
+      "target": "coins for eyes",
+      "value": 1
+    },
+    {
+      "source": "old bones",
+      "target": "grass",
+      "value": 1
+    },
+    {
+      "source": "coins for eyes",
+      "target": "something",
+      "value": 1
+    },
+    {
+      "source": "coins for eyes",
+      "target": "dark and sacred",
+      "value": 1
+    },
+    {
+      "source": "coins for eyes",
+      "target": "like",
+      "value": 1
+    },
+    {
+      "source": "coins for eyes",
+      "target": "old bones",
+      "value": 1
+    },
+    {
+      "source": "coins for eyes",
+      "target": "grass",
+      "value": 1
+    },
+    {
+      "source": "grass",
+      "target": "something",
+      "value": 1
+    },
+    {
+      "source": "grass",
+      "target": "dark and sacred",
+      "value": 1
+    },
+    {
+      "source": "grass",
+      "target": "like",
+      "value": 1
+    },
+    {
+      "source": "grass",
+      "target": "old bones",
+      "value": 1
+    },
+    {
+      "source": "grass",
+      "target": "coins for eyes",
+      "value": 1
+    },
+    {
+      "source": "grows",
+      "target": "something",
+      "value": 1
+    },
+    {
+      "source": "grows",
+      "target": "dark and sacred",
+      "value": 1
+    },
+    {
+      "source": "grows",
+      "target": "like",
+      "value": 1
+    },
+    {
+      "source": "grows",
+      "target": "old bones",
+      "value": 1
+    },
+    {
+      "source": "grows",
+      "target": "coins for eyes",
+      "value": 1
+    },
+    {
+      "source": "differently",
+      "target": "something",
+      "value": 1
+    },
+    {
+      "source": "differently",
+      "target": "dark and sacred",
+      "value": 1
+    },
+    {
+      "source": "differently",
+      "target": "like",
+      "value": 1
+    },
+    {
+      "source": "differently",
+      "target": "old bones",
+      "value": 1
+    },
+    {
+      "source": "differently",
+      "target": "coins for eyes",
+      "value": 1
+    },
+    {
+      "source": "drier",
+      "target": "scared",
+      "value": 2
+    },
+    {
+      "source": "drier",
+      "target": "sacred",
+      "value": 2
+    },
+    {
+      "source": "drier",
+      "target": "hill",
+      "value": 1
+    },
+    {
+      "source": "drier",
+      "target": "suddenly",
+      "value": 1
+    },
+    {
+      "source": "drier",
+      "target": "music",
+      "value": 1
+    },
+    {
+      "source": "hill",
+      "target": "scared",
+      "value": 2
+    },
+    {
+      "source": "hill",
+      "target": "sacred",
+      "value": 2
+    },
+    {
+      "source": "hill",
+      "target": "trees",
+      "value": 2
+    },
+    {
+      "source": "hill",
+      "target": "drier",
+      "value": 1
+    },
+    {
+      "source": "hill",
+      "target": "suddenly",
+      "value": 1
+    },
+    {
+      "source": "suddenly",
+      "target": "scared",
+      "value": 2
+    },
+    {
+      "source": "suddenly",
+      "target": "sacred",
+      "value": 2
+    },
+    {
+      "source": "suddenly",
+      "target": "drier",
+      "value": 1
+    },
+    {
+      "source": "suddenly",
+      "target": "hill",
+      "value": 1
+    },
+    {
+      "source": "suddenly",
+      "target": "music",
+      "value": 1
+    },
+    {
+      "source": "scared",
+      "target": "sacred",
+      "value": 4
+    },
+    {
+      "source": "scared",
+      "target": "drier",
+      "value": 2
+    },
+    {
+      "source": "scared",
+      "target": "hill",
+      "value": 2
+    },
+    {
+      "source": "scared",
+      "target": "suddenly",
+      "value": 2
+    },
+    {
+      "source": "scared",
+      "target": "scared",
+      "value": 2
+    },
+    {
+      "source": "sacred",
+      "target": "scared",
+      "value": 4
+    },
+    {
+      "source": "sacred",
+      "target": "drier",
+      "value": 2
+    },
+    {
+      "source": "sacred",
+      "target": "hill",
+      "value": 2
+    },
+    {
+      "source": "sacred",
+      "target": "suddenly",
+      "value": 2
+    },
+    {
+      "source": "sacred",
+      "target": "sacred",
+      "value": 2
+    },
+    {
+      "source": "music",
+      "target": "scared",
+      "value": 2
+    },
+    {
+      "source": "music",
+      "target": "sacred",
+      "value": 2
+    },
+    {
+      "source": "music",
+      "target": "drier",
+      "value": 1
+    },
+    {
+      "source": "music",
+      "target": "hill",
+      "value": 1
+    },
+    {
+      "source": "music",
+      "target": "suddenly",
+      "value": 1
+    },
+    {
+      "source": "uttering",
+      "target": "scared",
+      "value": 2
+    },
+    {
+      "source": "uttering",
+      "target": "sacred",
+      "value": 2
+    },
+    {
+      "source": "uttering",
+      "target": "drier",
+      "value": 1
+    },
+    {
+      "source": "uttering",
+      "target": "hill",
+      "value": 1
+    },
+    {
+      "source": "uttering",
+      "target": "suddenly",
+      "value": 1
+    },
+    {
+      "source": "minninglow",
+      "target": "chambered",
+      "value": 3
+    },
+    {
+      "source": "minninglow",
+      "target": "scared",
+      "value": 2
+    },
+    {
+      "source": "minninglow",
+      "target": "sacred",
+      "value": 2
+    },
+    {
+      "source": "minninglow",
+      "target": "tomb",
+      "value": 2
+    },
+    {
+      "source": "minninglow",
+      "target": "made",
+      "value": 2
+    },
+    {
+      "source": "trees",
+      "target": "hill",
+      "value": 2
+    },
+    {
+      "source": "trees",
+      "target": "scared",
+      "value": 2
+    },
+    {
+      "source": "trees",
+      "target": "sacred",
+      "value": 2
+    },
+    {
+      "source": "trees",
+      "target": "beech",
+      "value": 2
+    },
+    {
+      "source": "trees",
+      "target": "drier",
+      "value": 1
+    },
+    {
+      "source": "the up-raised",
+      "target": "scared",
+      "value": 2
+    },
+    {
+      "source": "the up-raised",
+      "target": "sacred",
+      "value": 2
+    },
+    {
+      "source": "the up-raised",
+      "target": "drier",
+      "value": 1
+    },
+    {
+      "source": "the up-raised",
+      "target": "hill",
+      "value": 1
+    },
+    {
+      "source": "the up-raised",
+      "target": "suddenly",
+      "value": 1
+    },
+    {
+      "source": "fingertips",
+      "target": "scared",
+      "value": 2
+    },
+    {
+      "source": "fingertips",
+      "target": "sacred",
+      "value": 2
+    },
+    {
+      "source": "fingertips",
+      "target": "drier",
+      "value": 1
+    },
+    {
+      "source": "fingertips",
+      "target": "hill",
+      "value": 1
+    },
+    {
+      "source": "fingertips",
+      "target": "suddenly",
+      "value": 1
+    },
+    {
+      "source": "someone",
+      "target": "scared",
+      "value": 2
+    },
+    {
+      "source": "someone",
+      "target": "sacred",
+      "value": 2
+    },
+    {
+      "source": "someone",
+      "target": "drier",
+      "value": 1
+    },
+    {
+      "source": "someone",
+      "target": "hill",
+      "value": 1
+    },
+    {
+      "source": "someone",
+      "target": "suddenly",
+      "value": 1
+    },
+    {
+      "source": "cupping",
+      "target": "scared",
+      "value": 2
+    },
+    {
+      "source": "cupping",
+      "target": "sacred",
+      "value": 2
+    },
+    {
+      "source": "cupping",
+      "target": "drier",
+      "value": 1
+    },
+    {
+      "source": "cupping",
+      "target": "hill",
+      "value": 1
+    },
+    {
+      "source": "cupping",
+      "target": "suddenly",
+      "value": 1
+    },
+    {
+      "source": "holding",
+      "target": "palms",
+      "value": 1
+    },
+    {
+      "source": "holding",
+      "target": "towards",
+      "value": 1
+    },
+    {
+      "source": "holding",
+      "target": "sky",
+      "value": 1
+    },
+    {
+      "source": "palms",
+      "target": "holding",
+      "value": 1
+    },
+    {
+      "source": "palms",
+      "target": "towards",
+      "value": 1
+    },
+    {
+      "source": "palms",
+      "target": "sky",
+      "value": 1
+    },
+    {
+      "source": "towards",
+      "target": "holding",
+      "value": 1
+    },
+    {
+      "source": "towards",
+      "target": "palms",
+      "value": 1
+    },
+    {
+      "source": "towards",
+      "target": "sky",
+      "value": 1
+    },
+    {
+      "source": "sky",
+      "target": "holding",
+      "value": 1
+    },
+    {
+      "source": "sky",
+      "target": "palms",
+      "value": 1
+    },
+    {
+      "source": "sky",
+      "target": "towards",
+      "value": 1
+    },
+    {
+      "source": "here there are barrows",
+      "target": "barrows",
+      "value": 1
+    },
+    {
+      "source": "here there are barrows",
+      "target": "here there are tombs",
+      "value": 1
+    },
+    {
+      "source": "here there are barrows",
+      "target": "tombs",
+      "value": 1
+    },
+    {
+      "source": "barrows",
+      "target": "here there are barrows",
+      "value": 1
+    },
+    {
+      "source": "barrows",
+      "target": "here there are tombs",
+      "value": 1
+    },
+    {
+      "source": "barrows",
+      "target": "tombs",
+      "value": 1
+    },
+    {
+      "source": "barrows",
+      "target": "bowl",
+      "value": 1
+    },
+    {
+      "source": "barrows",
+      "target": "bones",
+      "value": 1
+    },
+    {
+      "source": "here there are tombs",
+      "target": "here there are barrows",
+      "value": 1
+    },
+    {
+      "source": "here there are tombs",
+      "target": "barrows",
+      "value": 1
+    },
+    {
+      "source": "here there are tombs",
+      "target": "tombs",
+      "value": 1
+    },
+    {
+      "source": "tombs",
+      "target": "ancient",
+      "value": 5
+    },
+    {
+      "source": "tombs",
+      "target": "chambered",
+      "value": 4
+    },
+    {
+      "source": "tombs",
+      "target": "funerary",
+      "value": 2
+    },
+    {
+      "source": "tombs",
+      "target": "monuments",
+      "value": 2
+    },
+    {
+      "source": "tombs",
+      "target": "marking",
+      "value": 2
+    },
+    {
+      "source": "here there are cairns",
+      "target": "cairns",
+      "value": 1
+    },
+    {
+      "source": "cairns",
+      "target": "here there are cairns",
+      "value": 1
+    },
+    {
+      "source": "chalk",
+      "target": "dont",
+      "value": 1
+    },
+    {
+      "source": "chalk",
+      "target": "want",
+      "value": 1
+    },
+    {
+      "source": "chalk",
+      "target": "leave",
+      "value": 1
+    },
+    {
+      "source": "dont",
+      "target": "chalk",
+      "value": 1
+    },
+    {
+      "source": "dont",
+      "target": "want",
+      "value": 1
+    },
+    {
+      "source": "dont",
+      "target": "leave",
+      "value": 1
+    },
+    {
+      "source": "want",
+      "target": "chalk",
+      "value": 1
+    },
+    {
+      "source": "want",
+      "target": "dont",
+      "value": 1
+    },
+    {
+      "source": "want",
+      "target": "leave",
+      "value": 1
+    },
+    {
+      "source": "leave",
+      "target": "chalk",
+      "value": 1
+    },
+    {
+      "source": "leave",
+      "target": "dont",
+      "value": 1
+    },
+    {
+      "source": "leave",
+      "target": "want",
+      "value": 1
+    },
+    {
+      "source": "large",
+      "target": "collection",
+      "value": 1
+    },
+    {
+      "source": "large",
+      "target": "ancient",
+      "value": 1
+    },
+    {
+      "source": "large",
+      "target": "tombs",
+      "value": 1
+    },
+    {
+      "source": "large",
+      "target": "strewn",
+      "value": 1
+    },
+    {
+      "source": "large",
+      "target": "woodland",
+      "value": 1
+    },
+    {
+      "source": "collection",
+      "target": "large",
+      "value": 1
+    },
+    {
+      "source": "collection",
+      "target": "ancient",
+      "value": 1
+    },
+    {
+      "source": "collection",
+      "target": "tombs",
+      "value": 1
+    },
+    {
+      "source": "collection",
+      "target": "strewn",
+      "value": 1
+    },
+    {
+      "source": "collection",
+      "target": "woodland",
+      "value": 1
+    },
+    {
+      "source": "ancient",
+      "target": "tombs",
+      "value": 5
+    },
+    {
+      "source": "ancient",
+      "target": "chambered",
+      "value": 4
+    },
+    {
+      "source": "ancient",
+      "target": "funerary",
+      "value": 2
+    },
+    {
+      "source": "ancient",
+      "target": "monuments",
+      "value": 2
+    },
+    {
+      "source": "ancient",
+      "target": "marking",
+      "value": 2
+    },
+    {
+      "source": "strewn",
+      "target": "large",
+      "value": 1
+    },
+    {
+      "source": "strewn",
+      "target": "collection",
+      "value": 1
+    },
+    {
+      "source": "strewn",
+      "target": "ancient",
+      "value": 1
+    },
+    {
+      "source": "strewn",
+      "target": "tombs",
+      "value": 1
+    },
+    {
+      "source": "strewn",
+      "target": "woodland",
+      "value": 1
+    },
+    {
+      "source": "woodland",
+      "target": "large",
+      "value": 1
+    },
+    {
+      "source": "woodland",
+      "target": "collection",
+      "value": 1
+    },
+    {
+      "source": "woodland",
+      "target": "ancient",
+      "value": 1
+    },
+    {
+      "source": "woodland",
+      "target": "tombs",
+      "value": 1
+    },
+    {
+      "source": "woodland",
+      "target": "strewn",
+      "value": 1
+    },
+    {
+      "source": "top",
+      "target": "large",
+      "value": 1
+    },
+    {
+      "source": "top",
+      "target": "collection",
+      "value": 1
+    },
+    {
+      "source": "top",
+      "target": "ancient",
+      "value": 1
+    },
+    {
+      "source": "top",
+      "target": "tombs",
+      "value": 1
+    },
+    {
+      "source": "top",
+      "target": "strewn",
+      "value": 1
+    },
+    {
+      "source": "distinctive",
+      "target": "large",
+      "value": 1
+    },
+    {
+      "source": "distinctive",
+      "target": "collection",
+      "value": 1
+    },
+    {
+      "source": "distinctive",
+      "target": "ancient",
+      "value": 1
+    },
+    {
+      "source": "distinctive",
+      "target": "tombs",
+      "value": 1
+    },
+    {
+      "source": "distinctive",
+      "target": "strewn",
+      "value": 1
+    },
+    {
+      "source": "double ring",
+      "target": "large",
+      "value": 1
+    },
+    {
+      "source": "double ring",
+      "target": "collection",
+      "value": 1
+    },
+    {
+      "source": "double ring",
+      "target": "ancient",
+      "value": 1
+    },
+    {
+      "source": "double ring",
+      "target": "tombs",
+      "value": 1
+    },
+    {
+      "source": "double ring",
+      "target": "strewn",
+      "value": 1
+    },
+    {
+      "source": "beech",
+      "target": "trees",
+      "value": 2
+    },
+    {
+      "source": "beech",
+      "target": "large",
+      "value": 1
+    },
+    {
+      "source": "beech",
+      "target": "collection",
+      "value": 1
+    },
+    {
+      "source": "beech",
+      "target": "ancient",
+      "value": 1
+    },
+    {
+      "source": "beech",
+      "target": "tombs",
+      "value": 1
+    },
+    {
+      "source": "make",
+      "target": "large",
+      "value": 1
+    },
+    {
+      "source": "make",
+      "target": "collection",
+      "value": 1
+    },
+    {
+      "source": "make",
+      "target": "ancient",
+      "value": 1
+    },
+    {
+      "source": "make",
+      "target": "tombs",
+      "value": 1
+    },
+    {
+      "source": "make",
+      "target": "strewn",
+      "value": 1
+    },
+    {
+      "source": "landmark",
+      "target": "large",
+      "value": 1
+    },
+    {
+      "source": "landmark",
+      "target": "collection",
+      "value": 1
+    },
+    {
+      "source": "landmark",
+      "target": "ancient",
+      "value": 1
+    },
+    {
+      "source": "landmark",
+      "target": "tombs",
+      "value": 1
+    },
+    {
+      "source": "landmark",
+      "target": "strewn",
+      "value": 1
+    },
+    {
+      "source": "many",
+      "target": "large",
+      "value": 1
+    },
+    {
+      "source": "many",
+      "target": "collection",
+      "value": 1
+    },
+    {
+      "source": "many",
+      "target": "ancient",
+      "value": 1
+    },
+    {
+      "source": "many",
+      "target": "tombs",
+      "value": 1
+    },
+    {
+      "source": "many",
+      "target": "strewn",
+      "value": 1
+    },
+    {
+      "source": "miles",
+      "target": "large",
+      "value": 1
+    },
+    {
+      "source": "miles",
+      "target": "collection",
+      "value": 1
+    },
+    {
+      "source": "miles",
+      "target": "ancient",
+      "value": 1
+    },
+    {
+      "source": "miles",
+      "target": "tombs",
+      "value": 1
+    },
+    {
+      "source": "miles",
+      "target": "strewn",
+      "value": 1
+    },
+    {
+      "source": "around",
+      "target": "large",
+      "value": 1
+    },
+    {
+      "source": "around",
+      "target": "collection",
+      "value": 1
+    },
+    {
+      "source": "around",
+      "target": "ancient",
+      "value": 1
+    },
+    {
+      "source": "around",
+      "target": "tombs",
+      "value": 1
+    },
+    {
+      "source": "around",
+      "target": "strewn",
+      "value": 1
+    },
+    {
+      "source": "bowl",
+      "target": "barrows",
+      "value": 1
+    },
+    {
+      "source": "chambered",
+      "target": "tombs",
+      "value": 4
+    },
+    {
+      "source": "chambered",
+      "target": "ancient",
+      "value": 4
+    },
+    {
+      "source": "chambered",
+      "target": "minninglow",
+      "value": 3
+    },
+    {
+      "source": "chambered",
+      "target": "tomb",
+      "value": 3
+    },
+    {
+      "source": "chambered",
+      "target": "made",
+      "value": 2
+    },
+    {
+      "source": "tomb",
+      "target": "chambered",
+      "value": 3
+    },
+    {
+      "source": "tomb",
+      "target": "minninglow",
+      "value": 2
+    },
+    {
+      "source": "tomb",
+      "target": "made",
+      "value": 2
+    },
+    {
+      "source": "tomb",
+      "target": "chambers",
+      "value": 2
+    },
+    {
+      "source": "tomb",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "made",
+      "target": "chambers",
+      "value": 4
+    },
+    {
+      "source": "made",
+      "target": "minninglow",
+      "value": 2
+    },
+    {
+      "source": "made",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "made",
+      "target": "tomb",
+      "value": 2
+    },
+    {
+      "source": "made",
+      "target": "oval shaped",
+      "value": 2
+    },
+    {
+      "source": "oval shaped",
+      "target": "made",
+      "value": 2
+    },
+    {
+      "source": "oval shaped",
+      "target": "chambers",
+      "value": 2
+    },
+    {
+      "source": "oval shaped",
+      "target": "minninglow",
+      "value": 1
+    },
+    {
+      "source": "oval shaped",
+      "target": "chambered",
+      "value": 1
+    },
+    {
+      "source": "oval shaped",
+      "target": "tomb",
+      "value": 1
+    },
+    {
+      "source": "cairn",
+      "target": "made",
+      "value": 2
+    },
+    {
+      "source": "cairn",
+      "target": "chambers",
+      "value": 2
+    },
+    {
+      "source": "cairn",
+      "target": "minninglow",
+      "value": 1
+    },
+    {
+      "source": "cairn",
+      "target": "chambered",
+      "value": 1
+    },
+    {
+      "source": "cairn",
+      "target": "tomb",
+      "value": 1
+    },
+    {
+      "source": "contains",
+      "target": "made",
+      "value": 2
+    },
+    {
+      "source": "contains",
+      "target": "chambers",
+      "value": 2
+    },
+    {
+      "source": "contains",
+      "target": "minninglow",
+      "value": 1
+    },
+    {
+      "source": "contains",
+      "target": "chambered",
+      "value": 1
+    },
+    {
+      "source": "contains",
+      "target": "tomb",
+      "value": 1
+    },
+    {
+      "source": "two",
+      "target": "made",
+      "value": 2
+    },
+    {
+      "source": "two",
+      "target": "chambers",
+      "value": 2
+    },
+    {
+      "source": "two",
+      "target": "minninglow",
+      "value": 1
+    },
+    {
+      "source": "two",
+      "target": "chambered",
+      "value": 1
+    },
+    {
+      "source": "two",
+      "target": "tomb",
+      "value": 1
+    },
+    {
+      "source": "complete",
+      "target": "made",
+      "value": 2
+    },
+    {
+      "source": "complete",
+      "target": "chambers",
+      "value": 2
+    },
+    {
+      "source": "complete",
+      "target": "minninglow",
+      "value": 1
+    },
+    {
+      "source": "complete",
+      "target": "chambered",
+      "value": 1
+    },
+    {
+      "source": "complete",
+      "target": "tomb",
+      "value": 1
+    },
+    {
+      "source": "chambers",
+      "target": "made",
+      "value": 4
+    },
+    {
+      "source": "chambers",
+      "target": "minninglow",
+      "value": 2
+    },
+    {
+      "source": "chambers",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "chambers",
+      "target": "tomb",
+      "value": 2
+    },
+    {
+      "source": "chambers",
+      "target": "oval shaped",
+      "value": 2
+    },
+    {
+      "source": "limestone",
+      "target": "made",
+      "value": 2
+    },
+    {
+      "source": "limestone",
+      "target": "chambers",
+      "value": 2
+    },
+    {
+      "source": "limestone",
+      "target": "minninglow",
+      "value": 1
+    },
+    {
+      "source": "limestone",
+      "target": "chambered",
+      "value": 1
+    },
+    {
+      "source": "limestone",
+      "target": "tomb",
+      "value": 1
+    },
+    {
+      "source": "slabs",
+      "target": "made",
+      "value": 2
+    },
+    {
+      "source": "slabs",
+      "target": "chambers",
+      "value": 2
+    },
+    {
+      "source": "slabs",
+      "target": "minninglow",
+      "value": 1
+    },
+    {
+      "source": "slabs",
+      "target": "chambered",
+      "value": 1
+    },
+    {
+      "source": "slabs",
+      "target": "tomb",
+      "value": 1
+    },
+    {
+      "source": "three",
+      "target": "made",
+      "value": 2
+    },
+    {
+      "source": "three",
+      "target": "chambers",
+      "value": 2
+    },
+    {
+      "source": "three",
+      "target": "minninglow",
+      "value": 1
+    },
+    {
+      "source": "three",
+      "target": "chambered",
+      "value": 1
+    },
+    {
+      "source": "three",
+      "target": "tomb",
+      "value": 1
+    },
+    {
+      "source": "incomplete",
+      "target": "made",
+      "value": 2
+    },
+    {
+      "source": "incomplete",
+      "target": "chambers",
+      "value": 2
+    },
+    {
+      "source": "incomplete",
+      "target": "minninglow",
+      "value": 1
+    },
+    {
+      "source": "incomplete",
+      "target": "chambered",
+      "value": 1
+    },
+    {
+      "source": "incomplete",
+      "target": "tomb",
+      "value": 1
+    },
+    {
+      "source": "funerary",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "funerary",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "funerary",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "funerary",
+      "target": "monuments",
+      "value": 1
+    },
+    {
+      "source": "funerary",
+      "target": "marking",
+      "value": 1
+    },
+    {
+      "source": "monuments",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "monuments",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "monuments",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "monuments",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "monuments",
+      "target": "marking",
+      "value": 1
+    },
+    {
+      "source": "marking",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "marking",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "marking",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "marking",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "marking",
+      "target": "monuments",
+      "value": 1
+    },
+    {
+      "source": "resting",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "resting",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "resting",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "resting",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "resting",
+      "target": "monuments",
+      "value": 1
+    },
+    {
+      "source": "places",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "places",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "places",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "places",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "places",
+      "target": "monuments",
+      "value": 1
+    },
+    {
+      "source": "britains",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "britains",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "britains",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "britains",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "britains",
+      "target": "monuments",
+      "value": 1
+    },
+    {
+      "source": "earliest",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "earliest",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "earliest",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "earliest",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "earliest",
+      "target": "monuments",
+      "value": 1
+    },
+    {
+      "source": "rural",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "rural",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "rural",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "rural",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "rural",
+      "target": "monuments",
+      "value": 1
+    },
+    {
+      "source": "communities",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "communities",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "communities",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "communities",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "communities",
+      "target": "monuments",
+      "value": 1
+    },
+    {
+      "source": "often",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "often",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "often",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "often",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "often",
+      "target": "monuments",
+      "value": 1
+    },
+    {
+      "source": "used",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "used",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "used",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "used",
+      "target": "also",
+      "value": 2
+    },
+    {
+      "source": "used",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "communal",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "communal",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "communal",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "communal",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "communal",
+      "target": "monuments",
+      "value": 1
+    },
+    {
+      "source": "burials",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "burials",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "burials",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "burials",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "burials",
+      "target": "monuments",
+      "value": 1
+    },
+    {
+      "source": "also",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "also",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "also",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "also",
+      "target": "used",
+      "value": 2
+    },
+    {
+      "source": "also",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "likely",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "likely",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "likely",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "likely",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "likely",
+      "target": "monuments",
+      "value": 1
+    },
+    {
+      "source": "ritual",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "ritual",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "ritual",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "ritual",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "ritual",
+      "target": "monuments",
+      "value": 1
+    },
+    {
+      "source": "sites",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "sites",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "sites",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "sites",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "sites",
+      "target": "monuments",
+      "value": 1
+    },
+    {
+      "source": "local",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "local",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "local",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "local",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "local",
+      "target": "monuments",
+      "value": 1
+    },
+    {
+      "source": "people",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "people",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "people",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "people",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "people",
+      "target": "monuments",
+      "value": 1
+    },
+    {
+      "source": "300",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "300",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "300",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "300",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "300",
+      "target": "monuments",
+      "value": 1
+    },
+    {
+      "source": "still",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "still",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "still",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "still",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "still",
+      "target": "monuments",
+      "value": 1
+    },
+    {
+      "source": "survive",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "survive",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "survive",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "survive",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "survive",
+      "target": "monuments",
+      "value": 1
+    },
+    {
+      "source": "england",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "england",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "england",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "england",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "england",
+      "target": "monuments",
+      "value": 1
+    },
+    {
+      "source": "particularly",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "particularly",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "particularly",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "particularly",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "particularly",
+      "target": "monuments",
+      "value": 1
+    },
+    {
+      "source": "well preserved",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "well preserved",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "well preserved",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "well preserved",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "well preserved",
+      "target": "monuments",
+      "value": 1
+    },
+    {
+      "source": "nationally recognised",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "nationally recognised",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "nationally recognised",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "nationally recognised",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "nationally recognised",
+      "target": "monuments",
+      "value": 1
+    },
+    {
+      "source": "heritage",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "heritage",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "heritage",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "heritage",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "heritage",
+      "target": "monuments",
+      "value": 1
+    },
+    {
+      "source": "status",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "status",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "status",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "status",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "status",
+      "target": "monuments",
+      "value": 1
+    },
+    {
+      "source": "scheduled",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "scheduled",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "scheduled",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "scheduled",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "scheduled",
+      "target": "monuments",
+      "value": 1
+    },
+    {
+      "source": "monument",
+      "target": "chambered",
+      "value": 2
+    },
+    {
+      "source": "monument",
+      "target": "tombs",
+      "value": 2
+    },
+    {
+      "source": "monument",
+      "target": "ancient",
+      "value": 2
+    },
+    {
+      "source": "monument",
+      "target": "funerary",
+      "value": 1
+    },
+    {
+      "source": "monument",
+      "target": "monuments",
+      "value": 1
+    },
+    {
+      "source": "bones",
+      "target": "bronzes",
+      "value": 1
+    },
+    {
+      "source": "bones",
+      "target": "coins",
+      "value": 1
+    },
+    {
+      "source": "bones",
+      "target": "pottery",
+      "value": 1
+    },
+    {
+      "source": "bones",
+      "target": "dating",
+      "value": 1
+    },
+    {
+      "source": "bones",
+      "target": "3rdcentury",
+      "value": 1
+    },
+    {
+      "source": "bronzes",
+      "target": "bones",
+      "value": 1
+    },
+    {
+      "source": "bronzes",
+      "target": "coins",
+      "value": 1
+    },
+    {
+      "source": "bronzes",
+      "target": "pottery",
+      "value": 1
+    },
+    {
+      "source": "bronzes",
+      "target": "dating",
+      "value": 1
+    },
+    {
+      "source": "bronzes",
+      "target": "3rdcentury",
+      "value": 1
+    },
+    {
+      "source": "coins",
+      "target": "bones",
+      "value": 1
+    },
+    {
+      "source": "coins",
+      "target": "bronzes",
+      "value": 1
+    },
+    {
+      "source": "coins",
+      "target": "pottery",
+      "value": 1
+    },
+    {
+      "source": "coins",
+      "target": "dating",
+      "value": 1
+    },
+    {
+      "source": "coins",
+      "target": "3rdcentury",
+      "value": 1
+    },
+    {
+      "source": "pottery",
+      "target": "bones",
+      "value": 1
+    },
+    {
+      "source": "pottery",
+      "target": "bronzes",
+      "value": 1
+    },
+    {
+      "source": "pottery",
+      "target": "coins",
+      "value": 1
+    },
+    {
+      "source": "pottery",
+      "target": "dating",
+      "value": 1
+    },
+    {
+      "source": "pottery",
+      "target": "3rdcentury",
+      "value": 1
+    },
+    {
+      "source": "dating",
+      "target": "bones",
+      "value": 1
+    },
+    {
+      "source": "dating",
+      "target": "bronzes",
+      "value": 1
+    },
+    {
+      "source": "dating",
+      "target": "coins",
+      "value": 1
+    },
+    {
+      "source": "dating",
+      "target": "pottery",
+      "value": 1
+    },
+    {
+      "source": "dating",
+      "target": "3rdcentury",
+      "value": 1
+    },
+    {
+      "source": "3rdcentury",
+      "target": "bones",
+      "value": 1
+    },
+    {
+      "source": "3rdcentury",
+      "target": "bronzes",
+      "value": 1
+    },
+    {
+      "source": "3rdcentury",
+      "target": "coins",
+      "value": 1
+    },
+    {
+      "source": "3rdcentury",
+      "target": "pottery",
+      "value": 1
+    },
+    {
+      "source": "3rdcentury",
+      "target": "dating",
+      "value": 1
+    },
+    {
+      "source": "suggesting",
+      "target": "bones",
+      "value": 1
+    },
+    {
+      "source": "suggesting",
+      "target": "bronzes",
+      "value": 1
+    },
+    {
+      "source": "suggesting",
+      "target": "coins",
+      "value": 1
+    },
+    {
+      "source": "suggesting",
+      "target": "pottery",
+      "value": 1
+    },
+    {
+      "source": "suggesting",
+      "target": "dating",
+      "value": 1
+    },
+    {
+      "source": "romans",
+      "target": "bones",
+      "value": 1
+    },
+    {
+      "source": "romans",
+      "target": "bronzes",
+      "value": 1
+    },
+    {
+      "source": "romans",
+      "target": "coins",
+      "value": 1
+    },
+    {
+      "source": "romans",
+      "target": "pottery",
+      "value": 1
+    },
+    {
+      "source": "romans",
+      "target": "dating",
+      "value": 1
+    },
+    {
+      "source": "disturbed",
+      "target": "bones",
+      "value": 1
+    },
+    {
+      "source": "disturbed",
+      "target": "bronzes",
+      "value": 1
+    },
+    {
+      "source": "disturbed",
+      "target": "coins",
+      "value": 1
+    },
+    {
+      "source": "disturbed",
+      "target": "pottery",
+      "value": 1
+    },
+    {
+      "source": "disturbed",
+      "target": "dating",
+      "value": 1
+    },
+    {
+      "source": "site",
+      "target": "bones",
+      "value": 1
+    },
+    {
+      "source": "site",
+      "target": "bronzes",
+      "value": 1
+    },
+    {
+      "source": "site",
+      "target": "coins",
+      "value": 1
+    },
+    {
+      "source": "site",
+      "target": "pottery",
+      "value": 1
+    },
+    {
+      "source": "site",
+      "target": "dating",
+      "value": 1
+    },
+    {
+      "source": "excavations",
+      "target": "bones",
+      "value": 1
+    },
+    {
+      "source": "excavations",
+      "target": "bronzes",
+      "value": 1
+    },
+    {
+      "source": "excavations",
+      "target": "coins",
+      "value": 1
+    },
+    {
+      "source": "excavations",
+      "target": "pottery",
+      "value": 1
+    },
+    {
+      "source": "excavations",
+      "target": "dating",
+      "value": 1
+    },
+    {
+      "source": "bronze",
+      "target": "bones",
+      "value": 1
+    },
+    {
+      "source": "bronze",
+      "target": "bronzes",
+      "value": 1
+    },
+    {
+      "source": "bronze",
+      "target": "coins",
+      "value": 1
+    },
+    {
+      "source": "bronze",
+      "target": "pottery",
+      "value": 1
+    },
+    {
+      "source": "bronze",
+      "target": "dating",
+      "value": 1
+    },
+    {
+      "source": "age",
+      "target": "bones",
+      "value": 1
+    },
+    {
+      "source": "age",
+      "target": "bronzes",
+      "value": 1
+    },
+    {
+      "source": "age",
+      "target": "coins",
+      "value": 1
+    },
+    {
+      "source": "age",
+      "target": "pottery",
+      "value": 1
+    },
+    {
+      "source": "age",
+      "target": "dating",
+      "value": 1
+    },
+    {
+      "source": "revealed",
+      "target": "bones",
+      "value": 1
+    },
+    {
+      "source": "revealed",
+      "target": "bronzes",
+      "value": 1
+    },
+    {
+      "source": "revealed",
+      "target": "coins",
+      "value": 1
+    },
+    {
+      "source": "revealed",
+      "target": "pottery",
+      "value": 1
+    },
+    {
+      "source": "revealed",
+      "target": "dating",
+      "value": 1
+    },
+    {
+      "source": "two flint knives",
+      "target": "bones",
+      "value": 1
+    },
+    {
+      "source": "two flint knives",
+      "target": "bronzes",
+      "value": 1
+    },
+    {
+      "source": "two flint knives",
+      "target": "coins",
+      "value": 1
+    },
+    {
+      "source": "two flint knives",
+      "target": "pottery",
+      "value": 1
+    },
+    {
+      "source": "two flint knives",
+      "target": "dating",
+      "value": 1
+    },
+    {
+      "source": "bronze razor",
+      "target": "bones",
+      "value": 1
+    },
+    {
+      "source": "bronze razor",
+      "target": "bronzes",
+      "value": 1
+    },
+    {
+      "source": "bronze razor",
+      "target": "coins",
+      "value": 1
+    },
+    {
+      "source": "bronze razor",
+      "target": "pottery",
+      "value": 1
+    },
+    {
+      "source": "bronze razor",
+      "target": "dating",
+      "value": 1
+    },
+    {
+      "source": "bone tool",
+      "target": "bones",
+      "value": 1
+    },
+    {
+      "source": "bone tool",
+      "target": "bronzes",
+      "value": 1
+    },
+    {
+      "source": "bone tool",
+      "target": "coins",
+      "value": 1
+    },
+    {
+      "source": "bone tool",
+      "target": "pottery",
+      "value": 1
+    },
+    {
+      "source": "bone tool",
+      "target": "dating",
+      "value": 1
+    }
+  ]
+}

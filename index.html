@@ -47,7 +47,7 @@
         <div id="info-content">
             <p>Pulling down the stones is a walking journal and data visualisation experiment, mapping the landmarks of the Old Stones pilgrimage - a three-day walk through the main neolithic monuments across the peak district - onto a 3D force-directed node graph. </p>
             <p> This force-directed graph algorithm operates on the proximity of words and phrases ('tokens') within a sentence, and the shared repetition of those tokens within the text input. Forces then mimic attraction and repulsion to represent the strength of their connections, like roads between towns. This algorithm helps to visually organize and reveal the underlying structure of complex networks. </p>
-            <p>Data scraped from web forums and my journal after completing this walk in April 2024. The desire was to see how the land looked mapped by writing, not topgraphy. </p>
+            <p>Data scraped from web forums and my journal after completing this walk in April 2024. The desire was to see how the land looked mapped by writing, not topography. </p>
             <p> Built using the JavaScript library Three.js. Best viewed on desktop. Click on a location on the left to change dataset to a different location on the walk. Pause and resume animation by buttons in top right. </p>        </div>
       </div>
     <div id="image-container">
@@ -59,13 +59,13 @@
             <img src="images/arborlowdataset.png" alt="Arbor Low" title="Arbor Low" onclick="changeDataset('arbor_low.json')">
         </div>
         <div class="dataset-option">
-            <img src="images/carlwarkdataset.jpg" alt="Carl Wark" title="Carl Wark" onclick="changeDataset('carl_wark.json')">
+            <img src="images/carlwarkdataset.jpg" alt="Carl Wark" title="Carl Wark" onclick="changeDataset('carl_wark2.json')">
         </div>
         <div class="dataset-option">
             <img src="images/nineladies.jpg" alt="Nine Ladies" title="Nine Ladies" onclick="changeDataset('nine_ladies.json')">
         </div>
         <div class="dataset-option">
-            <img src="images/minninglowhilldataset.png" alt="Minninglow Hill" title="Minninglow Hill" onclick="changeDataset('minninglow_dataset.json')">
+            <img src="images/minninglowhilldataset.png" alt="Minninglow Hill" title="Minninglow Hill" onclick="changeDataset('minninglowhill2.json')">
         </div>
         <div class="dataset-option">
             <img src="images/arbor_hillshade.jpg" alt="Full Dataset" alt="Default Dataset" title="Back to Full Dataset" onclick="changeDataset('narrative.json')">
@@ -139,9 +139,11 @@
                     node.fx = node.fy = node.fz = null; // unfix node
                 });
 
+                Graph.d3Force('charge').strength(-90);
+
             // Auto-orbit
             let angle = 0;
-            const distance = 300;
+            const distance = 350;
             let animationId;
 
             function animate() {

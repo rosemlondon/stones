@@ -1,0 +1,1226 @@
+{
+  "nodes": [
+    {
+      "id": "carl",
+      "group": 1
+    },
+    {
+      "id": "wark",
+      "group": 1
+    },
+    {
+      "id": "hillfort",
+      "group": 1
+    },
+    {
+      "id": "boundary",
+      "group": 1
+    },
+    {
+      "id": "sheffield",
+      "group": 1
+    },
+    {
+      "id": "shieling",
+      "group": 1
+    },
+    {
+      "id": "see",
+      "group": 1
+    },
+    {
+      "id": "getting",
+      "group": 1
+    },
+    {
+      "id": "promontory",
+      "group": 1
+    },
+    {
+      "id": "started",
+      "group": 1
+    },
+    {
+      "id": "perhaps",
+      "group": 1
+    },
+    {
+      "id": "thats",
+      "group": 1
+    },
+    {
+      "id": "intention",
+      "group": 1
+    },
+    {
+      "id": "feet",
+      "group": 1
+    },
+    {
+      "id": "hurting",
+      "group": 1
+    },
+    {
+      "id": "honest",
+      "group": 1
+    },
+    {
+      "id": "hungry",
+      "group": 1
+    },
+    {
+      "id": "sore",
+      "group": 1
+    },
+    {
+      "id": "dark",
+      "group": 1
+    },
+    {
+      "id": "late",
+      "group": 1
+    },
+    {
+      "id": "burbage",
+      "group": 1
+    },
+    {
+      "id": "brook",
+      "group": 1
+    },
+    {
+      "id": "runs",
+      "group": 1
+    },
+    {
+      "id": "noiseless",
+      "group": 1
+    },
+    {
+      "id": "patient",
+      "group": 1
+    },
+    {
+      "id": "spider",
+      "group": 1
+    },
+    {
+      "id": "little",
+      "group": 1
+    },
+    {
+      "id": "stood",
+      "group": 1
+    },
+    {
+      "id": "isolated",
+      "group": 1
+    },
+    {
+      "id": "explore",
+      "group": 1
+    },
+    {
+      "id": "vacant",
+      "group": 1
+    },
+    {
+      "id": "vast",
+      "group": 1
+    },
+    {
+      "id": "surrounding",
+      "group": 1
+    },
+    {
+      "id": "unreeling",
+      "group": 1
+    },
+    {
+      "id": "Winyards Nick",
+      "group": 1
+    },
+    {
+      "id": "Over Owler",
+      "group": 1
+    },
+    {
+      "id": "tor",
+      "group": 1
+    },
+    {
+      "id": "fortifications",
+      "group": 1
+    },
+    {
+      "id": "built",
+      "group": 1
+    },
+    {
+      "id": "using",
+      "group": 1
+    },
+    {
+      "id": "stones",
+      "group": 1
+    },
+    {
+      "id": "human",
+      "group": 1
+    },
+    {
+      "id": "hands",
+      "group": 1
+    },
+    {
+      "id": "evidence",
+      "group": 1
+    },
+    {
+      "id": "settlement",
+      "group": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "carl",
+      "target": "wark",
+      "value": 1
+    },
+    {
+      "source": "carl",
+      "target": "hillfort",
+      "value": 1
+    },
+    {
+      "source": "carl",
+      "target": "boundary",
+      "value": 1
+    },
+    {
+      "source": "carl",
+      "target": "sheffield",
+      "value": 1
+    },
+    {
+      "source": "wark",
+      "target": "carl",
+      "value": 1
+    },
+    {
+      "source": "wark",
+      "target": "hillfort",
+      "value": 1
+    },
+    {
+      "source": "wark",
+      "target": "boundary",
+      "value": 1
+    },
+    {
+      "source": "wark",
+      "target": "sheffield",
+      "value": 1
+    },
+    {
+      "source": "hillfort",
+      "target": "carl",
+      "value": 1
+    },
+    {
+      "source": "hillfort",
+      "target": "wark",
+      "value": 1
+    },
+    {
+      "source": "hillfort",
+      "target": "boundary",
+      "value": 1
+    },
+    {
+      "source": "hillfort",
+      "target": "sheffield",
+      "value": 1
+    },
+    {
+      "source": "boundary",
+      "target": "carl",
+      "value": 1
+    },
+    {
+      "source": "boundary",
+      "target": "wark",
+      "value": 1
+    },
+    {
+      "source": "boundary",
+      "target": "hillfort",
+      "value": 1
+    },
+    {
+      "source": "boundary",
+      "target": "sheffield",
+      "value": 1
+    },
+    {
+      "source": "sheffield",
+      "target": "shieling",
+      "value": 2
+    },
+    {
+      "source": "sheffield",
+      "target": "carl",
+      "value": 1
+    },
+    {
+      "source": "sheffield",
+      "target": "wark",
+      "value": 1
+    },
+    {
+      "source": "sheffield",
+      "target": "hillfort",
+      "value": 1
+    },
+    {
+      "source": "sheffield",
+      "target": "boundary",
+      "value": 1
+    },
+    {
+      "source": "see",
+      "target": "getting",
+      "value": 2
+    },
+    {
+      "source": "see",
+      "target": "promontory",
+      "value": 2
+    },
+    {
+      "source": "see",
+      "target": "started",
+      "value": 1
+    },
+    {
+      "source": "see",
+      "target": "perhaps",
+      "value": 1
+    },
+    {
+      "source": "see",
+      "target": "thats",
+      "value": 1
+    },
+    {
+      "source": "started",
+      "target": "getting",
+      "value": 2
+    },
+    {
+      "source": "started",
+      "target": "promontory",
+      "value": 2
+    },
+    {
+      "source": "started",
+      "target": "see",
+      "value": 1
+    },
+    {
+      "source": "started",
+      "target": "perhaps",
+      "value": 1
+    },
+    {
+      "source": "started",
+      "target": "thats",
+      "value": 1
+    },
+    {
+      "source": "perhaps",
+      "target": "getting",
+      "value": 2
+    },
+    {
+      "source": "perhaps",
+      "target": "promontory",
+      "value": 2
+    },
+    {
+      "source": "perhaps",
+      "target": "see",
+      "value": 1
+    },
+    {
+      "source": "perhaps",
+      "target": "started",
+      "value": 1
+    },
+    {
+      "source": "perhaps",
+      "target": "thats",
+      "value": 1
+    },
+    {
+      "source": "thats",
+      "target": "getting",
+      "value": 2
+    },
+    {
+      "source": "thats",
+      "target": "promontory",
+      "value": 2
+    },
+    {
+      "source": "thats",
+      "target": "see",
+      "value": 1
+    },
+    {
+      "source": "thats",
+      "target": "started",
+      "value": 1
+    },
+    {
+      "source": "thats",
+      "target": "perhaps",
+      "value": 1
+    },
+    {
+      "source": "intention",
+      "target": "getting",
+      "value": 2
+    },
+    {
+      "source": "intention",
+      "target": "promontory",
+      "value": 2
+    },
+    {
+      "source": "intention",
+      "target": "see",
+      "value": 1
+    },
+    {
+      "source": "intention",
+      "target": "started",
+      "value": 1
+    },
+    {
+      "source": "intention",
+      "target": "perhaps",
+      "value": 1
+    },
+    {
+      "source": "feet",
+      "target": "getting",
+      "value": 2
+    },
+    {
+      "source": "feet",
+      "target": "promontory",
+      "value": 2
+    },
+    {
+      "source": "feet",
+      "target": "see",
+      "value": 1
+    },
+    {
+      "source": "feet",
+      "target": "started",
+      "value": 1
+    },
+    {
+      "source": "feet",
+      "target": "perhaps",
+      "value": 1
+    },
+    {
+      "source": "hurting",
+      "target": "getting",
+      "value": 2
+    },
+    {
+      "source": "hurting",
+      "target": "promontory",
+      "value": 2
+    },
+    {
+      "source": "hurting",
+      "target": "see",
+      "value": 1
+    },
+    {
+      "source": "hurting",
+      "target": "started",
+      "value": 1
+    },
+    {
+      "source": "hurting",
+      "target": "perhaps",
+      "value": 1
+    },
+    {
+      "source": "honest",
+      "target": "getting",
+      "value": 2
+    },
+    {
+      "source": "honest",
+      "target": "promontory",
+      "value": 2
+    },
+    {
+      "source": "honest",
+      "target": "see",
+      "value": 1
+    },
+    {
+      "source": "honest",
+      "target": "started",
+      "value": 1
+    },
+    {
+      "source": "honest",
+      "target": "perhaps",
+      "value": 1
+    },
+    {
+      "source": "hungry",
+      "target": "getting",
+      "value": 2
+    },
+    {
+      "source": "hungry",
+      "target": "promontory",
+      "value": 2
+    },
+    {
+      "source": "hungry",
+      "target": "see",
+      "value": 1
+    },
+    {
+      "source": "hungry",
+      "target": "started",
+      "value": 1
+    },
+    {
+      "source": "hungry",
+      "target": "perhaps",
+      "value": 1
+    },
+    {
+      "source": "sore",
+      "target": "getting",
+      "value": 2
+    },
+    {
+      "source": "sore",
+      "target": "promontory",
+      "value": 2
+    },
+    {
+      "source": "sore",
+      "target": "see",
+      "value": 1
+    },
+    {
+      "source": "sore",
+      "target": "started",
+      "value": 1
+    },
+    {
+      "source": "sore",
+      "target": "perhaps",
+      "value": 1
+    },
+    {
+      "source": "getting",
+      "target": "promontory",
+      "value": 4
+    },
+    {
+      "source": "getting",
+      "target": "see",
+      "value": 2
+    },
+    {
+      "source": "getting",
+      "target": "started",
+      "value": 2
+    },
+    {
+      "source": "getting",
+      "target": "perhaps",
+      "value": 2
+    },
+    {
+      "source": "getting",
+      "target": "thats",
+      "value": 2
+    },
+    {
+      "source": "dark",
+      "target": "getting",
+      "value": 2
+    },
+    {
+      "source": "dark",
+      "target": "promontory",
+      "value": 2
+    },
+    {
+      "source": "dark",
+      "target": "see",
+      "value": 1
+    },
+    {
+      "source": "dark",
+      "target": "started",
+      "value": 1
+    },
+    {
+      "source": "dark",
+      "target": "perhaps",
+      "value": 1
+    },
+    {
+      "source": "late",
+      "target": "getting",
+      "value": 2
+    },
+    {
+      "source": "late",
+      "target": "promontory",
+      "value": 2
+    },
+    {
+      "source": "late",
+      "target": "see",
+      "value": 1
+    },
+    {
+      "source": "late",
+      "target": "started",
+      "value": 1
+    },
+    {
+      "source": "late",
+      "target": "perhaps",
+      "value": 1
+    },
+    {
+      "source": "burbage",
+      "target": "getting",
+      "value": 2
+    },
+    {
+      "source": "burbage",
+      "target": "promontory",
+      "value": 2
+    },
+    {
+      "source": "burbage",
+      "target": "see",
+      "value": 1
+    },
+    {
+      "source": "burbage",
+      "target": "started",
+      "value": 1
+    },
+    {
+      "source": "burbage",
+      "target": "perhaps",
+      "value": 1
+    },
+    {
+      "source": "brook",
+      "target": "getting",
+      "value": 2
+    },
+    {
+      "source": "brook",
+      "target": "promontory",
+      "value": 2
+    },
+    {
+      "source": "brook",
+      "target": "see",
+      "value": 1
+    },
+    {
+      "source": "brook",
+      "target": "started",
+      "value": 1
+    },
+    {
+      "source": "brook",
+      "target": "perhaps",
+      "value": 1
+    },
+    {
+      "source": "runs",
+      "target": "getting",
+      "value": 2
+    },
+    {
+      "source": "runs",
+      "target": "promontory",
+      "value": 2
+    },
+    {
+      "source": "runs",
+      "target": "see",
+      "value": 1
+    },
+    {
+      "source": "runs",
+      "target": "started",
+      "value": 1
+    },
+    {
+      "source": "runs",
+      "target": "perhaps",
+      "value": 1
+    },
+    {
+      "source": "promontory",
+      "target": "getting",
+      "value": 4
+    },
+    {
+      "source": "promontory",
+      "target": "see",
+      "value": 2
+    },
+    {
+      "source": "promontory",
+      "target": "started",
+      "value": 2
+    },
+    {
+      "source": "promontory",
+      "target": "perhaps",
+      "value": 2
+    },
+    {
+      "source": "promontory",
+      "target": "thats",
+      "value": 2
+    },
+    {
+      "source": "noiseless",
+      "target": "getting",
+      "value": 2
+    },
+    {
+      "source": "noiseless",
+      "target": "promontory",
+      "value": 2
+    },
+    {
+      "source": "noiseless",
+      "target": "see",
+      "value": 1
+    },
+    {
+      "source": "noiseless",
+      "target": "started",
+      "value": 1
+    },
+    {
+      "source": "noiseless",
+      "target": "perhaps",
+      "value": 1
+    },
+    {
+      "source": "patient",
+      "target": "getting",
+      "value": 2
+    },
+    {
+      "source": "patient",
+      "target": "promontory",
+      "value": 2
+    },
+    {
+      "source": "patient",
+      "target": "see",
+      "value": 1
+    },
+    {
+      "source": "patient",
+      "target": "started",
+      "value": 1
+    },
+    {
+      "source": "patient",
+      "target": "perhaps",
+      "value": 1
+    },
+    {
+      "source": "spider",
+      "target": "getting",
+      "value": 2
+    },
+    {
+      "source": "spider",
+      "target": "promontory",
+      "value": 2
+    },
+    {
+      "source": "spider",
+      "target": "see",
+      "value": 1
+    },
+    {
+      "source": "spider",
+      "target": "started",
+      "value": 1
+    },
+    {
+      "source": "spider",
+      "target": "perhaps",
+      "value": 1
+    },
+    {
+      "source": "little",
+      "target": "getting",
+      "value": 2
+    },
+    {
+      "source": "little",
+      "target": "promontory",
+      "value": 2
+    },
+    {
+      "source": "little",
+      "target": "see",
+      "value": 1
+    },
+    {
+      "source": "little",
+      "target": "started",
+      "value": 1
+    },
+    {
+      "source": "little",
+      "target": "perhaps",
+      "value": 1
+    },
+    {
+      "source": "stood",
+      "target": "getting",
+      "value": 2
+    },
+    {
+      "source": "stood",
+      "target": "promontory",
+      "value": 2
+    },
+    {
+      "source": "stood",
+      "target": "see",
+      "value": 1
+    },
+    {
+      "source": "stood",
+      "target": "started",
+      "value": 1
+    },
+    {
+      "source": "stood",
+      "target": "perhaps",
+      "value": 1
+    },
+    {
+      "source": "isolated",
+      "target": "getting",
+      "value": 2
+    },
+    {
+      "source": "isolated",
+      "target": "promontory",
+      "value": 2
+    },
+    {
+      "source": "isolated",
+      "target": "see",
+      "value": 1
+    },
+    {
+      "source": "isolated",
+      "target": "started",
+      "value": 1
+    },
+    {
+      "source": "isolated",
+      "target": "perhaps",
+      "value": 1
+    },
+    {
+      "source": "explore",
+      "target": "getting",
+      "value": 2
+    },
+    {
+      "source": "explore",
+      "target": "promontory",
+      "value": 2
+    },
+    {
+      "source": "explore",
+      "target": "see",
+      "value": 1
+    },
+    {
+      "source": "explore",
+      "target": "started",
+      "value": 1
+    },
+    {
+      "source": "explore",
+      "target": "perhaps",
+      "value": 1
+    },
+    {
+      "source": "vacant",
+      "target": "getting",
+      "value": 2
+    },
+    {
+      "source": "vacant",
+      "target": "promontory",
+      "value": 2
+    },
+    {
+      "source": "vacant",
+      "target": "see",
+      "value": 1
+    },
+    {
+      "source": "vacant",
+      "target": "started",
+      "value": 1
+    },
+    {
+      "source": "vacant",
+      "target": "perhaps",
+      "value": 1
+    },
+    {
+      "source": "vast",
+      "target": "getting",
+      "value": 2
+    },
+    {
+      "source": "vast",
+      "target": "promontory",
+      "value": 2
+    },
+    {
+      "source": "vast",
+      "target": "see",
+      "value": 1
+    },
+    {
+      "source": "vast",
+      "target": "started",
+      "value": 1
+    },
+    {
+      "source": "vast",
+      "target": "perhaps",
+      "value": 1
+    },
+    {
+      "source": "surrounding",
+      "target": "getting",
+      "value": 2
+    },
+    {
+      "source": "surrounding",
+      "target": "promontory",
+      "value": 2
+    },
+    {
+      "source": "surrounding",
+      "target": "see",
+      "value": 1
+    },
+    {
+      "source": "surrounding",
+      "target": "started",
+      "value": 1
+    },
+    {
+      "source": "surrounding",
+      "target": "perhaps",
+      "value": 1
+    },
+    {
+      "source": "unreeling",
+      "target": "getting",
+      "value": 2
+    },
+    {
+      "source": "unreeling",
+      "target": "promontory",
+      "value": 2
+    },
+    {
+      "source": "unreeling",
+      "target": "see",
+      "value": 1
+    },
+    {
+      "source": "unreeling",
+      "target": "started",
+      "value": 1
+    },
+    {
+      "source": "unreeling",
+      "target": "perhaps",
+      "value": 1
+    },
+    {
+      "source": "Winyards Nick",
+      "target": "Over Owler",
+      "value": 1
+    },
+    {
+      "source": "Winyards Nick",
+      "target": "tor",
+      "value": 1
+    },
+    {
+      "source": "Over Owler",
+      "target": "Winyards Nick",
+      "value": 1
+    },
+    {
+      "source": "Over Owler",
+      "target": "tor",
+      "value": 1
+    },
+    {
+      "source": "tor",
+      "target": "Winyards Nick",
+      "value": 1
+    },
+    {
+      "source": "tor",
+      "target": "Over Owler",
+      "value": 1
+    },
+    {
+      "source": "fortifications",
+      "target": "shieling",
+      "value": 2
+    },
+    {
+      "source": "fortifications",
+      "target": "sheffield",
+      "value": 1
+    },
+    {
+      "source": "fortifications",
+      "target": "built",
+      "value": 1
+    },
+    {
+      "source": "fortifications",
+      "target": "using",
+      "value": 1
+    },
+    {
+      "source": "fortifications",
+      "target": "stones",
+      "value": 1
+    },
+    {
+      "source": "shieling",
+      "target": "fortifications",
+      "value": 2
+    },
+    {
+      "source": "shieling",
+      "target": "shieling",
+      "value": 2
+    },
+    {
+      "source": "shieling",
+      "target": "sheffield",
+      "value": 2
+    },
+    {
+      "source": "shieling",
+      "target": "built",
+      "value": 2
+    },
+    {
+      "source": "shieling",
+      "target": "using",
+      "value": 2
+    },
+    {
+      "source": "built",
+      "target": "shieling",
+      "value": 2
+    },
+    {
+      "source": "built",
+      "target": "fortifications",
+      "value": 1
+    },
+    {
+      "source": "built",
+      "target": "sheffield",
+      "value": 1
+    },
+    {
+      "source": "built",
+      "target": "using",
+      "value": 1
+    },
+    {
+      "source": "built",
+      "target": "stones",
+      "value": 1
+    },
+    {
+      "source": "using",
+      "target": "shieling",
+      "value": 2
+    },
+    {
+      "source": "using",
+      "target": "fortifications",
+      "value": 1
+    },
+    {
+      "source": "using",
+      "target": "sheffield",
+      "value": 1
+    },
+    {
+      "source": "using",
+      "target": "built",
+      "value": 1
+    },
+    {
+      "source": "using",
+      "target": "stones",
+      "value": 1
+    },
+    {
+      "source": "stones",
+      "target": "shieling",
+      "value": 2
+    },
+    {
+      "source": "stones",
+      "target": "fortifications",
+      "value": 1
+    },
+    {
+      "source": "stones",
+      "target": "sheffield",
+      "value": 1
+    },
+    {
+      "source": "stones",
+      "target": "built",
+      "value": 1
+    },
+    {
+      "source": "stones",
+      "target": "using",
+      "value": 1
+    },
+    {
+      "source": "human",
+      "target": "shieling",
+      "value": 2
+    },
+    {
+      "source": "human",
+      "target": "fortifications",
+      "value": 1
+    },
+    {
+      "source": "human",
+      "target": "sheffield",
+      "value": 1
+    },
+    {
+      "source": "human",
+      "target": "built",
+      "value": 1
+    },
+    {
+      "source": "human",
+      "target": "using",
+      "value": 1
+    },
+    {
+      "source": "hands",
+      "target": "shieling",
+      "value": 2
+    },
+    {
+      "source": "hands",
+      "target": "fortifications",
+      "value": 1
+    },
+    {
+      "source": "hands",
+      "target": "sheffield",
+      "value": 1
+    },
+    {
+      "source": "hands",
+      "target": "built",
+      "value": 1
+    },
+    {
+      "source": "hands",
+      "target": "using",
+      "value": 1
+    },
+    {
+      "source": "evidence",
+      "target": "settlement",
+      "value": 1
+    },
+    {
+      "source": "settlement",
+      "target": "evidence",
+      "value": 1
+    },
+        {
+      "source": "settlement",
+      "target": "promontory",
+      "value": 1
+    },
+    {
+      "source": "promontory",
+      "target": "fortifications",
+      "value": 1
+    },
+    {
+      "source": "tor",
+      "target": "vacant",
+      "value": 1
+    },
+    {
+      "source": "vacant",
+      "target": "tor",
+      "value": 1
+    }
+  ]
+}
